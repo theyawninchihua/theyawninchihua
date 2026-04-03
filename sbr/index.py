@@ -77,12 +77,14 @@ def main():
     html = f"""<!DOCTYPE html>
 <html>
     <head>
+    <font face="Helvetica">
         <title>Rear Seat Belt Reminder Evaluation | The Yawning Chihuahua</title>
         <center>
             <img src="../theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
             <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/sbr">Seat belt reminder evaluation</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a> | <a href="https://gobarncrap.wixsite.com/gobar-ncrap/blog">Legacy website</a>
         </center>
+    </font>
     </head>
     <body>
     <font face="Helvetica">
