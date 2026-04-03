@@ -63,7 +63,7 @@ def main():
             entries.append(parse_file(path))
 
     # Sort by date descending (newest first)
-    entries.sort(key=lambda x: x["date"], reverse=True)
+    entries.sort(key=lambda x: (x["date"], x["filename"]), reverse=True)
 
     # Build list HTML
     lines = []
