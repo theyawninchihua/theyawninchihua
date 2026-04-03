@@ -77,7 +77,7 @@ def main():
     html = f"""<!DOCTYPE html>
 <html>
     <head>
-        <title>Home | The Yawning Chihuahua</title>
+        <title>Seat Belt Reminder Evaluation | The Yawning Chihuahua</title>
         <center>
             <img src="../theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
@@ -87,6 +87,39 @@ def main():
     <body>
         <b>Seat Belt Reminder Evaluations</b><br><br>
         {list_html}<br><br>
+
+        <b>About the Seat Belt Reminder Evaluations</b><br>
+        The guiding principle behind the evaluation is that an effective rear seat belt reminder should <b>never</b> activate when a seat is unoccupied, and <b>must</b> activate if an occupied seat's belt is not fastened. Neither of these is required by forthcoming legislation, which only requires that the reminder signals activate when a belt is fastened and then unfastened <i>at least</i> on occupied seats.<br><br>
+        In the Seat Belt Reminder Evaluations I perform desktop assessment to estimate how the second-level audio and visual signals for the 2nd-row outboard seats would behave in 4 scenarios. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
+        <font face="Courier New" color="green">
+            +------------------------------------------------------------------------------+<br>
+            | <b>PASS</b> requirements in TYC Seat Belt Reminder Evaluations--------------------- |<br>
+            +-----------------------------------------------+--------------+---------------+<br>
+            | 2nd row outboard seat belt reminder---------- | audio signal | visual signal |<br>
+            | (second level warning only)------------------ | ------------ | ------------- |<br>
+            +-----------------------------------------------+--------------+---------------+<br>
+            | belt is not fastened on an empty seat-------- | ----<font color="green"><b>NO-</b></font>----- | -----<font color="green"><b>NO-</b></font>----- |<br>
+            | belt changes to unfastened on an empty seat-- | ----<font color="green"><b>NO-</b></font>----- | -----<font color="green"><b>NO-</b></font>----- |<br>
+            | belt is not fastened on an occupied seat----- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
+            | belt changes to unfastened on occupied seat-- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
+            +-----------------------------------------------+--------------+---------------+<br>
+        </font><br>
+
+        <font face="Courier New" color="red">
+            +------------------------------------------------------------------------------+<br>
+            | Behaviour requirement in forthcoming government regulation AIS-145 Amd 6---- |<br>
+            +-----------------------------------------------+--------------+---------------+<br>
+            | All fixed rear seats' belt reminders--------- | audio signal | visual signal |<br>
+            | (second level warning)----------------------- | ------------ | ------------- |<br>
+            +-----------------------------------------------+--------------+---------------+<br>
+            | belt is not fastened on an empty seat-------- | ----<font color="red"><b>ANY</b></font>----- | -----<font color="red"><b>ANY</b></font>----- |<br>
+            | belt changes to unfastened on an empty seat-- | ----<font color="red"><b>ANY</b></font>----- | -----<font color="red"><b>ANY</b></font>----- |<br>
+            | belt is not fastened on an occupied seat----- | ----<font color="red"><b>ANY</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
+            | belt changes to unfastened on occupied seat-- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
+            +-----------------------------------------------+--------------+---------------+<br>
+        </font><br>
+
+        It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Seat Belt Reminder Evaluation is also <b>not</b> assessing the volume, duration, period or position of the seat belt reminder.<br><br>
 
         <a href="../index.html">click to go back home</a>
     </body>
