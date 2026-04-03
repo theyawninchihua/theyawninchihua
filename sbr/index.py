@@ -77,7 +77,7 @@ def main():
     html = f"""<!DOCTYPE html>
 <html>
     <head>
-        <title>Seat Belt Reminder Evaluation | The Yawning Chihuahua</title>
+        <title>Rear Seat Belt Reminder Evaluation | The Yawning Chihuahua</title>
         <center>
             <img src="../theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
@@ -85,12 +85,12 @@ def main():
         </center>
     </head>
     <body>
-        <b>Seat Belt Reminder Evaluations</b><br><br>
+        <b>Rear Seat Belt Reminder Evaluations</b><br><br>
         {list_html}<br><br>
 
-        <b>About the Seat Belt Reminder Evaluations</b><br>
+        <b>About the Rear Seat Belt Reminder Evaluations</b><br>
         The guiding principle behind the evaluation is that an effective rear seat belt reminder should <b>never</b> activate when a seat is unoccupied, and <b>must</b> activate if an occupied seat's belt is not fastened. Neither of these is required by forthcoming legislation, which only requires that the reminder signals activate when a belt is fastened and then unfastened <i>at least</i> on occupied seats.<br><br>
-        In the Seat Belt Reminder Evaluations I perform desktop assessment to estimate how the second-level audio and visual signals for the 2nd-row outboard seats would behave in 4 scenarios. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
+        In the Seat Belt Reminder Evaluations I perform a best-effort desktop assessment to estimate how the rear seat belt reminder would behave in 4 scenarios. After interpreting this information I award a PASS/FAIL result to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
         <font face="Courier New" color="green">
             +------------------------------------------------------------------------------+<br>
             | <b>PASS</b> requirements in TYC Seat Belt Reminder Evaluations--------------------- |<br>
@@ -104,6 +104,8 @@ def main():
             | belt changes to unfastened on occupied seat-- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
             +-----------------------------------------------+--------------+---------------+<br>
         </font><br>
+
+        The above requirements go above and beyond basic legislative requirements, which are detailed below:<br>
 
         <font face="Courier New" color="red">
             +------------------------------------------------------------------------------+<br>
