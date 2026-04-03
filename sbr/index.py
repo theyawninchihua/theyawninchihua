@@ -85,6 +85,7 @@ def main():
         </center>
     </head>
     <body>
+    <font face="Helvetica">
         <b>Rear Seat Belt Reminder Evaluations</b><br><br>
         {list_html}<br><br>
 
@@ -124,6 +125,7 @@ def main():
         It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Seat Belt Reminder Evaluation is also <b>not</b> assessing the volume, duration, period or position of the seat belt reminder.<br><br>
 
         <a href="../index.html">click to go back home</a>
+    </font>
     </body>
 </html>
 """
