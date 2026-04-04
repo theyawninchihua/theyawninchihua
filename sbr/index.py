@@ -88,7 +88,7 @@ def main():
     </head>
     <body>
     <font face="Helvetica">
-        <b>Rear Seat Belt Reminder Evaluations</b><br><br>
+        <h2>Rear Seat Belt Reminder Evaluations</h2>
         {list_html}<br><br>
 
         <b>About the Rear Seat Belt Reminder Evaluations</b><br>
