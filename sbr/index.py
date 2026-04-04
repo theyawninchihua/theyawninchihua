@@ -77,7 +77,7 @@ def main():
     html = f"""<!DOCTYPE html>
 <html>
     <head>
-    <font face="Helvetica">
+    <font face="Verdana">
         <title>Rear Seat Belt Reminder Evaluation | The Yawning Chihuahua</title>
         <center>
             <img src="../theyawninchihua.png" width="45"><br>
@@ -87,7 +87,7 @@ def main():
     </font>
     </head>
     <body>
-    <font face="Helvetica">
+    <font face="Verdana">
         <h2>Rear Seat Belt Reminder Evaluations</h2>
         {list_html}<br><br>
 
