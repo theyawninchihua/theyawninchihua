@@ -78,27 +78,27 @@ def main():
 <html>
     <head>
     <font face="Verdana">
-        <title>2026 Rear Seat Belt Reminder Evaluations | The Yawning Chihuahua</title>
+        <title>2026 Rear Seatbelt Reminder Evaluations | The Yawning Chihuahua</title>
         <center>
             <img src="../theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
-            <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/sbr">Seat belt reminder evaluation</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a> | <a href="https://gobarncrap.wixsite.com/gobar-ncrap/blog">Legacy website</a>
+            <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/sbr">Seatbelt reminder evaluation</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a> | <a href="https://gobarncrap.wixsite.com/gobar-ncrap/blog">Legacy website</a>
         </center>
     </font>
     </head>
     <body>
     <font face="Verdana">
-        <h2>2026 Rear Seat Belt Reminder Evaluations</h2>
+        <h2>2026 Rear Seatbelt Reminder Evaluations</h2>
         {list_html}<br><br>
 
-        <b>About the Rear Seat Belt Reminder Evaluations</b><br>
-        The guiding principle behind the evaluation is that an effective rear seat belt reminder should <b>never</b> activate when a seat is unoccupied, and <b>must</b> activate if an occupied seat's belt is not fastened. Neither of these is required by forthcoming legislation, which only requires that the reminder signals activate when a belt is fastened and then unfastened <i>at least</i> on occupied seats.<br><br>
-        In the Seat Belt Reminder Evaluations I perform a best-effort desktop assessment to estimate how the rear seat belt reminder would behave in 4 scenarios. After interpreting this information I award a PASS/FAIL result to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
+        <b>About the Rear Seatbelt Reminder Evaluations</b><br>
+        The guiding principle behind the evaluation is that an effective rear seatbelt reminder should <b>never</b> activate when a seat is unoccupied, and <b>must</b> activate if an occupied seat's belt is not fastened. Neither of these is required by forthcoming legislation, which only requires that the reminder signals activate when a belt is fastened and then unfastened <i>at least</i> on occupied seats.<br><br>
+        In the Seatbelt Reminder Evaluations I perform a best-effort desktop assessment to estimate how the rear seatbelt reminder would behave in 4 scenarios. After interpreting this information I award a PASS/FAIL result to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
         <font face="Courier New" color="green">
             +------------------------------------------------------------------------------+<br>
-            | <b>PASS</b> requirements in TYC Seat Belt Reminder Evaluations--------------------- |<br>
+            | <b>PASS</b> requirements in TYC Seatbelt Reminder Evaluations--------------------- |<br>
             +-----------------------------------------------+--------------+---------------+<br>
-            | 2nd row outboard seat belt reminder---------- | audio signal | visual signal |<br>
+            | 2nd row outboard seatbelt reminder----------- | audio signal | visual signal |<br>
             | (second level warning only)------------------ | ------------ | ------------- |<br>
             +-----------------------------------------------+--------------+---------------+<br>
             | belt is not fastened on an empty seat-------- | ----<font color="green"><b>NO-</b></font>----- | -----<font color="green"><b>NO-</b></font>----- |<br>
@@ -123,13 +123,13 @@ def main():
             +-----------------------------------------------+--------------+---------------+<br>
         </font><br>
 
-        It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Seat Belt Reminder Evaluation is also <b>not</b> assessing the volume, duration, period or position of the seat belt reminder.<br><br>
+        It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Seatbelt Reminder Evaluation is also <b>not</b> assessing the volume, duration, period or position of the seatbelt reminder.<br><br>
 
         <h3>Vehicle Selection</h3>
-        A vehicle will only be evaluated under the 2026 Rear Seat Belt Reminder Evaluatons if it meets <b>at least one</b> of the following criteria:<br>
+        A vehicle will only be evaluated under the 2026 Rear Seatbelt Reminder Evaluatons if it meets <b>at least one</b> of the following criteria:<br>
         <ul>
             <li> never assessed under the <a href="https://bit.ly/gobargrades2025">2025 Gobar Grades</a> from defunct project Gobar NCRAP<br>
-            <li> significantly updated since last evaluated here or in the 2025 Gobar Grades. Updates considered significant include, but are not limited to: facelifts, generation changes, and changes in seat belt reminder behaviour in any variant<br>
+            <li> significantly updated since last evaluated here or in the 2025 Gobar Grades. Updates considered significant include, but are not limited to: facelifts, generation changes, and changes in seatbelt reminder behaviour in any variant<br>
             <li> if it is discovered that an error was made when the vehicle was last evaluated here or in the 2025 Gobar Grades<br>
         </ul><br>
 
