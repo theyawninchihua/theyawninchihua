@@ -78,7 +78,7 @@ def main():
 <html>
     <head>
     <font face="Verdana">
-        <title>Rear Seat Belt Reminder Evaluation | The Yawning Chihuahua</title>
+        <title>2026 Rear Seat Belt Reminder Evaluations | The Yawning Chihuahua</title>
         <center>
             <img src="../theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
@@ -88,7 +88,7 @@ def main():
     </head>
     <body>
     <font face="Verdana">
-        <h2>Rear Seat Belt Reminder Evaluations</h2>
+        <h2>2026 Rear Seat Belt Reminder Evaluations</h2>
         {list_html}<br><br>
 
         <b>About the Rear Seat Belt Reminder Evaluations</b><br>
@@ -124,6 +124,18 @@ def main():
         </font><br>
 
         It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Seat Belt Reminder Evaluation is also <b>not</b> assessing the volume, duration, period or position of the seat belt reminder.<br><br>
+
+        <h3>Vehicle Selection</h3>
+        A vehicle will only be evaluated under the 2026 Rear Seat Belt Reminder Evaluatons if it meets <b>at least one</b> of the following criteria:<br>
+        <ul>
+            <li> never assessed under the <a href="https://bit.ly/gobargrades2025">2025 Gobar Grades</a> from defunct project Gobar NCRAP<br>
+            <li> significantly updated since last evaluated here or in the 2025 Gobar Grades. Updates considered significant include, but are not limited to: facelifts, generation changes, and changes in seat belt reminder behaviour in any variant<br>
+            <li> if it is discovered that an error was made when the vehicle was last evaluated here or in the 2025 Gobar Grades<br>
+        </ul><br>
+
+        <h3>Error Policy</h3>
+        I strive to present the most accurate information possible; however, this being a desktop assessment, errors are bound to happen from time to time. The author does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life.<br><br>
+        To improve information quality and accountability, I am adopting a policy of <b>only evaluating vehicles based on official material on the manufacturer's India website (documentation or communications)</b>. Unlike the 2025 Gobar Grades, foreign-market documentation, PR communications, real-world test drives, and inference based on reviews will no longer be accepted.<br><br>
 
         <a href="../index.html">click to go back home</a>
     </font>
