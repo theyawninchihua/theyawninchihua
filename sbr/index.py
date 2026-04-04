@@ -96,7 +96,7 @@ def main():
         In the Seatbelt Reminder Evaluations I perform a best-effort desktop assessment to estimate how the rear seatbelt reminder would behave in 4 scenarios. After interpreting this information I award a PASS/FAIL result to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
         <font face="Courier New" color="green">
             +------------------------------------------------------------------------------+<br>
-            | <b>PASS</b> requirements in TYC Seatbelt Reminder Evaluations--------------------- |<br>
+            | <b>PASS</b> requirements in TYC Seatbelt Reminder Evaluations---------------------- |<br>
             +-----------------------------------------------+--------------+---------------+<br>
             | 2nd row outboard seatbelt reminder----------- | audio signal | visual signal |<br>
             | (second level warning only)------------------ | ------------ | ------------- |<br>
