@@ -89,11 +89,11 @@ def main():
     <body>
     <font face="Verdana">
         <h2>2026 Rear Seatbelt Reminder Evaluations</h2>
-        {list_html}<br><br>
+        {list_html}<br>
+        <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
 
-        <b>About the Rear Seatbelt Reminder Evaluations</b><br>
-        The guiding principle behind the evaluation is that an effective rear seatbelt reminder should <b>never</b> activate when a seat is unoccupied, and <b>must</b> activate if an occupied seat's belt is not fastened. Neither of these is required by forthcoming legislation, which only requires that the reminder signals activate when a belt is fastened and then unfastened <i>at least</i> on occupied seats.<br><br>
-        In the Seatbelt Reminder Evaluations I perform a best-effort desktop assessment to estimate how the rear seatbelt reminder would behave in 4 scenarios. After interpreting this information I award a PASS/FAIL result to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
+        <h3>About the Rear Seatbelt Reminder Evaluations</h3>
+        In the Rear Seatbelt Reminder Evaluations a best-effort desktop assessment is made to estimate how the rear seatbelt reminder would behave in 4 scenarios. After interpreting this information a PASS/FAIL result is awarded to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
         <font face="Courier New" color="green">
             +------------------------------------------------------------------------------+<br>
             | <b>PASS</b> requirements in TYC Seatbelt Reminder Evaluations---------------------- |<br>
@@ -101,8 +101,8 @@ def main():
             | 2nd row outboard seatbelt reminder----------- | audio signal | visual signal |<br>
             | (second level warning only)------------------ | ------------ | ------------- |<br>
             +-----------------------------------------------+--------------+---------------+<br>
-            | belt is not fastened on an empty seat-------- | ----<font color="green"><b>NO-</b></font>----- | -----<font color="green"><b>NO-</b></font>----- |<br>
-            | belt changes to unfastened on an empty seat-- | ----<font color="green"><b>NO-</b></font>----- | -----<font color="green"><b>NO-</b></font>----- |<br>
+            | belt is not fastened on an empty seat-------- | ----<font color="green"><b>-NO</b></font>----- | -----<font color="green"><b>-NO</b></font>----- |<br>
+            | belt changes to unfastened on an empty seat-- | ----<font color="green"><b>-NO</b></font>----- | -----<font color="green"><b>-NO</b></font>----- |<br>
             | belt is not fastened on an occupied seat----- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
             | belt changes to unfastened on occupied seat-- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
             +-----------------------------------------------+--------------+---------------+<br><br>
@@ -123,19 +123,38 @@ def main():
             +-----------------------------------------------+--------------+---------------+<br>
         </font><br>
 
-        It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Seatbelt Reminder Evaluation is also <b>not</b> assessing the volume, duration, period or position of the seatbelt reminder.<br><br>
+        It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Rear Seatbelt Reminder Evaluation is <b>not</b> assessing the volume, duration, period or position of the rear seatbelt reminder.
+
+        <h3>For Journalists and Media</h3>
+        If you're a journalist looking to report on these evaluations, you are more than welcome to do so! A few requests:
+        <ul>
+            <li> please link to the relevant evaluation page and/or notice if possible
+            <li> please mention that this is an <b>independent, desktop assessment</b> of rear seatbelt reminder behaviour, not comparable with accredited safety ratings
+            <li> please consider sharing a copy of relevant publications with the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>. This way, you can be notified in case a correction is needed in the future (see: "Error Policy" section)
+        </ul>
 
         <h3>Vehicle Selection</h3>
-        A vehicle will only be evaluated under the 2026 Rear Seatbelt Reminder Evaluatons if it meets <b>at least one</b> of the following criteria:<br>
+        A vehicle will only be evaluated under the 2026 Rear Seatbelt Reminder Evaluatons if it meets <b>AT LEAST ONE</b> of the following criteria:<br>
         <ul>
-            <li> never assessed under the <a href="https://bit.ly/gobargrades2025">2025 Gobar Grades</a> from defunct project Gobar NCRAP<br>
-            <li> significantly updated since last evaluated here or in the 2025 Gobar Grades. Updates considered significant include, but are not limited to: facelifts, generation changes, and changes in seatbelt reminder behaviour in any variant<br>
-            <li> if it is discovered that an error was made when the vehicle was last evaluated here or in the 2025 Gobar Grades<br>
-        </ul><br>
+            <li> the vehicle manufacturer has requested evaluation<br><b>OR</b>
+            <li> the vehicle has never been assessed under the <a href="https://bit.ly/gobargrades2025">2025 Gobar Grades</a> from the page administrator's defunct project Gobar NCRAP<br><b>OR</b>
+            <li> the vehicle has been significantly updated since last evaluated (including in the 2025 Gobar Grades). Updates considered significant include, but are not limited to: facelifts, generation changes, and changes in seatbelt reminder behaviour in any variant<br><b>OR</b>
+            <li> it is discovered that an error was made when the vehicle was last evaluated (including in the 2025 Gobar Grades)
+        </ul>
 
         <h3>Error Policy</h3>
-        I strive to present the most accurate information possible; however, this being a desktop assessment, errors are bound to happen from time to time. The author does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life.<br><br>
-        To improve information quality and accountability, I am adopting a policy of <b>only evaluating vehicles based on official material on the manufacturer's India website (documentation or communications)</b>. Unlike the 2025 Gobar Grades, foreign-market documentation, PR communications, real-world test drives, and inference based on reviews will no longer be accepted.<br><br>
+        Every effort is made to present the most accurate information possible; however, this being a desktop assessment, errors are bound to happen from time to time. The page administrator does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life.<br><br>
+        <b>Prevention: </b>To improve information quality and accountability, the page administrator is adopting a policy of <b>only evaluating vehicles based on official material on the manufacturer's India website (documentation or communications)</b>, which are specified on the evaluation pages. Unlike the 2025 Gobar Grades, foreign-market documentation, PR communications, real-world test drives, corporate twin/partner model based extensions, and inferences based on reviews will no longer be accepted.<br><br>
+        <b>Redressal: </b>Please report errors <a href="mailto:theyawningchihuahua@gmail.com">via email</a>. Results may be deleted, updated or re-published without notice.
+        
+        <h3>For Manufacturers</h3>
+        Manufacturers wishing to request a vehicle evaluation are requested to contact the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> through a PR team or otherwise. Please note that, while requests are very welcome, the following are prerequisites for nominatting a vehicle for evaluation:
+        <ul>
+            <li> the vehicle must be fully homologated for sale in India under the M1 or N1 category
+            <li> a user manual (containing required information) and variant list for the vehicle must be available on the manufacturer's India website<br>
+        </ul>
+        While nominating a vehicle might allow publication on an agreed-upon schedule, and courtesy previews of results/notices, please note that editorial control will remain with the page administrator at all times.<br>
+        Manufacturers requesting a correction are requested to see the "Error Policy" section.<br><br>
 
         <a href="../index.html">click to go back home</a>
     </font>
