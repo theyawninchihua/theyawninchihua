@@ -77,6 +77,16 @@ def main():
     html = f"""<!DOCTYPE html>
 <html>
     <head>
+    <!-- The type of card. "summary_large_image" shows a big image preview -->
+    <meta name="twitter:card" content="summary_large_image">
+    <!-- Your site's X handle (optional) -->
+    <meta name="twitter:site" content="@theyawninchihua">
+    <!-- The title of your page (max 70 characters) -->
+    <meta name="twitter:title" content="2026 Rear Seatbelt Reminder Evaluations | The Yawning Chihuahua">
+    <!-- A brief summary of your content (max 200 characters) -->
+    <meta name="twitter:description" content="TYC's 2026 rear seat belt reminder evaluations.">
+    <!-- The FULL URL to the image you want to show (must be absolute, not relative) -->
+    <meta name="twitter:image" content="https://theyawninchihua.github.io/theyawninchihua/sbr/banner.png">
     <font face="Verdana">
         <title>2026 Rear Seatbelt Reminder Evaluations | The Yawning Chihuahua</title>
         <center>
