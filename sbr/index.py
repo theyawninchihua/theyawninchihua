@@ -77,6 +77,7 @@ def main():
     html = f"""<!DOCTYPE html>
 <html>
     <head>
+    <link rel="icon" type="image/x-icon" href="https://theyawninchihua.github.io/theyawninchihua/theyawninchihua.png">
     <!-- The type of card. "summary_large_image" shows a big image preview -->
     <meta name="twitter:card" content="summary_large_image">
     <!-- Your site's X handle (optional) -->
