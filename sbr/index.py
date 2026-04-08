@@ -141,11 +141,11 @@ def main():
         It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Rear Seatbelt Reminder Evaluation is <b>not</b> assessing the volume, duration, period or position of the rear seatbelt reminder.
 
         <h3>Want to nominate a vehicle?</h3>
-        If you are an individual or organisation who wishes to nominate a model for evaluation, you are welcome to do so by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> with the following details:
+        If you are an individual or organisation who wishes to nominate a vehicle model for evaluation, you are welcome to do so by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> with the following details:
         <ul>
-            <li> brand and model name you want to recommend for evaluation
-            <li> a link to a user manual for the vehicle on the manufacturer's India website
-            <li> a link to a variant-wise spec sheet for the vehicle on the manufacturer's India website
+            <li> brand and model name of the vehicle you want to recommend for evaluation
+            <li> a link to a user manual for the model on the manufacturer's India website
+            <li> a link to a variant-wise spec sheet for the model on the manufacturer's India website
         </ul>
         No reason is required for nominating the model. However, please note that all editorial control, including the final decision to select the vehicle, rests with the page administrator.
 
