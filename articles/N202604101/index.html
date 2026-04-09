@@ -3,13 +3,13 @@
     <head>
     <link rel="icon" type="image/x-icon" href="https://theyawninchihua.github.io/theyawninchihua/theyawninchihua.png">
     <font face="Verdana">
-        <title>Two India-spec EVs in The Yawning Chihuahua's Rear Seatbelt Reminder Evaluation | The Yawning Chihuahua</title>
+        <title>Two Indian EVs in The Yawning Chihuahua's Rear Seatbelt Reminder Evaluation | The Yawning Chihuahua</title>
         <!-- The type of card. "summary_large_image" shows a big image preview -->
         <meta name="twitter:card" content="summary_large_image">
         <!-- Your site's X handle (optional) -->
         <meta name="twitter:site" content="@theyawninchihua">
         <!-- The title of your page (max 70 characters) -->
-        <meta name="twitter:title" content="Two India-spec EVs in TYC's Rear Seatbelt Reminder Evaluation">
+        <meta name="twitter:title" content="Two Indian EVs in TYC's Rear Seatbelt Reminder Evaluation">
         <!-- A brief summary of your content (max 200 characters) -->
         <meta name="twitter:description" content="Punch.ev and XUV 3XO EV evaluated.">
         <!-- The FULL URL to the image you want to show (must be absolute, not relative) -->
@@ -25,7 +25,7 @@
     <font face="Verdana">
         <b>NOTICE</b><br>
 
-        <h1>Two India-spec EVs in The Yawning Chihuahua's Rear Seatbelt Reminder Evaluation</h1>
+        <h1>Two Indian EVs in The Yawning Chihuahua's Rear Seatbelt Reminder Evaluation</h1>
         <b>10.04.2026</b><br><br>
 
         <img src="banner.png" width="400" border="1"><br><br>
@@ -33,8 +33,110 @@
         The rear seatbelt reminder (SBR) evaluations for two models <a href="../../sbr/index.html">have been published today</a>: the <a href="../../sbr/evaluations/2026-04-10-PUNCHEV-Smart30kWh.html">Tata Punch.ev</a> and <a href="../../sbr/evaluations/2026-04-10-XUV3XOEV-AX539kWh.html">Mahindra XUV 3XO EV</a>.<br><br>
         
         Recently facelifted, the affordable electric <a href="../../sbr/evaluations/2026-04-10-PUNCHEV-Smart30kWh.html">Tata Punch.ev</a> receives a <font face="Courier New" color="red"><b>FAIL</b></font> result: its rear seats have no occupant detection. Even for a system without occupant detection, the Punch.ev presents a unique problem: while most seatbelt reminders on the market without occupant detection tend to wait for a belt to first change status (thereby failing to notify many unbelted occupants), the Punch.ev's rudimentary seatbelt reminder instead issues a second-level audio and visual signal <b>when any rear seatbelt is not fastened, regardless of occupancy</b>. These "ghost" alerts can annoy the driver to the extent of encouraging tampering with the system or perpetually keeping the rear seatbelts fastened.<br><br>
+        <a href="../../sbr/evaluations/2026-04-10-PUNCHEV-Smart30kWh.html">
+        <font face="Courier New">
+            <table border="1">
+            <tr>
+                <th colspan="5">Tata PUNCH.EV</th>
+            </tr>
+            <tr>
+                <th colspan="5">Behaviour of second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Audio signal</th>
+                <th>Visual signal</th>
+                <th>Verdict</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td colspan="4" align="center"></td>
+                <td align="center"><font color="red"><b>FAIL</b></font></td>
+            </tr>
+            </table><br>
+        </font>
+        </a>
 
         On the contrary, the recently launched <a href="../../sbr/evaluations/2026-04-10-XUV3XOEV-AX539kWh.html">Mahindra XUV 3XO EV</a> receives a <font face="Courier New" color="green"><b>PASS</b></font>: it notifies the driver with a second-level audio and visual warning if and only if a seatbelt is not fastened on an occupied rear seat.<br><br>
+        <a href="../../sbr/evaluations/2026-04-10-XUV3XOEV-AX539kWh.html">
+        <font face="Courier New">
+            <table border="1">
+            <tr>
+                <th colspan="5">Mahindra XUV 3XO EV</th>
+            </tr>
+            <tr>
+                <th colspan="5">Behaviour of second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Audio signal</th>
+                <th>Visual signal</th>
+                <th>Verdict</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td colspan="4" align="center"></td>
+                <td align="center"><font color="green"><b>PASS</b></font></td>
+            </tr>
+            </table><br>
+        </font>
+        </a>
 
         More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
         <ul>
