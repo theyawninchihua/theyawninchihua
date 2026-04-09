@@ -195,6 +195,7 @@ def main():
         You can request evaluation of a vehicle model by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> with the following details:
         <ul>
             <li> brand and model name of the vehicle that you are requesting evaluation for
+            <li> link to brochure and user manual for the vehicle on its manufacturer's India website
             <li> how you would like to be credited, if and when the result is published
             <li> please declare if you are affiliated with a vehicle manufacturer or component vendor
         </ul>
