@@ -21,22 +21,51 @@
         <h2>Result: <font face="Courier New"><font color="red"><b>FAIL</b></font></font></h2>
 
         <br><b>DATASHEET:</b><br>
-            <font face="Courier New">
-            <nobr>
-            +-------------------------------------+--------------+---------------+<br>
-            | 2nd row outboard seatbelt reminder- | audio signal | visual signal |<br>
-            | second level warning--------------- | ------------ | ------------- |<br>
-            +-------------------------------------+--------------+---------------+<br>
-            | belt not fastened on empty seat---- | ----<font color="green"><b>-NO</b></font>----- | -----<font color="red"><b>YES</b></font>----- |<br>
-            | belt unfastened on empty seat------ | ----<font color="red"><b>YES</b></font>----- | -----<font color="red"><b>YES</b></font>----- |<br>
-            | belt not fastened on occupied seat- | ----<font color="red"><b>-NO</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
-            | belt unfastened on occupied seat--- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
-            +-------------------------------------+--------------+---------------+<br>
-            | ----------------------------------- | ---<font color="red"><b>NOT OK</b></font>--- | ----<font color="red"><b>NOT OK</b></font>--- |<br>
-            +-------------------------------------+--------------+---------------+<br>
-            | Result----------------------------- | ------------<font color="red"><b>FAIL</b></font>------------ |<br>
-            +-------------------------------------+------------------------------+<br><br>
-            </nobr>
+        <font face="Courier New">
+            <table border="1">
+            <tr>
+                <th colspan="5">Behaviour of second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Audio signal</th>
+                <th>Visual signal</th>
+                <th>Verdict</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="../testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="red"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td colspan="4" align="center"></td>
+                <td align="center"><font color="red"><b>FAIL</b></font></td>
+            </tr>
+            </table><br>
         </font>
 
         <b>REASON FOR SELECTION: </b>Recent facelift<br>

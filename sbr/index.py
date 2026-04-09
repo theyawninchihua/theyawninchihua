@@ -105,37 +105,88 @@ def main():
 
         <h3>About the Rear Seatbelt Reminder Evaluations</h3>
         In the Rear Seatbelt Reminder Evaluations a best-effort desktop assessment is made to estimate how a vehicle's rear seatbelt reminder would behave in 4 scenarios. After interpreting this information a <font face="Courier New"><font color="green"><b>PASS</b></font></font>/<font face="Courier New"><font color="red"><b>FAIL</b></font></font> result is awarded to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
-        <font face="Courier New" color="green">
-            <nobr>
-            +------------------------------------------------------------------------------+<br>
-            | <b>PASS</b> requirements in TYC Seatbelt Reminder Evaluations---------------------- |<br>
-            +-----------------------------------------------+--------------+---------------+<br>
-            | 2nd row outboard seatbelt reminder----------- | audio signal | visual signal |<br>
-            | (second level warning only)------------------ | ------------ | ------------- |<br>
-            +-----------------------------------------------+--------------+---------------+<br>
-            | belt is not fastened on an empty seat-------- | ----<font color="green"><b>-NO</b></font>----- | -----<font color="green"><b>-NO</b></font>----- |<br>
-            | belt changes to unfastened on an empty seat-- | ----<font color="green"><b>-NO</b></font>----- | -----<font color="green"><b>-NO</b></font>----- |<br>
-            | belt is not fastened on an occupied seat----- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
-            | belt changes to unfastened on occupied seat-- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
-            +-----------------------------------------------+--------------+---------------+<br><br>
-            <font color="black">.....................................v/s........................................</font><br><br>
-            </nobr>
-        </font>
+        <font face="Courier New">
+            <table border="1">
+            <tr>
+                <th colspan="5"><font color="green">TYC's 2026 Rear Seatbelt Reminder Evaluation</font></th>
+            </tr>
+            <tr>
+                <th colspan="5">Behaviour requirements for second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Audio signal</th>
+                <th>Visual signal</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
+                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
+                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
+            </tr>
+            </table>
+        </font><br>
 
-        <font face="Courier New" color="red">
-            <nobr>
-            +------------------------------------------------------------------------------+<br>
-            | Behaviour requirement in forthcoming government regulation AIS-145 Amd 6---- |<br>
-            +-----------------------------------------------+--------------+---------------+<br>
-            | All fixed rear seats' belt reminders--------- | audio signal | visual signal |<br>
-            | (second level warning)----------------------- | ------------ | ------------- |<br>
-            +-----------------------------------------------+--------------+---------------+<br>
-            | belt is not fastened on an empty seat-------- | ----<font color="red"><b>ANY</b></font>----- | -----<font color="red"><b>ANY</b></font>----- |<br>
-            | belt changes to unfastened on an empty seat-- | ----<font color="red"><b>ANY</b></font>----- | -----<font color="red"><b>ANY</b></font>----- |<br>
-            | belt is not fastened on an occupied seat----- | ----<font color="red"><b>ANY</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
-            | belt changes to unfastened on occupied seat-- | ----<font color="green"><b>YES</b></font>----- | -----<font color="green"><b>YES</b></font>----- |<br>
-            +-----------------------------------------------+--------------+---------------+<br>
-            </nobr>
+        ......................v/s......................<br><br>
+
+        <font face="Courier New">
+            <table border="1">
+            <tr>
+                <th colspan="5"><font color="red">Forthcoming MoRTH regulation AIS-145 Amd. 6</font></th>
+            </tr>
+            <tr>
+                <th colspan="5">Interpreted behaviour requirements for second-level warning in all fixed rear seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Audio signal</th>
+                <th>Visual signal</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="red"><b>NOT REQUIRED</b></font></td>
+                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
+                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="./testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
+                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
+            </tr>
+            </table><br>
         </font><br>
 
         It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Rear Seatbelt Reminder Evaluation is <b>not</b> assessing the volume, duration, period or position of the rear seatbelt reminder.
