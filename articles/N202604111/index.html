@@ -14,6 +14,15 @@
         <meta name="twitter:description" content="Indian model stripped of rear occupant detection.">
         <!-- The FULL URL to the image you want to show (must be absolute, not relative) -->
         <meta name="twitter:image" content="https://theyawninchihua.github.io/theyawninchihua/articles/N202604111/banner.png">
+
+        <!-- OG tags for other platforms -->
+         <!-- Open Graph (for Discord, WhatsApp, Facebook, etc.) -->
+        <meta property="og:title" content="India-spec Kia EV9 fails TYC's Rear Seatbelt Reminder Evaluation">
+        <meta property="og:description" content="Indian model stripped of rear occupant detection.">
+        <meta property="og:image" content="https://theyawninchihua.github.io/theyawninchihua/articles/N202604111/banner.png">
+        <meta property="og:url" content="https://theyawninchihua.github.io/theyawninchihua/articles/N202604111/index.html">
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="The Yawning Chihuahua">
         <center>
             <img src="../../theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
@@ -30,9 +39,112 @@
 
         <img src="banner.png" width="400" border="1"><br><br>
 
-        The rear seatbelt reminder (SBR) evaluation for the India-spec Kia EV9 <a href="../../sbr/index.html">has been published today</a>.<br><br>
+        A new <a href="../../sbr/index.html">TYC rear seatbelt reminder (SBR) evaluation</a> has been published today, with the India-spec <a href="../../sbr/evaluations/2026-04-11-EV9-GTLineAWD.html">Kia EV9</a> receiving a <font face="Courier New" color="red"><b>FAIL</b></font> result.<br><br>
+        
+        Despite arriving in India as a premium import, the <a href="../../sbr/evaluations/2026-04-11-EV9-GTLineAWD.html">Kia EV9</a>'s SBR behaviour <b>does not mirror that of its global counterparts</b>: the India-spec version's SBR fails to notify unbelted rear occupants in common scenarios.
+        
+        <h2>Kia EV9 evaluation explained</h2>
+        Based on its documentation, the India-spec EV9's rear seats appear to skip out on occupant detection sensors, and as a result, its SBR only issues an audio signal when a rear seatbelt is <i>fastened and then unfastened</i> on the move. As a result, the India-spec EV9 receives a <font face="Courier New" color="red"><b>FAIL</b></font> result.<br><br>
 
-        The <a href="../../sbr/evaluations/2026-04-11-EV9-GTLineAWD.html">Kia EV9</a> arrives in India as an import, but does not behave like some of its overseas versions do, and receives a <font face="Courier New" color="red"><b>FAIL</b></font> result: the India-spec version would fail to notify unbelted occupants in common scenarios. Based on its documentation, the India-spec version's rear seat belt reminder does not have occupant detection, and only issues an audio signal when a rear seatbelt is fastened and then unfastened on the move.<br><br>Importantly, this is <b>unlike the behaviour seen in EV9s destined for Europe and Australasia, which have occupant detection in the rear outboard seats</b>, a prerequisite to score seat belt reminder points in those markets' respective consumer test programmes Euro NCAP and ANCAP.<br><br>
+        <font face="Courier New">
+            <a href="../../sbr/evaluations/2026-04-11-EV9-GTLineAWD.html">
+            <center>
+            <table border="1"> 
+            <tr>
+                <th colspan="5"><h2>Kia EV9 (India)</h2></th>
+            </tr>      
+            <tr>
+                <th colspan="5">Behaviour of second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Acoustic signal</th>
+                <th>Visual signal</th>
+                <th>Verdict</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="red"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>YES</b></font></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td colspan="4" align="center"></td>
+                <td align="center"><font color="red"><b>FAIL</b></font></td>
+            </tr>
+            </table><br>
+            </center>
+            </a>
+        </font>
+
+        <h2>Double standard: European EV9 has occupant detection</h2>
+        Importantly, the EV9's documentation reveals that <b>EV9 versions destined for Europe and Australasia demonstrate superior seatbelt reminder behaviour and have occupant detection in the rear outboard seats</b>, likely because this is a prerequisite for SBRs to score points in <a href="https://www.euroncap.com/assessments/kia/ev9/1052/">Euro NCAP</a> and <a href="https://www.ancap.com.au/safety-ratings/kia/ev9/fd7032">ANCAP</a>.<br><br>
+
+        <font face="Courier New">
+            <center>
+            <table border="1"> 
+            <tr>
+                <th colspan="5"><h2>Kia EV9 (Europe, Australia, and New Zealand)</h2></th>
+            </tr>      
+            <tr>
+                <th colspan="5">Behaviour of second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Acoustic signal</th>
+                <th>Visual signal</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../sbr/testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+            </tr>
+            </table><br>
+            </center>
+        </font>
 
         More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
         <ul>

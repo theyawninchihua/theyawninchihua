@@ -116,7 +116,7 @@ def main():
             <tr>
                 <th>Testcase</th>
                 <th>Description</th>
-                <th> Acoustic signal</th>
+                <th>Acoustic signal</th>
                 <th>Visual signal</th>
             </tr>
             <tr>
@@ -159,7 +159,7 @@ def main():
             <tr>
                 <th>Testcase</th>
                 <th>Description</th>
-                <th> Acoustic signal</th>
+                <th>Acoustic signal</th>
                 <th>Visual signal</th>
             </tr>
             <tr>
