@@ -192,14 +192,10 @@ def main():
         It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Rear Seatbelt Reminder Evaluation is <b>not</b> assessing the volume, duration, period or position of the rear seatbelt reminder.
 
         <h3>Want to request an evaluation?</h3>
-        You can request evaluation of a vehicle model by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> with the following details:
+        You can request evaluation of a vehicle model by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> or on Twitter</a> with the vehicle name and model you would like to see evaluated.
         <ul>
-            <li> brand and model name of the vehicle that you are requesting evaluation for
-            <li> link to brochure and user manual for the vehicle on its manufacturer's India website
-            <li> how you would like to be credited, if and when the result is published
-            <li> please declare if you are affiliated with a vehicle manufacturer or component vendor
+            <li> Please declare if you are affiliated with a vehicle manufacturer or component vendor
         </ul>
-        Any individual or organisation can request an evaluation and no reason is required; however, please note that all editorial control, including the final decision to select the vehicle or not, rests with the page administrator.
 
         <h3>For Journalists and Media</h3>
         If you're a journalist looking to report on these evaluations, you are more than welcome to do so! A few requests:
@@ -219,7 +215,7 @@ def main():
         
         <h3>Error Policy</h3>
         Every effort is made to present the most accurate information possible; however, this being a desktop assessment, errors are bound to happen from time to time. The page administrator does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life.<br><br>
-        <b>Prevention: </b>To improve information quality and accountability, the page administrator is adopting a policy of <b>only evaluating vehicles based on official documentation on the manufacturer's India website</b>, which are specified on the evaluation pages. Unlike the 2025 Gobar Grades, foreign-market documentation, PR communications, real-world test drives, corporate twin/partner model based extensions, and inferences based on reviews will no longer be accepted.<br><br>
+        <b>Prevention: </b>To improve information quality and accountability, the page administrator is adopting a policy of <b>only evaluating vehicles based on official documentation on the manufacturer's India website</b>, or a <b>real-world test ride by the page administrator, with outcomes of the four test cases clearly filmed<b> (the relevant sources/film will be released on the evaluation page). Unlike the 2025 Gobar Grades, foreign-market documentation, PR communications, corporate twin/partner model based extensions, and inferences based on reviews will no longer be accepted.<br><br>
         <b>Redressal: </b>Please report errors to the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>. Results may be deleted, updated or re-published without notice.<br><br>
 
         <a href="../index.html">click to go back home</a>
