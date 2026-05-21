@@ -103,8 +103,17 @@ def main():
         {list_html}<br>
         <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
 
-        <h3>About the Rear Seatbelt Reminder Evaluations</h3>
-        In the Rear Seatbelt Reminder Evaluations a best-effort desktop assessment is made to estimate how a vehicle's rear seatbelt reminder would behave in 4 scenarios. After interpreting this information a <font face="Courier New"><font color="green"><b>PASS</b></font></font>/<font face="Courier New"><font color="red"><b>FAIL</b></font></font> result is awarded to the system. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
+        <h3>Vehicle Selection</h3>
+        Selection of vehicle models for evaluation is at the sole discretion of the page administrator. In general principle, in order to be evaluated, the vehicle must be classified as M1/N1, and on sale in the Indian market. Local homologation is <b>not</b> a requirement for selection. <b>Anyone can request that a specific vehicle model be <i>considered</i> for evaluation by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> or <a href="https://x.com/theyawninchihua">on Twitter</a> with the vehicle model name.</b><br>
+
+        <h3>Evaluation Protocol</h3>
+        First, information is gathered about the behaviour of the selected vehicle's rear seat belt reminder from one of the following sources:
+        <ul>
+            <li> official documentation on the vehicle manufacturer's website, either on the India website or implied to be intended for the Indian market<br><b>OR</b>
+            <li> a physical test ride by the page administrator, under sufficient conditions to trigger the secondary signal (a film of the test with the four test cases will be made available on the evaluation page)<br>
+        </ul>
+
+        Then, based on this information, a <font face="Courier New"><font color="green"><b>PASS</b></font></font>/<font face="Courier New"><font color="red"><b>FAIL</b></font></font> result is awarded to the vehicle. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
         <font face="Courier New">
             <table border="1">
             <tr>
@@ -122,31 +131,31 @@ def main():
             <tr>
                 <td align="center"><img src="./testcase_1.png" width="60"></td>
                 <td align="center">occupant does not fasten seatbelt</td>
-                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
-                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
             </tr>
             <tr>
                 <td align="center"><img src="./testcase_2.png" width="60"></td>
                 <td align="center">occupant takes off seatbelt</td>
-                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
-                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
             </tr>
             <tr>
                 <td align="center"><img src="./testcase_3.png" width="60"></td>
                 <td align="center">seatbelt not fastened on an empty seat</td>
-                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
-                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
             </tr>
             <tr>
                 <td align="center"><img src="./testcase_4.png" width="60"></td>
                 <td align="center">seatbelt taken off on an empty seat</td>
-                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
-                <td align="center"><font color="green"><b>NOT PERMITTED</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
             </tr>
             </table>
         </font><br>
 
-        ......................v/s......................<br><br>
+        In comparison, the requirements of upcoming government legislation are explained below:<br><br>
 
         <font face="Courier New">
             <table border="1">
@@ -154,7 +163,7 @@ def main():
                 <th colspan="5"><font color="red">Forthcoming MoRTH regulation AIS-145 Amd. 6</font></th>
             </tr>
             <tr>
-                <th colspan="5">Interpreted behaviour requirements for second-level warning in all fixed rear seats</th>
+                <th colspan="5">Behaviour requirements for second-level warning in all fixed rear seats (as interpreted by page administrator)</th>
             </tr>
             <tr>
                 <th>Testcase</th>
@@ -165,58 +174,28 @@ def main():
             <tr>
                 <td align="center"><img src="./testcase_1.png" width="60"></td>
                 <td align="center">occupant does not fasten seatbelt</td>
-                <td align="center"><font color="red"><b>NOT REQUIRED</b></font></td>
-                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
+                <td align="center"><font color="black"><b>-</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
             </tr>
             <tr>
                 <td align="center"><img src="./testcase_2.png" width="60"></td>
                 <td align="center">occupant takes off seatbelt</td>
-                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
-                <td align="center"><font color="green"><b>REQUIRED</b></font></td>
-            </tr>
-            <tr>
-                <td align="center"><img src="./testcase_3.png" width="60"></td>
-                <td align="center">seatbelt not fastened on an empty seat</td>
-                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
-                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
-            </tr>
-            <tr>
-                <td align="center"><img src="./testcase_4.png" width="60"></td>
-                <td align="center">seatbelt taken off on an empty seat</td>
-                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
-                <td align="center"><font color="red"><b>PERMITTED</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
             </tr>
             </table>
         </font><br>
-
-        It is important to note that occupant detection sensors are necessary but not sufficient in order to be awarded a <font face="Courier New" color="green"><b>PASS</b></font>. Also note the Rear Seatbelt Reminder Evaluation is <b>not</b> assessing the volume, duration, period or position of the rear seatbelt reminder.
-
-        <h3>Want to request an evaluation?</h3>
-        You can request evaluation of a vehicle model by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> or on Twitter</a> with the vehicle name and model you would like to see evaluated.
-        <ul>
-            <li> Please declare if you are affiliated with a vehicle manufacturer or component vendor
-        </ul>
 
         <h3>For Journalists and Media</h3>
         If you're a journalist looking to report on these evaluations, you are more than welcome to do so! A few requests:
         <ul>
             <li> please mention that this is an <b>independent, informal desktop assessment</b> of rear seatbelt reminder behaviour, which in no way substitutes safety regulations or ratings
-            <li> after publication, please consider sharing a copy of relevant publications with the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>. This way, you can be notified in case a correction is needed in the future (see: "Error Policy")
-        </ul>
-
-        <h3>Vehicle Selection</h3>
-        A vehicle model will only be evaluated under the 2026 Rear Seatbelt Reminder Evaluatons if it is fully homologated as M1/N1 in India and meets <b>AT LEAST ONE</b> of the following criteria:<br>
-        <ul>
-            <li> someone has requested evaluation for the model (see: "Want to request an evaluation?")<br><b>OR</b>
-            <li> the model has never been assessed under the <i><a href="https://bit.ly/gobargrades2025">2025 Gobar Grades</a></i> from the page administrator's defunct project <i><a href="https://bit.ly/gobarncrap">Gobar NCRAP</a></i><br><b>OR</b>
-            <li> the model has been significantly updated since last evaluated (including in the <i>2025 Gobar Grades</i>). Updates considered significant include, but are not limited to: facelifts, generation changes, and changes in seatbelt reminder behaviour in any variant<br><b>OR</b>
-            <li> it is discovered that an error was made when the model was last evaluated
+            <li> after publication, could you please share a copy with the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>?
         </ul>
         
         <h3>Error Policy</h3>
-        Every effort is made to present the most accurate information possible; however, this being a desktop assessment, errors are bound to happen from time to time. The page administrator does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life.<br><br>
-        <b>Prevention: </b>To improve information quality and accountability, the page administrator is adopting a policy of <b>only evaluating vehicles based on official documentation on the manufacturer's India website</b>, or a <b>real-world test ride by the page administrator, with outcomes of the four test cases clearly filmed<b> (the relevant sources/film will be released on the evaluation page). Unlike the 2025 Gobar Grades, foreign-market documentation, PR communications, corporate twin/partner model based extensions, and inferences based on reviews will no longer be accepted.<br><br>
-        <b>Redressal: </b>Please report errors to the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>. Results may be deleted, updated or re-published without notice.<br><br>
+        Every effort is made to present the most accurate information possible; however, this being a desktop assessment, errors are bound to happen from time to time. The page administrator does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life. The page administrator reserves the right to make changes to this page and/or result pages without notice.<br><br>
+        Please report errors to the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>.<br><br>
 
         <a href="../index.html">click to go back home</a>
     </font>
