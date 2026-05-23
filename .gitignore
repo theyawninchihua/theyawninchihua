@@ -2,3 +2,6 @@
 */.DS_Store
 sbr/data.csv
 sbr/migrated_evaluations/
+*.mp4
+*.mov
+*.m4v
