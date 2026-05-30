@@ -152,6 +152,8 @@ def render_index(path, items):
         html += "\n".join(list_lines) + "\n"
 
     html += """        </ul>
+    <a href="../../index.html">click to go back home</a>
+
     </font>
     </body>
 </html>
