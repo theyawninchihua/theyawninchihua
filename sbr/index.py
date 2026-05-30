@@ -13,34 +13,9 @@ def parse_file(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Extract model (from <h1>)
-    model = extract_between(content, "<h1>", "</h1>").strip()
-
-    # Extract result (PASS/FAIL)
-    if "Result: <font face=\"Courier New\"><font color=\"green\"><b>PASS" in content:
-        result = "PASS"
-    else:
-        result = "FAIL"
-
-    # Extract publication date (DD.MM.YYYY)
-    date_str = extract_between(content, "<b>PUBLICATION DATE: </b>", "<br>").strip()
-
-    # Convert to datetime for sorting
-    try:
-        dt = datetime.strptime(date_str, "%d.%m.%Y")
-    except:
-        dt = datetime.min
-
-    # Format display date → DD.MM.YY
-    display_date = dt.strftime("%d.%m.%y") if dt != datetime.min else date_str
-
-    return {
-        "model": model,
-        "result": result,
-        "date": dt,
-        "display_date": display_date,
-        "filename": os.path.basename(filepath)
-    }
+    # Legacy: this function is no longer used for parsing HTML files.
+    # Keep it for backward compatibility but return empty dict.
+    return {}
 
 def result_html(result):
     if result == "PASS":
@@ -57,18 +32,97 @@ def main():
 
     entries = []
 
-    for file in os.listdir(directory):
-        if file.endswith(".html"):
-            path = os.path.join(directory, file)
-            entries.append(parse_file(path))
+    # Look for result directories instead of HTML files. Valid name:
+    # YYYY-MM-DD-model-variant
+    NAME_RE = re.compile(r'^(\d{4})-(\d{2})-(\d{2})-(.+)$')
+
+    def read_metadata(meta_path):
+        data = {}
+        # Try PyYAML first
+        try:
+            import yaml  # type: ignore
+            with open(meta_path, 'r', encoding='utf-8') as fh:
+                loaded = yaml.safe_load(fh)
+                if isinstance(loaded, dict):
+                    for k, v in loaded.items():
+                        data[k.lower()] = v
+                    return data
+        except Exception:
+            pass
+
+        # Fallback simple parser: look for 'title:' and 'result:'
+        try:
+            with open(meta_path, 'r', encoding='utf-8') as fh:
+                for line in fh:
+                    m = re.match(r'^\s*([A-Za-z_\-]+)\s*:\s*(.+)$', line)
+                    if m:
+                        key = m.group(1).strip().lower()
+                        val = m.group(2).strip()
+                        if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+                            val = val[1:-1]
+                        data[key] = val
+        except Exception:
+            pass
+
+        return data
+
+    for name in sorted(os.listdir(directory)):
+        full = os.path.join(directory, name)
+        if not os.path.isdir(full):
+            # skip non-directories
+            print(f"Skipping '{name}': not a directory")
+            continue
+
+        m = NAME_RE.match(name)
+        if not m:
+            print(f"Skipping '{name}': name does not match YYYY-MM-DD-model-variant")
+            continue
+
+        yyyy, mm, dd, rest = m.group(1), m.group(2), m.group(3), m.group(4)
+        # Validate date
+        try:
+            dt = datetime(int(yyyy), int(mm), int(dd))
+        except Exception:
+            print(f"Skipping '{name}': invalid date in name")
+            continue
+
+        meta_path = os.path.join(full, 'metadata.yaml')
+        if not os.path.isfile(meta_path):
+            print(f"Skipping '{name}': missing metadata.yaml")
+            continue
+
+        meta = read_metadata(meta_path)
+        title = meta.get('title')
+        result = meta.get('result')
+        if title is None:
+            print(f"Skipping '{name}': metadata.yaml missing title")
+            continue
+        if result is None:
+            print(f"Skipping '{name}': metadata.yaml missing result")
+            continue
+
+        result_norm = str(result).strip().upper()
+        if result_norm not in ("PASS", "FAIL"):
+            print(f"Skipping '{name}': metadata.yaml has invalid result '{result}'")
+            continue
+
+        display_date = dt.strftime("%d.%m.%y")
+
+        entries.append({
+            'dirname': name,
+            'title': str(title),
+            'result': result_norm,
+            'date': dt,
+            'display_date': display_date,
+        })
 
     # Sort by date descending (newest first)
-    entries.sort(key=lambda x: (x["date"], x["filename"]), reverse=True)
+    entries.sort(key=lambda x: (x['date'], x['dirname']), reverse=True)
 
     # Build list HTML
     lines = []
     for e in entries:
-        line = f'{e["display_date"]} [{result_html(e["result"])}] <a href="evaluations/{e["filename"]}">{e["model"]}</a><br>'
+        line = f'{e["display_date"]} [{result_html(e["result"])}] <a href="{e["dirname"]}/index.html">{e["title"]}</a><br>'
         lines.append(line)
 
     list_html = "\n        ".join(lines)
