@@ -244,7 +244,7 @@ def main():
                     {featured_block}                    <table>
                         <tr>
                             <td valign="top">
-{small_cells[0]}                                <a href="articles/index.html">see all</a>
+{small_cells[0]}                                <a href="articles/index.html">see more</a>
                             </td>
                             <td valign="top">
 {small_cells[1]}                            </td>
@@ -254,9 +254,9 @@ def main():
                     </table>
                 </td>
                 <td valign="top">
-                    <h2>Latest Rear Seatbelt Reminder Evaluations</h2>
+                    <h2>What The Beep?</h2>
                     {sbr_block}<br>
-                    <a href="whatthebeep/index.html">see all</a>
+                    <a href="whatthebeep/index.html">see more</a>
                 </td>
             </tr>
             <tr>
