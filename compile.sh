@@ -1,5 +1,5 @@
-python index.py articles sbr
-cd sbr
+python index.py articles whatthebeep
+cd whatthebeep
 python index.py .
 cd ../articles
 python index.py .

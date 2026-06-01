@@ -1,6 +1,4 @@
-.DS_Store
-*/.DS_Store
-sbr/data.csv
+whatthebeep/data.csv
 *.mp4
 *.mov
 *.m4v

@@ -3,7 +3,7 @@
 Generate the homepage index.html using the latest 4 articles and 4 SBR results.
 
 Usage: python index.py <articles_dir> <sbr_dir>
-Example: python index.py articles sbr
+Example: python index.py articles whatthebeep
 
 Follows the same validation rules as the per-directory index scripts.
 Only valid entries are shown; invalid folders are skipped with a message.
@@ -192,7 +192,7 @@ def main():
     sbr_lines = []
     for e in top_sbrs:
         display_date = e['date'].strftime("%d.%m.%y")
-        line = f'{display_date} [{result_html(e["result"])}] <a href="sbr/{e["dirname"]}/index.html">{e["title"]}</a><br>'
+        line = f'{display_date} [{result_html(e["result"])}] <a href="whatthebeep/{e["dirname"]}/index.html">{e["title"]}</a><br>'
         sbr_lines.append(line)
 
     sbr_block = "\n                    ".join(sbr_lines)
@@ -230,7 +230,7 @@ def main():
         <center>
             <img src="theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
-            <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/sbr">Seatbelt reminder evaluation</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a> | <a href="https://gobarncrap.wixsite.com/gobar-ncrap/blog">Legacy website</a>
+            <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep">What The Beep?</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a> | <a href="https://gobarncrap.wixsite.com/gobar-ncrap/blog">Legacy website</a>
         </center>
     </font>
     </head>
@@ -256,7 +256,7 @@ def main():
                 <td valign="top">
                     <h2>Latest Rear Seatbelt Reminder Evaluations</h2>
                     {sbr_block}<br>
-                    <a href="sbr/index.html">see all</a>
+                    <a href="whatthebeep/index.html">see all</a>
                 </td>
             </tr>
             <tr>
