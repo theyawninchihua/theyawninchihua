@@ -153,7 +153,7 @@ def main():
     </head>
     <body>
     <font face="Verdana">
-        <h2>What The Beep?</h2>
+        <h1>What The Beep?</h1>
         The Yawning Chihuahua believes an an effective rear seatbelt reminder <b>should</b> alert when an occupant is not belted and <b>should never</b> alert for unoccupied seats. While that might sound obvious, the rear seatbelt reminder systems in the majority of Indian-market vehicles don't behave that way.<br><br>
         {list_html}<br>
         <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
