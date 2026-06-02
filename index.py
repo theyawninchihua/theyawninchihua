@@ -255,6 +255,8 @@ def main():
                 </td>
                 <td valign="top">
                     <h2>What The Beep?</h2>
+                    <marquee scrollamount="10"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
+                    <b>Latest results:</b><br>
                     {sbr_block}<br>
                     <a href="whatthebeep/index.html">see more</a>
                 </td>
