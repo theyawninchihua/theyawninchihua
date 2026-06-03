@@ -116,19 +116,13 @@ def build_items(path):
 
 
 def render_index(path, items):
-    # Build list item lines exactly matching spacing/format of current manual file
-    list_lines = []
-    for e in items:
-        y, m, d = e['date']
-        dd = f"{d:02d}"
-        mm = f"{m:02d}"
-        formatted_date = f"{dd}.{mm}.{y}"
-        label = ARTICLE_TYPES.get(e['letters'], e['letters'])
-        # Note: keep spacing and punctuation identical to existing file
-        line = f'        <li>{formatted_date} <b>[{label}]</b> <a href="{e["name"]}/index.html">{e["title"]}</a><br><br></li>'
-        list_lines.append(line)
+    # Build a grid/table layout matching index_new_test.html
+    # chunk items into rows of 3
+    def chunk(lst, n):
+        for i in range(0, len(lst), n):
+            yield lst[i:i+n]
 
-    # Exact template from existing index.html (do not change any characters)
+    # Exact template from index_new_test.html (do not change characters outside the variable parts)
     html = """<!DOCTYPE html>
 <html>
     <head>
@@ -145,19 +139,39 @@ def render_index(path, items):
     <body>
     <font face="Verdana">
         <h2>Articles</h2>
-        <ul>
+        <table>
 """
 
-    if list_lines:
-        html += "\n".join(list_lines) + "\n"
+    for row in chunk(items, 3):
+        html += "            <tr>\n"
+        for e in row:
+            y, m, d = e['date']
+            dd = f"{d:02d}"
+            mm = f"{m:02d}"
+            formatted_date = f"{dd}.{mm}.{y}"
+            label = ARTICLE_TYPES.get(e['letters'], e['letters'])
 
-    html += """        </ul>
-    <a href="../../index.html">click to go back home</a>
+            # Check for banner.png in the article directory
+            banner_path = os.path.join(path, e['name'], 'banner.png')
+            has_banner = os.path.isfile(banner_path)
 
-    </font>
-    </body>
-</html>
-"""
+            html += "                <td valign=\"top\">\n"
+            html += "                    <figure>\n"
+            if has_banner:
+                # Anchor points to articles/<name>/index.html, image src is <name>/banner.png
+                html += f'                        <a href="articles/{e["name"]}/index.html"><img src="{e["name"]}/banner.png" width="100%" border="1"></a>\n'
+                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="articles/{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
+            else:
+                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="articles/{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
+            html += "                    </figure>\n"
+            html += "                    <br>\n"
+            html += "                </td>\n"
+
+        html += "            </tr>\n\n"
+
+    html += "        </table>\n"
+    html += "    <a href=\"../../index.html\">click to go back home</a>\n\n"
+    html += "    </font>\n    </body>\n</html>\n"
 
     outpath = os.path.join(path, 'index.html')
     with open(outpath, 'w', encoding='utf-8', newline='\n') as fh:
