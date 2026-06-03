@@ -29,6 +29,8 @@ ARTICLE_TYPES = {
     'N': 'NOTICE',
 }
 
+ARTICLES_PER_ROW = 2
+
 # Directory name must be: uppercase letters + 9 digits
 NAME_RE = re.compile(r'^([A-Z]+)(\d{9})$')
 
@@ -142,7 +144,7 @@ def render_index(path, items):
         <table>
 """
 
-    for row in chunk(items, 3):
+    for row in chunk(items, ARTICLES_PER_ROW):
         html += "            <tr>\n"
         for e in row:
             y, m, d = e['date']
@@ -158,11 +160,11 @@ def render_index(path, items):
             html += "                <td valign=\"top\">\n"
             html += "                    <figure>\n"
             if has_banner:
-                # Anchor points to articles/<name>/index.html, image src is <name>/banner.png
-                html += f'                        <a href="articles/{e["name"]}/index.html"><img src="{e["name"]}/banner.png" width="100%" border="1"></a>\n'
-                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="articles/{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
+                # Anchor points to <name>/index.html, image src is <name>/banner.png
+                html += f'                        <a href="{e["name"]}/index.html"><img src="{e["name"]}/banner.png" width="100%" border="1"></a>\n'
+                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
             else:
-                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="articles/{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
+                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
             html += "                    </figure>\n"
             html += "                    <br>\n"
             html += "                </td>\n"
