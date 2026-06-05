@@ -258,7 +258,8 @@ def main():
                     <marquee scrollamount="10"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
                     <b>Latest results:</b><br>
                     {sbr_block}<br>
-                    <a href="whatthebeep/index.html">see more</a>
+                    <a href="whatthebeep/index.html">see more</a><br><br>
+                    (*) <i>in-person evaluation</i><br><br>
                 </td>
             </tr>
             <tr>
