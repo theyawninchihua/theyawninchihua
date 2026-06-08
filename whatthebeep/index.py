@@ -165,8 +165,8 @@ def main():
         <h3>Evaluation Protocol</h3>
         First, information is gathered about the behaviour of the selected vehicle's rear seat belt reminder from one of the following sources:
         <ul>
-            <li> official documentation on the vehicle manufacturer's website, either on the India website or implied to be intended for the Indian market<br><b>OR</b>
-            <li> a physical test ride by the page administrator, under sufficient conditions to trigger the secondary signal (a film of the test with the four test cases will be made available on the evaluation page)<br>
+            <li> <b>desktop: </b>official documentation on the vehicle manufacturer's website, either on the India website or implied to be intended for the Indian market<br><b>OR</b>
+            <li> <b>in-person: </b>a physical test ride by the page administrator, under sufficient conditions to trigger the secondary signal (a film of the test with the four test cases will be made available on the evaluation page)<br>
         </ul>
 
         Then, based on this information, a <font face="Courier New"><font color="green"><b>PASS</b></font></font>/<font face="Courier New"><font color="red"><b>FAIL</b></font></font> result is awarded to the vehicle. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
