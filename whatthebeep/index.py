@@ -119,13 +119,20 @@ def main():
     # Sort by date descending (newest first)
     entries.sort(key=lambda x: (x['date'], x['dirname']), reverse=True)
 
-    # Build list HTML
-    lines = []
+    # Build list HTML sections: in-person and desktop
+    in_person_lines = []
+    desktop_lines = []
     for e in entries:
-        line = f'{e["display_date"]} [{result_html(e["result"])}] <a href="{e["dirname"]}/index.html">{e["title"]}</a><br>'
-        lines.append(line)
+        # detect marker '(*)' at end of title and remove for display
+        title_raw = e.get('title', '')
+        if re.search(r"\(\*\)\s*$", title_raw):
+            title_display = re.sub(r"\s*\(\*\)\s*$", "", title_raw).strip()
+            in_person_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/index.html\">{title_display}</a><br>")
+        else:
+            desktop_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/index.html\">{title_raw}</a><br>")
 
-    list_html = "\n        ".join(lines)
+    in_person_html = "\n        ".join(in_person_lines)
+    desktop_html = "\n        ".join(desktop_lines)
 
     # Final HTML
     html = f"""<!DOCTYPE html>
@@ -154,10 +161,15 @@ def main():
     <body>
     <font face="Verdana">
         <h1>What The Beep?</h1>
-        The Yawning Chihuahua believes an an effective rear seatbelt reminder <b>should</b> alert when an occupant is not belted and <b>should never</b> alert for unoccupied seats. While that might sound obvious, the rear seatbelt reminder systems in the majority of Indian-market vehicles don't behave that way.<br><br>
-        {list_html}<br>
-        (*) <i>in-person evaluation</i><br><br>
-        <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
+        <h3>In-Person Evaluations</h3>
+        These are vehicles evaluated based on seatbelt reminder tests that the page administrator has had the opportunity to conduct in person.<br><br>
+        {in_person_html}
+
+        <h3>Desktop Evaluations</h3>
+        Due to limited resources for in-person testing, some models (new, recently updated, or otherwise of interest) are evaluated based on publicly available official documentation until they can be evaluated based on in-person testing.<br><br>
+        {desktop_html}
+
+        <br><marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br>
 
         <h3>Vehicle Selection</h3>
         Selection of vehicle models for evaluation is at the sole discretion of the page administrator. In general principle, in order to be evaluated, the vehicle must be classified as M1/N1, and on sale in the Indian market. Local homologation is <b>not</b> a requirement for selection. <b>Anyone can request that a specific vehicle model be <i>considered</i> for evaluation by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> or <a href="https://x.com/theyawninchihua">on Twitter</a> with the vehicle model name.</b><br>
@@ -165,9 +177,10 @@ def main():
         <h3>Evaluation Protocol</h3>
         First, information is gathered about the behaviour of the selected vehicle's rear seat belt reminder from one of the following sources:
         <ul>
-            <li> <b>desktop: </b>official documentation on the vehicle manufacturer's website, either on the India website or implied to be intended for the Indian market<br><b>OR</b>
-            <li> <b>in-person: </b>a physical test ride by the page administrator, under sufficient conditions to trigger the secondary signal (a film of the test with the four test cases will be made available on the evaluation page)<br>
+            <li> <b>in-person testing: </b>a physical test ride by the page administrator, with four testcases filmed under sufficient conditions to trigger the secondary signal, registration or VIN recorded, and with sufficient evidence that the vehicle is representative of recent production. An evaluation based on in-person testing is called an <b>in-person evaluation</b>.</li>
+            <li> <b>documentation: </b>official documentation from the vehicle manufacturer describing the vehicle's rear seatbelt reminder, either on the India website or implied to be intended for the Indian market. An evaluation based on documentation is called a <b>desktop evaluation</b>.</li>
         </ul>
+        In case both sources are available, the resulting in-person evaluation holds precedence. A desktop evaluation may be replaced by an in-person evaluation if the opportunity for in-person testing arises.<br><br>
 
         Then, based on this information, a <font face="Courier New"><font color="green"><b>PASS</b></font></font>/<font face="Courier New"><font color="red"><b>FAIL</b></font></font> result is awarded to the vehicle. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
         <font face="Courier New">
