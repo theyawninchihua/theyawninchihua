@@ -157,7 +157,7 @@ def render_index(path, items):
             banner_path = os.path.join(path, e['name'], 'banner.png')
             has_banner = os.path.isfile(banner_path)
 
-            html += "                <td valign=\"top\">\n"
+            html += f"                <td valign=\"top\" width=\"{int(100/ARTICLES_PER_ROW)}%\">\n"
             html += "                    <figure>\n"
             if has_banner:
                 # Anchor points to <name>/index.html, image src is <name>/banner.png
