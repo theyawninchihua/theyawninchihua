@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="icon" type="image/x-icon" href="https://theyawninchihua.github.io/theyawninchihua/theyawninchihua.png">
+    <font face="Verdana">
+        <title>India-spec Honda ZR-V rear seatbelt reminder evaluated under What The Beep? | The Yawning Chihuahua</title>
+        <!-- The type of card. "summary_large_image" shows a big image preview -->
+        <meta name="twitter:card" content="summary_large_image">
+        <!-- Your site's X handle (optional) -->
+        <meta name="twitter:site" content="@theyawninchihua">
+        <!-- The title of your page (max 70 characters) -->
+        <meta name="twitter:title" content="India-spec Honda ZR-V rear seatbelt reminder evaluated under What The Beep?">
+        <!-- A brief summary of your content (max 200 characters) -->
+        <meta name="twitter:description" content="Indian model lacks Euro NCAP 5-star model's rear occupant detection.">
+        <!-- The FULL URL to the image you want to show (must be absolute, not relative) -->
+        <meta name="twitter:image" content="https://theyawninchihua.github.io/theyawninchihua/articles/N202607311/banner.png">
+
+        <!-- OG tags for other platforms -->
+         <!-- Open Graph (for Discord, WhatsApp, Facebook, etc.) -->
+        <meta property="og:title" content="India-spec Honda ZR-V rear seatbelt reminder evaluated under What The Beep?">
+        <meta property="og:description" content="Indian model lacks Euro NCAP 5-star model's rear occupant detection.">
+        <meta property="og:image" content="https://theyawninchihua.github.io/theyawninchihua/articles/N202607311/banner.png">
+        <meta property="og:url" content="https://theyawninchihua.github.io/theyawninchihua/articles/N202607311/index.html">
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="The Yawning Chihuahua">
+        <center>
+            <img src="../../theyawninchihua.png" width="45"><br>
+            <b>The Yawning Chihuahua</b><br>
+            <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep">What The Beep?</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a>
+        </center>
+    </font>
+    </head>
+    <body>
+    <font face="Verdana">
+        <h3>NOTICE</h3>
+
+        <h1>India-spec Honda ZR-V rear seatbelt reminder evaluated under What The Beep?</h1>
+        <b>31.07.2026</b><br><br>
+
+        <img src="banner.png" width="400" border="1"><br><br>
+
+        Today, the rear seatbelt reminder of the recently launched India-spec <a href="../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/index.html">Honda ZR-V e:HEV</a> has received a <font face="Courier New" color="red"><b>FAIL</b></font> result in a <a href="../../whatthebeep/index.html">What The Beep?</a> desktop evaluation based on its user manual.
+        
+        <h2>Honda ZR-V evaluation explained</h2>
+        Based on <a href="https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/pdfs/user-manual/All%20New%20ZR-V%20eHEV%202026.pdf">its documentation</a>, the rear seats of the India-spec ZR-V monitor only belt fastening status, but not occupancy. The ZR-V issues an audible signal when any rear seatbelt is <i>unfastened</i> while driving.<br><br>
+        
+        This means the <a href="../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/index.html">ZR-V</a> fails to audibly alert rear occupants who have been unbelted from the start (likely the majority of unbelted occupants). Also, <b>unlike the British model</b> (<a href="https://www.honda.co.uk/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1246050255/textColumn/richtextdownload_da5/file.res/26%20ZR-V%20HEV%20GHAC%20(KE%20KG)-323V56210_web.pdf">see documentation</a>), which monitors rear seat occupancy, the India-spec ZR-V can also falsely alert if a belt is taken off on an empty seat (for instance, if an outboard occupant accidentally attempts to use the centre buckle). Both of these individually are sufficient conditions for a <font face="Courier New" color="red"><b>FAIL</b></font> under the <a href="../../whatthebeep/index.html">What The Beep?</a> evaluation criteria.<br><br>
+
+        <font face="Courier New">
+            <center>
+            <table border="1"> 
+            <tr>
+                <th colspan="4"><h2><a href="../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/index.html">Honda ZR-V (India)</a></h2></th>
+            </tr>      
+            <tr>
+                <th colspan="4">Behaviour of second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Acoustic signal</th>
+                <th>Verdict</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><b>NO</b></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><b>YES</b></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><b>NO</b></td>
+                <td align="center"><font color="green"><b>OK</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><b>YES</b></td>
+                <td align="center"><font color="red"><b>NOT OK</b></font></td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center"></td>
+                <td align="center"><font color="red"><b>FAIL</b></font></td>
+            </tr>
+            </table><br>
+            </center>
+        </font>
+
+        <h2>Double standard: British ZR-V has rear occupant detection</h2>
+        Importantly, a review of equivalent documentation for global models of the new ZR-V reveals that <b>ZR-V versions destined for the United Kingdom (<a href="https://www.honda.co.uk/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1246050255/textColumn/richtextdownload_da5/file.res/26%20ZR-V%20HEV%20GHAC%20(KE%20KG)-323V56210_web.pdf">see documentation</a>) demonstrate superior seatbelt reminder behaviour and have occupant detection in the rear outboard seats</b>.<br><br>
+
+        <!-- START OF IMAGE SLIDER DROP-IN SNIPPET -->
+        <center>
+            <div style="position: relative; width: 400px; height: 225px; overflow: hidden; border: 1px solid #000000; user-select: none; -webkit-user-select: none;">
+                <!-- Right Image (European Spec) - Stays statically in background -->
+                <img src="ZRV_EU_SBR.png" width="400" height="225" style="position: absolute; top: 0; left: 0; display: block; border: 0;" alt="Euro-spec cluster showing active occupant symbols">
+                
+                <!-- Left Image (India Spec) - Dynamically clipped by the slider -->
+                <img id="indiaImg" src="ZRV_IN_SBR.png" width="400" height="225" style="position: absolute; top: 0; left: 0; display: block; border: 0; clip: rect(0px, 200px, 225px, 0px);" alt="India-spec cluster lacking rear occupant status symbols">
+                
+                <!-- Visual Divider Line -->
+                <div id="sliderSplit" style="position: absolute; top: 0; bottom: 0; left: 200px; width: 3px; background-color: #FFFFFF; z-index: 5; pointer-events: none;">
+                    <div style="position: absolute; top: 50%; left: 50%; margin-top: -15px; margin-left: -15px; width: 30px; height: 30px; background-color: #FFFFFF; border: 1px solid #000000; border-radius: 50%; text-align: center; line-height: 28px; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; color: #000000; box-shadow: 0px 2px 4px rgba(0,0,0,0.3);">↔</div>
+                </div>
+                
+                <!-- Hidden Native Input overlay to handle drag interactions seamlessly -->
+                <input type="range" min="0" max="400" value="200" id="sliderControl" style="position: absolute; top: 0; left: 0; width: 400px; height: 225px; margin: 0; padding: 0; opacity: 0; cursor: ew-resize; z-index: 10;">
+            </div>
+            
+            <!-- Quick text caption matched to the site font style -->
+            <font size="2"><i><b>SLIDE TO COMPARE</b>: Behaviour of rear seatbelt reminder of <b>India-spec ZR-V (left)</b> vs <b>UK-spec ZR-V (right)</b>.</i></font>
+            <br><br>
+        </center>
+
+        <script type="text/javascript">
+            (function() {
+                var control = document.getElementById('sliderControl');
+                var indiaImg = document.getElementById('indiaImg');
+                var splitLine = document.getElementById('sliderSplit');
+
+                if (control && indiaImg && splitLine) {
+                    control.oninput = function() {
+                        var pos = control.value;
+                        // Move the white line selector
+                        splitLine.style.left = pos + 'px';
+                        // Update classic clip rect format: rect(top, right, bottom, left)
+                        indiaImg.style.clip = 'rect(0px, ' + pos + 'px, 225px, 0px)';
+                    };
+                }
+            })();
+        </script>
+        <!-- END OF IMAGE SLIDER DROP-IN SNIPPET -->
+
+        Occupant detection for the rear seatbelt reminder is a prerequisite for SBRs to score points in Euro NCAP, where the ZR-V received <a href="https://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/654651.pdf">four stars in 2023</a>.<br><br>
+
+        <font face="Courier New">
+            <center>
+            <table border="1"> 
+            <tr>
+                <th colspan="3"><h2>Honda ZR-V (United Kingdom)</h2></th>
+            </tr>      
+            <tr>
+                <th colspan="3">Behaviour of second-level warning in the 2nd-row outboard seats</th>
+            </tr>
+            <tr>
+                <th>Testcase</th>
+                <th>Description</th>
+                <th>Acoustic signal</th>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_1.png" width="60"></td>
+                <td align="center">occupant does not fasten seatbelt</td>
+                <td align="center"><font color="red"><b>NO</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_2.png" width="60"></td>
+                <td align="center">occupant takes off seatbelt</td>
+                <td align="center"><font color="green"><b>YES</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_3.png" width="60"></td>
+                <td align="center">seatbelt not fastened on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+            </tr>
+            <tr>
+                <td align="center"><img src="../../whatthebeep/testcase_4.png" width="60"></td>
+                <td align="center">seatbelt taken off on an empty seat</td>
+                <td align="center"><font color="green"><b>NO</b></font></td>
+            </tr>
+            </table><br>
+            </center>
+        </font>
+
+        More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
+        <ul>
+            <li><a href="../../whatthebeep/index.html">All you need to know about What The Beep?</a></li>
+            <li><a href="../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/index.html">Datasheet for Honda ZR-V</a></li>
+        </ul>
+
+        -TYC<br><br>
+
+        <a href="../index.html">click to go back to articles</a>
+    </font>
+    </body>
+</html>
