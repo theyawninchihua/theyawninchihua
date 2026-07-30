@@ -219,7 +219,7 @@ def main():
             </table>
         </font><br>
 
-        In comparison, the weaker requirements of upcoming government legislation are explained below:<br><br>
+        In comparison, the requirements of upcoming government legislation are explained below:<br><br>
 
         <font face="Courier New">
             <table border="1">
