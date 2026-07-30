@@ -138,7 +138,7 @@ def render_index(path, items):
         </center>
     </font>
     </head>
-    <body>
+    <body bgcolor="beige">
     <font face="Verdana">
         <h2>Articles</h2>
         <table>

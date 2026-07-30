@@ -158,7 +158,7 @@ def main():
         </center>
     </font>
     </head>
-    <body>
+    <body bgcolor="beige">
     <font face="Verdana">
         <h1>What The Beep?</h1>
         <h3>In-Person Evaluations</h3>

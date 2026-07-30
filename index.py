@@ -234,7 +234,7 @@ def main():
         </center>
     </font>
     </head>
-    <body>
+    <body bgcolor="beige">
     <font face="Verdana">
         <br>
         <table>
