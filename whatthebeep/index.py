@@ -161,6 +161,7 @@ def main():
     <body bgcolor="beige">
     <font face="Verdana">
         <h1>What The Beep?</h1>
+        Independent evaluations of the rear seatbelt reminders of Indian cars.
         <h3>In-Person Evaluations</h3>
         These are vehicles evaluated based on seatbelt reminder tests that the page administrator has had the opportunity to conduct in person.<br><br>
         {in_person_html}
@@ -169,7 +170,10 @@ def main():
         Due to limited resources for in-person testing, some models (new, recently updated, or otherwise of interest) are evaluated based on publicly available official documentation until they can be evaluated based on in-person testing.<br><br>
         {desktop_html}
 
-        <br><marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br>
+        <br><marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
+
+        <center><i>A short demonstration of the consequences of not wearing rear seatbelts:</i></center>
+        <center><iframe width="560" height="315" src="https://www.youtube.com/embed/yYrKh6DYGqM?si=hDqEIFWFfPrtC6sG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
         <h3>Vehicle Selection</h3>
         Selection of vehicle models for evaluation is at the sole discretion of the page administrator. In general principle, in order to be evaluated, the vehicle must be classified as M1/N1, be on sale in the Indian market, and have a second row of seats. Local homologation is <b>not</b> a requirement for selection. <b>Anyone can request that a specific vehicle model be <i>considered</i> for evaluation by contacting the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> or <a href="https://x.com/theyawninchihua">on Twitter</a> with the vehicle model name.</b><br>
