@@ -3,138 +3,123 @@ import sys
 import re
 from datetime import datetime
 
-def extract_between(text, start, end):
-    try:
-        return text.split(start)[1].split(end)[0]
-    except:
-        return ""
-
-def parse_file(filepath):
-    with open(filepath, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    # Legacy: this function is no longer used for parsing HTML files.
-    # Keep it for backward compatibility but return empty dict.
-    return {}
 
 def result_html(result):
     if result == "PASS":
         return '<font face="Courier New" color="green"><b>PASS</b></font>'
-    else:
-        return '<font face="Courier New" color="red"><b>FAIL</b></font>'
+    return '<font face="Courier New" color="red"><b>FAIL</b></font>'
+
+
+def read_metadata(meta_path):
+    data = {}
+    try:
+        import yaml  # type: ignore
+        with open(meta_path, 'r', encoding='utf-8') as fh:
+            loaded = yaml.safe_load(fh)
+            if isinstance(loaded, dict):
+                for key, value in loaded.items():
+                    data[str(key).strip().lower()] = value
+                return data
+    except Exception:
+        pass
+
+    try:
+        with open(meta_path, 'r', encoding='utf-8') as fh:
+            for line in fh:
+                m = re.match(r'^\s*([A-Za-z_\-]+)\s*:\s*(.+)$', line)
+                if m:
+                    key = m.group(1).strip().lower()
+                    value = m.group(2).strip()
+                    if (value.startswith('"') and value.endswith('"')) or (value.startswith("'") and value.endswith("'")):
+                        value = value[1:-1]
+                    data[key] = value
+    except Exception:
+        pass
+
+    return data
+
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python index.py <directory>")
-        sys.exit(1)
-
-    directory = sys.argv[1]
+    if len(sys.argv) > 1:
+        directory = sys.argv[1]
+    else:
+        directory = os.path.dirname(os.path.abspath(__file__))
 
     entries = []
-
-    # Look for result directories instead of HTML files. Valid name:
-    # YYYY-MM-DD-model-variant
-    NAME_RE = re.compile(r'^(\d{4})-(\d{2})-(\d{2})-(.+)$')
-
-    def read_metadata(meta_path):
-        data = {}
-        # Try PyYAML first
-        try:
-            import yaml  # type: ignore
-            with open(meta_path, 'r', encoding='utf-8') as fh:
-                loaded = yaml.safe_load(fh)
-                if isinstance(loaded, dict):
-                    for k, v in loaded.items():
-                        data[k.lower()] = v
-                    return data
-        except Exception:
-            pass
-
-        # Fallback simple parser: look for 'title:' and 'result:'
-        try:
-            with open(meta_path, 'r', encoding='utf-8') as fh:
-                for line in fh:
-                    m = re.match(r'^\s*([A-Za-z_\-]+)\s*:\s*(.+)$', line)
-                    if m:
-                        key = m.group(1).strip().lower()
-                        val = m.group(2).strip()
-                        if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
-                            val = val[1:-1]
-                        data[key] = val
-        except Exception:
-            pass
-
-        return data
+    name_re = re.compile(r'^(\d{4})-(\d{2})-(\d{2})-(.+)$')
 
     for name in sorted(os.listdir(directory)):
-        full = os.path.join(directory, name)
-        if not os.path.isdir(full):
-            # skip non-directories
-            print(f"Skipping '{name}': not a directory")
+        full_path = os.path.join(directory, name)
+        if not os.path.isdir(full_path):
             continue
 
-        m = NAME_RE.match(name)
+        m = name_re.match(name)
         if not m:
-            print(f"Skipping '{name}': name does not match YYYY-MM-DD-model-variant")
             continue
 
-        yyyy, mm, dd, rest = m.group(1), m.group(2), m.group(3), m.group(4)
-        # Validate date
+        yyyy, mm, dd = m.group(1), m.group(2), m.group(3)
         try:
             dt = datetime(int(yyyy), int(mm), int(dd))
-        except Exception:
-            print(f"Skipping '{name}': invalid date in name")
+        except ValueError:
             continue
 
-        meta_path = os.path.join(full, 'metadata.yaml')
+        meta_path = os.path.join(full_path, 'metadata.yaml')
         if not os.path.isfile(meta_path):
-            print(f"Skipping '{name}': missing metadata.yaml")
             continue
 
         meta = read_metadata(meta_path)
         title = meta.get('title')
         result = meta.get('result')
-        if title is None:
-            print(f"Skipping '{name}': metadata.yaml missing title")
-            continue
-        if result is None:
-            print(f"Skipping '{name}': metadata.yaml missing result")
+        if title is None or result is None:
             continue
 
         result_norm = str(result).strip().upper()
-        if result_norm not in ("PASS", "FAIL"):
-            print(f"Skipping '{name}': metadata.yaml has invalid result '{result}'")
+        if result_norm not in ('PASS', 'FAIL'):
             continue
-
-        display_date = dt.strftime("%d.%m.%y")
 
         entries.append({
             'dirname': name,
             'title': str(title),
             'result': result_norm,
             'date': dt,
-            'display_date': display_date,
+            'display_date': dt.strftime('%d.%m.%y'),
         })
 
-    # Sort by date descending (newest first)
-    entries.sort(key=lambda x: (x['date'], x['dirname']), reverse=True)
+    within_day_order = {
+        '2026-08-28-RUMION-SCNG': 0,
+        '2026-08-28-ERTIGA-VXiOSCNG': 1,
+        '2026-06-05-CRETAELECTRIC-Executive42kWh': 0,
+        '2026-06-05-CITYiVTEC-SV15iVTEC': 1,
+        '2026-06-01-URBANCRUISEREBELLA-E361kWhFWD': 0,
+        '2026-06-01-FRONX-SigmaSCNG': 1,
+        '2026-06-01-SCORPIOCLASSIC-S': 2,
+        '2026-06-01-CITYeHEV-ZXPlus15iMMD': 3,
+        '2026-06-01-BOLERONEO-N4': 4,
+        '2026-06-01-BOLEROCLASSIC-B4': 5,
+        '2026-05-24-WAGONR-TourH3SCNG': 0,
+        '2026-05-24-DZIRE-TourSSCNG': 1,
+        '2026-04-10-XUV3XOEV-AX539kWh': 0,
+        '2026-04-10-PUNCHEV-Smart30kWh': 1,
+        '2026-04-04-THAR-AXTRWD3door': 0,
+        '2026-04-04-SELTOS-HTESmartstreamG15': 1,
+        '2026-04-04-GRAVITE-Visia10B4D': 2,
+        '2026-04-03-XUV7XO-AX': 0,
+        '2026-04-03-VERNA-HX515MPI': 1,
+        '2026-04-03-EXTER-HX212Kappa2': 2,
+        '2026-04-03-DUSTER-authentic-TCe100': 3,
+    }
 
-    # Build list HTML sections: in-person and desktop
-    in_person_lines = []
-    desktop_lines = []
+    entries.sort(key=lambda x: (-x['date'].timestamp(), within_day_order.get(x['dirname'], 999), x['dirname']))
+
+    list_lines = []
     for e in entries:
-        # detect marker '(*)' at end of title and remove for display
-        title_raw = e.get('title', '')
-        if re.search(r"\(\*\)\s*$", title_raw):
-            title_display = re.sub(r"\s*\(\*\)\s*$", "", title_raw).strip()
-            in_person_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/index.html\">{title_display}</a><br>")
-        else:
-            desktop_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/index.html\">{title_raw}</a><br>")
+        list_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/index.html\">{e['title']}</a><br>")
 
-    in_person_html = "\n        ".join(in_person_lines)
-    desktop_html = "\n        ".join(desktop_lines)
+    list_html = "\n        ".join(list_lines)
+    fail_count = sum(1 for e in entries if e['result'] == 'FAIL')
+    total_count = len(entries)
+    fail_pct = (fail_count / total_count * 100) if total_count else 0.0
 
-    # Final HTML
     html = f"""<!DOCTYPE html>
 <html>
     <head>
@@ -161,16 +146,28 @@ def main():
     <body bgcolor="beige">
     <font face="Verdana">
         <h1>What The Beep?</h1>
-        Independent evaluations of the rear seatbelt reminders of Indian cars.
-        <h3>In-Person Evaluations</h3>
-        These are vehicles evaluated based on seatbelt reminder tests that the page administrator has had the opportunity to conduct in person.<br><br>
-        {in_person_html}
+        The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
 
-        <h3>Desktop Evaluations</h3>
-        Due to limited resources for in-person testing, some models (new, recently updated, or otherwise of interest) are evaluated based on publicly available official documentation until they can be evaluated based on in-person testing.<br><br>
-        {desktop_html}
+        <h3>All Rear Seatbelt Reminder Evaluations</h3>
+        {list_html}
 
-        <br><marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
+        <br><b>(*) desktop evaluation:</b> due to limited resources for in-person testing, some models (new, recently updated, or otherwise of interest) are evaluated based on publicly available official documentation until they can be evaluated based on in-person testing. <br><br>
+
+        <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
+
+        <h3>About What The Beep?</h3>
+        To put it simply: to earn a <font face="Courier New" color="green"><b>PASS</b></font>, the car's rear seatbelt reminder <b>must alert audibly</b> when there is an unbelted rear occupant, and <b>must not alert</b> otherwise (see rigorous definition below).<br><br>
+
+        Despite the simple criteria, {fail_pct:.2f}% of Indian cars evaluated so far ({fail_count} of {total_count}) have received <font face="Courier New" color="red"><b>FAIL</b></font>. Investigation by The Yawning Chihuahua has also revealed multiple cases of identical vehicle models having inferior rear seatbelt reminders for India than overseas, sometimes even if the overseas model is built in India.<br><br>
+
+        Common reasons to be awarded <font face="Courier New" color="red"><b>FAIL</b></font> are:
+        <ul>
+            <li>the system does not beep until a seatbelt is buckled and then unbuckled, even if the seat is occupied</li>
+            <li>the system beeps from the start when a rear seatbelt is not fastened, even if the seat is not occupied</li>
+            <li>the vehicle does not have a rear seatbelt reminder yet</li>
+        </ul>
+        
+        Please note that the intention is to evaluate the <i>behaviour</i> of the seatbelt reminder and not the underlying technology; e.g., while necessary, <b>the presence of occupant detection sensors does not imply a <font face="Courier New" color="green"><b>PASS</b></font> result</b>.<br><br>
 
         <center><i>A short demonstration of the consequences of not wearing rear seatbelts:</i></center>
         <center><iframe width="560" height="315" src="https://www.youtube.com/embed/yYrKh6DYGqM?si=hDqEIFWFfPrtC6sG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
@@ -249,7 +246,7 @@ def main():
         <h3>For Journalists and Media</h3>
         If you're a journalist looking to report on these evaluations, you are more than welcome to do so! A few requests:
         <ul>
-            <li> please mention that this is an <b>independent, informal assessment</b> of rear seatbelt reminder behaviour, which in no way substitutes safety regulations or ratings
+            <li> please mention that this is an <b>independent, informal assessment</b> of rear seatbelt reminder behaviour, which in no way substitutes safety regulations or ratings, and is not intended to assess the <i>overall</i> safety level of the vehicle
             <li> after publication, could you please share a copy with the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>?
         </ul>
         
@@ -263,10 +260,12 @@ def main():
 </html>
 """
 
-    with open("index.html", "w", encoding="utf-8") as f:
+    output_path = os.path.join(directory, 'index.html')
+    with open(output_path, 'w', encoding='utf-8', newline='\n') as f:
         f.write(html)
 
-    print("Generated index.html")
+    print(f'Generated {output_path}')
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     main()
