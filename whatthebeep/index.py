@@ -220,7 +220,7 @@ def main():
             </table>
         </font><br>
 
-        In comparison, the requirements of upcoming government legislation are explained below:<br><br>
+        In comparison, the narrower requirements of upcoming government legislation are explained below:<br><br>
 
         <font face="Courier New">
             <table border="1">
@@ -244,10 +244,16 @@ def main():
         </font><br>
 
         <h3>For Journalists and Media</h3>
-        If you're a journalist looking to report on these evaluations, you are more than welcome to do so! A few requests:
+        If you're a journalist looking to report on <i>What The Beep?</i> evaluations, you are more than welcome to do so! A few requests:
         <ul>
-            <li> please mention that this is an <b>independent, informal assessment</b> of rear seatbelt reminder behaviour, which in no way substitutes safety regulations or ratings, and is not intended to assess the <i>overall</i> safety level of the vehicle
-            <li> after publication, could you please share a copy with the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a>?
+            <li> please consider mentioning that <i>What The Beep?</i> is an <b>independent, informal assessment</b> of rear seatbelt reminder behaviour</li>
+            <li> kindly avoiding using language that suggests <i>What The Beep?</i> is intended to:
+            <ul>
+                <li>replace safety regulations</li>
+                <li>replace consumer tests/safety ratings</li>
+                <li>assess the overall safety level of the vehicle</li>
+            </ul></li>
+            <li> it would be much appreciated if, after publication, you could share a copy with the page administrator <a href="mailto:theyawningchihuahua@gmail.com">via email</a> for bookkeeping purposes</li>
         </ul>
         
         <h3>Error Policy</h3>
