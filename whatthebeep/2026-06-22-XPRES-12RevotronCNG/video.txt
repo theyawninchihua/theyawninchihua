@@ -1,0 +1,15 @@
+Tata XPRES
+WTB200626TXP1
+car.png
+22.06.26
+1.2 Revotron CNG
+YES
+../video_elements/tests/WTB200626TXP1/1.mov
+YES
+../video_elements/tests/WTB200626TXP1/2.mov
+YES
+../video_elements/tests/WTB200626TXP1/3.mov
+YES
+../video_elements/tests/WTB200626TXP1/4.mov
+film.mp4
+../video_elements/intro.mp3

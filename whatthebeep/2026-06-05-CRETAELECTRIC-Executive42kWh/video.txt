@@ -1,0 +1,15 @@
+Hyundai CRETA ELECTRIC
+WTB040626HCE1
+car.png
+05.06.26
+Executive 42 kWh
+NO
+../video_elements/tests/WTB040626HCE1/1.mov
+YES
+../video_elements/tests/WTB040626HCE1/2.mov
+NO
+../video_elements/tests/WTB040626HCE1/3.mov
+YES
+../video_elements/tests/WTB040626HCE1/4.mov
+film.mp4
+../video_elements/intro.mp3

@@ -1,0 +1,15 @@
+Maruti Suzuki WAGON R
+WTB240526MWA1
+car.png
+24.05.26
+Tour H3 S-CNG
+NO
+../video_elements/tests/WTB240526MWA1/1.mov
+YES
+../video_elements/tests/WTB240526MWA1/2.mov
+NO
+../video_elements/tests/WTB240526MWA1/3.mov
+YES
+../video_elements/tests/WTB240526MWA1/4.mov
+film.mp4
+../video_elements/intro.mp3

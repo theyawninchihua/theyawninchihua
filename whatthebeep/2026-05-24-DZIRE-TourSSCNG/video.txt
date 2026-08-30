@@ -1,0 +1,15 @@
+Maruti Suzuki DZIRE
+WTB230526MDZ1
+car.png
+24.05.26
+Tour S S-CNG
+NO
+../video_elements/tests/WTB230526MDZ1/1.mov
+YES
+../video_elements/tests/WTB230526MDZ1/2.mov
+NO
+../video_elements/tests/WTB230526MDZ1/3.mov
+YES
+../video_elements/tests/WTB230526MDZ1/4.mov
+film.mp4
+../video_elements/intro.mp3

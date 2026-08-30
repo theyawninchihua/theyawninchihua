@@ -1,0 +1,15 @@
+Toyota URBAN CRUISER HYRYDER
+WTB200826TUR1
+car.png
+21.08.26
+E-CNG S
+NO
+../video_elements/tests/WTB200826TUR1/1.mov
+YES
+../video_elements/tests/WTB200826TUR1/2.mov
+NO
+../video_elements/tests/WTB200826TUR1/3.mov
+YES
+../video_elements/tests/WTB200826TUR1/4.mov
+film.mp4
+../video_elements/intro.mp3

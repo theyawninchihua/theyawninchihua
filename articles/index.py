@@ -130,7 +130,7 @@ def render_index(path, items):
     <head>
     <link rel="icon" type="image/x-icon" href="https://theyawninchihua.github.io/theyawninchihua/theyawninchihua.png">
     <font face="Verdana">
-        <title>Home | The Yawning Chihuahua</title>
+        <title>Articles | The Yawning Chihuahua</title>
         <center>
             <img src="../theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>

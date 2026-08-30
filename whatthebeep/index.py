@@ -195,7 +195,7 @@ def main():
             <tr>
                 <th>Testcase</th>
                 <th>Description</th>
-                <th>Acoustic signal</th>
+                <th>Audible warning</th>
             </tr>
             <tr>
                 <td align="center"><img src="./testcase_1.png" width="60"></td>
@@ -233,7 +233,7 @@ def main():
             <tr>
                 <th>Testcase</th>
                 <th>Description</th>
-                <th>Acoustic signal</th>
+                <th>Audible warning</th>
             </tr>
             <tr>
                 <td align="center"><img src="./testcase_2.png" width="60"></td>

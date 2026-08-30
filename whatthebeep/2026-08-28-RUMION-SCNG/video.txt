@@ -1,0 +1,15 @@
+Toyota RUMION
+WTB270826TRU1
+car.png
+28.08.26
+S CNG
+NO
+../video_elements/tests/WTB270826TRU1/1.mov
+YES
+../video_elements/tests/WTB270826TRU1/2.mov
+NO
+../video_elements/tests/WTB270826TRU1/3.mov
+YES
+../video_elements/tests/WTB270826TRU1/4.mov
+film.mp4
+../video_elements/intro.mp3

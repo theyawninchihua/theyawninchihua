@@ -1,0 +1,15 @@
+Maruti Suzuki FRONX
+WTB310526MFR1
+car.png
+01.06.26
+Sigma S-CNG
+NO
+../video_elements/tests/WTB310526MFR1/1.mov
+YES
+../video_elements/tests/WTB310526MFR1/2.mov
+NO
+../video_elements/tests/WTB310526MFR1/3.mov
+YES
+../video_elements/tests/WTB310526MFR1/4.mov
+film.mp4
+../video_elements/intro.mp3

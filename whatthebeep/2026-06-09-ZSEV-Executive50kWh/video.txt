@@ -1,0 +1,15 @@
+MG ZS EV
+WTB080626MZS1
+car.png
+09.06.26
+Executive 50 kWh
+YES
+../video_elements/tests/WTB080626MZS1/1.mov
+YES
+../video_elements/tests/WTB080626MZS1/2.mov
+NO
+../video_elements/tests/WTB080626MZS1/3.mov
+NO
+../video_elements/tests/WTB080626MZS1/4.mov
+film.mp4
+../video_elements/intro.mp3
