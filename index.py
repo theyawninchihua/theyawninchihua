@@ -198,6 +198,8 @@ def main():
     sbr_block = "\n                    ".join(sbr_lines)
     show_desktop_note = any(str(e['title']).strip().endswith('(*)') for e in top_sbrs)
     desktop_note = "                    (*) <i>desktop evaluation</i><br><br>\n" if show_desktop_note else ""
+    show_diff_note = any(str(e['title']).strip().endswith('(**)') for e in top_sbrs)
+    diff_note = "                    (**) <i>changes to latest version unlikely to affect result</i><br><br>\n" if show_desktop_note else ""
 
     # Build featured article block and others block matching current index.html layout
     def article_fig(a):
@@ -262,6 +264,7 @@ def main():
                     {sbr_block}<br>
                     <a href="whatthebeep/index.html">see more</a><br><br>
                     {desktop_note}
+                    {diff_note}
                 </td>
             </tr>
             <tr>
