@@ -199,7 +199,7 @@ def main():
     show_desktop_note = any(str(e['title']).strip().endswith('(*)') for e in top_sbrs)
     desktop_note = "                    (*) <i>desktop evaluation</i><br><br>\n" if show_desktop_note else ""
     show_diff_note = any(str(e['title']).strip().endswith('(**)') for e in top_sbrs)
-    diff_note = "                    (**) <i>changes to latest version unlikely to affect result</i><br><br>\n" if show_desktop_note else ""
+    diff_note = "                    (**) <i>cosmetic/specification changes to latest version unlikely to affect result</i><br><br>\n" if show_desktop_note else ""
 
     # Build featured article block and others block matching current index.html layout
     def article_fig(a):
