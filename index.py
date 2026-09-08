@@ -234,7 +234,7 @@ def main():
         <center>
             <img src="theyawninchihua.png" width="45"><br>
             <b>The Yawning Chihuahua</b><br>
-            <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep">What The Beep?</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a>
+            <a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep">#WhatTheBeep</a> | <a href="https://x.com/theyawninchihua">Twitter</a> | <a href="https://instagram.com/theyawninchihua">Instagram</a> | <a href="https://youtube.com/@theyawninchihua">YouTube</a>
         </center>
     </font>
     </head>
@@ -258,7 +258,7 @@ def main():
                     </table>
                 </td>
                 <td valign="top">
-                    <h2>What The Beep?</h2>
+                    <h2>#WhatTheBeep</h2>
                     <marquee scrollamount="10"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
                     <b>Latest results:</b><br>
                     {sbr_block}<br>

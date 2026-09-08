@@ -36,7 +36,7 @@ def text_clip(text, size, color="black", font=VERDANA_FONT):
 
 def branding(full_name, duration=SLIDE_DURATION, include_name=True):
     logo = ImageClip(LOGO_PATH).resized(height=70).with_position((60, 45)).with_duration(duration)
-    product = text_clip("What The Beep?", 40, font=VERDANA_ITALIC_FONT).with_position((875, 55)).with_duration(duration) # changing position manually for correct fit
+    product = text_clip("#WhatTheBeep", 40, font=VERDANA_ITALIC_FONT).with_position((875, 55)).with_duration(duration) # changing position manually for correct fit
     name = text_clip(full_name, 30, font=COMPUTER_MODERN_FONT).with_position((150, 60)).with_duration(duration)
     return [logo, product, name] if include_name else [logo, product]
 
@@ -149,7 +149,7 @@ def calculate_result(signals):
 
 
 def build_parser():
-    parser = argparse.ArgumentParser(description="Create one What The Beep? in-person evaluation video.")
+    parser = argparse.ArgumentParser(description="Create one #WhatTheBeep in-person evaluation video.")
     parser.add_argument("--full-name", required=True, help="Full name of the car")
     parser.add_argument("--test-id", required=True, help="Test ID printed on each testcase clip")
     parser.add_argument("--car-image", required=True, help="Path to the car image used on the intro slide")
