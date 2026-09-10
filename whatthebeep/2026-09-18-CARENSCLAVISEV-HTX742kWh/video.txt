@@ -1,0 +1,15 @@
+Kia CARENS CLAVIS EV
+WTB160926KCE1
+car.png
+18.09.26
+all variants
+NO
+../video_elements/tests/WTB090926HVE1/1.mov
+YES
+../video_elements/tests/WTB090926HVE1/2.MOV
+NO
+../video_elements/tests/WTB090926HVE1/3.mov
+YES
+../video_elements/tests/WTB090926HVE1/4.mov
+film.mp4
+../video_elements/intro.mp3
