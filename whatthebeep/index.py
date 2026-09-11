@@ -151,7 +151,7 @@ def main():
         <h3>All Rear Seatbelt Reminder Evaluations</h3>
         {list_html}
 
-        <br><b>(*) desktop evaluation:</b> model provisionally evaluated based on publicly available official documentation until in-person testing is possible
+        <br><b>(*) desktop evaluation:</b> model provisionally evaluated based on publicly available official documentation until an in-person evaluation is possible
         <br><b>(**) minor differences:</b> model evaluated may differ from version sold at the time of publication in cosmetics or unrelated specification, but there is evidence to suggest the operation of the seatbelt reminder is not affected<br><br>
 
         <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
