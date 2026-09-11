@@ -151,7 +151,7 @@ def main():
         <h3>All Rear Seatbelt Reminder Evaluations</h3>
         {list_html}
 
-        <br><b>(*) desktop evaluation:</b> model evaluated based on publicly available official documentation instead of in-person testing
+        <br><b>(*) desktop evaluation:</b> model provisionally evaluated based on publicly available official documentation until in-person testing is possible
         <br><b>(**) minor differences:</b> model evaluated may differ from version sold at the time of publication in cosmetics or unrelated specification, but there is evidence to suggest the operation of the seatbelt reminder is not affected<br><br>
 
         <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
@@ -194,7 +194,7 @@ def main():
             <li> <b>in-person testing: </b>a physical test ride by an <a href="test-administrators.html">authorised test administrator</a>, with four testcases filmed under sufficient conditions to trigger the secondary signal, registration or VIN recorded, and with sufficient evidence that the vehicle's rear seatbelt reminder is representative of recent production. An evaluation based on in-person testing is called an <b>in-person evaluation</b>.</li>
             <li> <b>documentation: </b>official documentation from the vehicle manufacturer describing the vehicle's rear seatbelt reminder, either on the India website or implied to be intended for the Indian market. An evaluation based on documentation is called a <b>desktop evaluation</b>.</li>
         </ul>
-        In case both sources are available, the resulting in-person evaluation holds precedence. A desktop evaluation may be replaced by an in-person evaluation if the opportunity for in-person testing arises.<br><br>
+        In case both sources are available, the resulting in-person evaluation holds precedence. A desktop evaluation may be replaced by an in-person evaluation when the opportunity for in-person testing arises.<br><br>
 
         Then, based on this information, a <font face="Courier New"><font color="green"><b>PASS</b></font></font>/<font face="Courier New"><font color="red"><b>FAIL</b></font></font> result is awarded to the vehicle. The necessary and sufficient conditions to be awarded a <font face="Courier New" color="green"><b>PASS</b></font> are:<br><br>
         <font face="Courier New">
