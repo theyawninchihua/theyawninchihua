@@ -1,0 +1,15 @@
+Toyota INNOVA HYCROSS
+WTB120926TIN1
+car.png
+18.09.26
+ZX 2.0 Hybrid
+NO
+../video_elements/tests/WTB120926TIN1/1.mov
+YES
+../video_elements/tests/WTB120926TIN1/2.mov
+NO
+../video_elements/tests/WTB120926TIN1/3.mov
+YES
+../video_elements/tests/WTB120926TIN1/4.mov
+film.mp4
+../video_elements/intro.mp3
