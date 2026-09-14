@@ -155,74 +155,21 @@ def main():
 
         <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
 
-        <h3>About #WhatTheBeep</h3>
+        <h3>Resources</h3>
+        <ul>
+            <li><a href="protocol.html">#WhatTheBeep protocol</a></li>
+            <li>Media kit (in progress)</li>
+        </ul>
+
+        <h3>FAQs</h3>
         <i>#WhatTheBeep</i> is an informal, independent consumer information project by The Yawning Chihuahua.
 
         <h4>What is the problem?</h4>
 
-        The non-use of rear seatbelts has long been purported to be a leading contributor to <b>deaths and serious injuries for car occupants</b> in India. As such, Indian safety regulations and consumer tests have prompted carmakers to fit rear seatbelt reminders to many vehicles in recent years. However, <b>the rear seatbelt reminder in all new Indian cars does not behave the same way</b>.<br><br>
+        The rear seatbelt reminder in all new Indian cars does not behave the same way. Current safety regulations and consumer tests in India are good standards for the loudness, interval and duration of the audible warning. However, to meet their requirements, the only situation in which a car <i>has to</i> beep is if a rear occupant <i>undoes</i> their fastened seatbelt while on the move. It is left to the manufacturer how the audible warning behaves if an occupant is simply <i>not belted</i>, or if there is no occupant. <b>Your next car's rear seatbelt reminder might not beep when a rear occupant simply doesn't buckle up, or could start "ghost" beeps even without rear occupants, leading to undue annoyance and possibly prompting tampering with the system</b>.
 
-        Current safety regulations and consumer tests in India are good standards for the loudness, interval and duration of the audible warning. However, to meet their requirements, the only situation in which a car <i>has to</i> beep is if a rear occupant <i>undoes</i> their fastened seatbelt while on the move. It is left to the manufacturer how the audible warning behaves if an occupant is simply <i>not belted</i>, or if there is no occupant.
-        
-        <h4>Why should I care?</h4>
-        The biggest implication for you is that, <b>disappointingly, your next car's rear seatbelt reminder might not beep when a rear occupant doesn't buckle up</b>. This lets manufacturers skip occupant detection in the rear seats and still avoid most false beeps. To meet regulation without occupant detection, however, it is obvious that the car must beep when a belt is taken off on an empty seat, resulting in <b>another problem: "ghost" beeps without rear occupants</b>. In a few cars, this happens even if the belt is not fastened from the start, leading to undue annoyance and possibly prompting tampering with the system permanently. Contrarily, some cars, despite having occupant detection, might not beep until an occupant unfastens a previously fastened belt, rendering the rear seatbelt reminder largely ineffective.
-
-        <h4>What is The Yawning Chihuahua doing about this?</h4>
-        Through #WhatTheBeep, The Yawning Chihuahua is independently researching the behaviour of the rear seatbelt reminders of different cars on the Indian market, evaluating them as transparently as possible, and <b>publicising a simple <font face="Courier New" color="green">PASS</font>/<font face="Courier New" color="red">FAIL</font> result for various Indian cars to alert consumers, media, regulators, and independent consumer testers</b> to differences in the behaviour of their rear seatbelt reminders.
-
-        <h4>What is required for a car to receive <font face="Courier New" color="green">PASS</font>?</h4>
-        If the car can demonstrably satisfy the following set of testcases, it is awarded <font face="Courier New" color="green"><b>PASS</b></font>, otherwise it is awarded <font face="Courier New" color="red"><b>FAIL</b></font>. Do observe that, <b>while implicitly necessary, occupant detection technology does not guarantee a <font face="Courier New" color="green">PASS</font></b>. Also, the signal characteristics like loudness, duration, pitch, interval or clarity are not evaluated.<br>
-        <font face="Courier New">
-            <table border="1">
-            <tr>
-                <th colspan="3"><font color="green">The #WhatTheBeep Testcases</font></th>
-            </tr>
-            <tr>
-                <th colspan="3">Behaviour requirements for second-level warning in the 2nd-row outboard seats</th>
-            </tr>
-            <tr>
-                <th>Testcase</th>
-                <th>Description</th>
-                <th>Audible warning (expected)</th>
-            </tr>
-            <tr>
-                <td align="center"><img src="./testcase_1.png" width="60"></td>
-                <td align="center">occupant does not fasten seatbelt</td>
-                <td align="center"><font color="green"><b>YES</b></font></td>
-            </tr>
-            <tr>
-                <td align="center"><img src="./testcase_2.png" width="60"></td>
-                <td align="center">occupant takes off seatbelt</td>
-                <td align="center"><font color="green"><b>YES</b></font></td>
-            </tr>
-            <tr>
-                <td align="center"><img src="./testcase_3.png" width="60"></td>
-                <td align="center">seatbelt not fastened on an empty seat</td>
-                <td align="center"><font color="green"><b>NO</b></font></td>
-            </tr>
-            <tr>
-                <td align="center"><img src="./testcase_4.png" width="60"></td>
-                <td align="center">seatbelt taken off on an empty seat</td>
-                <td align="center"><font color="green"><b>NO</b></font></td>
-            </tr>
-            </table>
-        </font>
-
-        <h4>How are the car models selected for evaluation?</h4>
-        Any M1 or N1 vehicle model sold in the Indian market at the time, and available with factory-fitted rear seats, is a potential candidate for evaluation, regardless of whether or not it has a rear seatbelt reminder. In practice, due to time constraints, The Yawning Chihuahua is currently prioritising <b>cars that are recently launched or updated, and cars opportunistically ridden</b> as taxis or otherwise. Ultimately The Yawning Chihuahua will decide what cars to evaluate, when, and how. However, if there is a car you are interested in, please <b>do not hesitate to <a href="mailto:theyawningchihuahua@gmail.com">suggest a car for evaluation</a></b>, unless you are professionally affiliated with a vehicle component supplier or a rival vehicle manufacturer.
-
-        <h4>How is the required information obtained?</h4>
-        The Yawning Chihuahua would prefer to obtain information <b>by testing the car in person</b> if resources at the time allow it. In this case, The Yawning Chihuahua first verifies that the car unit obtained has no modifications that are likely to alter the behaviour of its rear seatbelt reminder (if fitted). In case the car model on sale has had cosmetic or minor specification updates since the obtained car unit was registered, The Yawning Chihuahua verifies through other means (e.g. comparing owners' manuals, if available) that its seatbelt reminder behaviour is representative of the car model currently on sale. If these conditions are satisfied, The Yawning Chihuahua records an identifying detail of the car obtained (e.g. registration number or VIN), assigns a unique Test ID, and proceeds with testing. Testing involves physically performing the #WhatTheBeep testcases, deciding their outcome, and filming the evidence on a camera phone with mic. It is assumed that both outboard seats have symmetrical seatbelt reminder behaviour. The information obtained this way and published in the evaluation includes: car make, model and variant(s), identifying information of the car unit, evidence that the car unit represents the current model (if applicable), film of the #WhatTheBeep testcases being performed, and outcomes of the #WhatTheBeep testcases.<br><br>
-
-        However, due to resource limits, in-person testing is not always possible. To ensure sufficient market coverage nevertheless, The Yawning Chihuahua will often obtain information <b>through desktop research</b>. In this case, The Yawning Chihuahua obtains official documentation for the car model from the car manufacturer online and verifies that it is explicitly published for the Indian market. Then, if the behaviour of the rear seatbelt reminder is described clearly enough, The Yawning Chihuahua will <i>interpret</i> how the car would behave in the #WhatTheBeep testcases. The Yawning Chihuahua will also look through the latest available brochure to verify that the variant(s) selected for evaluation has a rear seatbelt reminder. Information obtained this way (and published in the evaluation) includes: car make, model and variant(s), link to the owner's manual used, link to the brochure, and outcomes of the #WhatTheBeep testcases.<br><br>
-
-        Since interpreting documentation is sometimes unreliable, and due to the communication value of video evidence, if The Yawning Chihuahua gets the opportunity to test a car unit in person after the car model has already been evaluated based on desktop research, then The Yawning Chihuahua might release a fresh evaluation of the model based on in-person testing. Regardless of how closely the results or testcase outcomes agree, to avoid confusion, The Yawning Chihuahua will take down the original evaluation and include a redirect to the new evaluation on the page of the original evaluation.
-
-        <h4>What variants does each result apply to?</h4>
-        As a guideline, each evaluation contains a variant or set of variants that the result has been deemed to be applicable to. This does not mean the result does not apply to other variants. It just means that The Yawning Chihuahua will only consider information published in the evaluation to be an error if it is untrue of <b>any variant mentioned on the evaluation page</b>. Please note that corporate twins (i.e. models that are essentially identical barring soft parts) or partner models (i.e. closely related models separated by name or body style) are not considered variants of the same model for the purposes of evaluation.
-        
-        <h4>Can you guarantee that results are error-free?</h4>
-        No, <b>errors are bound to happen</b> from time to time despite all efforts in good faith to avoid them. Please do not hesitate to <a href="mailto:theyawningchihuahua@gmail.com">report errors</a> to The Yawning Chihuahua.  The page administrator of <i>The Yawning Chihuahua</i> does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life. If there is reasonable evidence of an error The Yawning Chihuahua may take down the evaluation with or without notice and replace the page with a note about the error. If at some future point in time a fresh evaluation for the car model is published and it is reasonably clear that it would have applied to the car model on sale at the time of publication of the taken-down evaluation, the page of the taken-down evaluation may include a redirect to the fresh evaluation.
+        <h4>What is required for a car to receive <font face="Courier New" color="green">PASS</font> in #WhatTheBeep?</h4>
+        These criteria are formally defined in the <a href="protocol.html">#WhatTheBeep protocol</a>. Simply put, the car should beep about an unbelted occupant in the rear outboard seats <a href="https://en.wikipedia.org/wiki/If_and_only_if">if and only if</a> an occupant is sitting there and is not belted. Do observe that, while implicitly necessary, occupant detection technology does not guarantee a <font face="Courier New" color="green"><b>PASS</b></font>. Also, the signal characteristics like loudness, duration, pitch, interval or clarity are not evaluated.<br>
         
         <h4>I am a journalist and would like to report on <i>#WhatTheBeep</i>, should I know anything?</h4>
         Thank you for your interest! If you're a journalist looking to report on <i>#WhatTheBeep</i>:
