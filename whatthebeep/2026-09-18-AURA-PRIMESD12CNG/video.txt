@@ -1,0 +1,15 @@
+Hyundai AURA
+WTB170926HAU1
+car.png
+18.09.26
+Prime SD 1.2 CNG
+NO
+../video_elements/tests/WTB170926HAU1/1.mov
+YES
+../video_elements/tests/WTB170926HAU1/2.MOV
+NO
+../video_elements/tests/WTB170926HAU1/3.mov
+YES
+../video_elements/tests/WTB170926HAU1/4.MOV
+film.mp4
+../video_elements/intro.mp3
