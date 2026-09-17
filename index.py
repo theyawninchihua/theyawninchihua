@@ -151,7 +151,7 @@ def gather_sbr(path):
             'date': dt,
         })
 
-    items.sort(key=lambda e: (e['date'], e['dirname']), reverse=True)
+    items.sort(key=lambda e: (e['date'], e['result'], e['title']), reverse=True)
     return items
 
 
@@ -197,7 +197,7 @@ def main():
 
     sbr_block = "\n                    ".join(sbr_lines)
     show_desktop_note = any(str(e['title']).strip().endswith('(*)') for e in top_sbrs)
-    desktop_note = "                    (*) <i>desktop evaluation</i><br><br>\n" if show_desktop_note else ""
+    desktop_note = "                    (*) <i>evaluation based on desktop research</i><br><br>\n" if show_desktop_note else ""
 
     # Build featured article block and others block matching current index.html layout
     def article_fig(a):

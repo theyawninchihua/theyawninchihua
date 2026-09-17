@@ -85,31 +85,7 @@ def main():
             'display_date': dt.strftime('%d.%m.%y'),
         })
 
-    within_day_order = {
-        '2026-08-28-RUMION-SCNG': 0,
-        '2026-08-28-ERTIGA-VXiOSCNG': 1,
-        '2026-06-05-CRETAELECTRIC-Executive42kWh': 0,
-        '2026-06-05-CITYiVTEC-SV15iVTEC': 1,
-        '2026-06-01-URBANCRUISEREBELLA-E361kWhFWD': 0,
-        '2026-06-01-FRONX-SigmaSCNG': 1,
-        '2026-06-01-SCORPIOCLASSIC-S': 2,
-        '2026-06-01-CITYeHEV-ZXPlus15iMMD': 3,
-        '2026-06-01-BOLERONEO-N4': 4,
-        '2026-06-01-BOLEROCLASSIC-B4': 5,
-        '2026-05-24-WAGONR-TourH3SCNG': 0,
-        '2026-05-24-DZIRE-TourSSCNG': 1,
-        '2026-04-10-XUV3XOEV-AX539kWh': 0,
-        '2026-04-10-PUNCHEV-Smart30kWh': 1,
-        '2026-04-04-THAR-AXTRWD3door': 0,
-        '2026-04-04-SELTOS-HTESmartstreamG15': 1,
-        '2026-04-04-GRAVITE-Visia10B4D': 2,
-        '2026-04-03-XUV7XO-AX': 0,
-        '2026-04-03-VERNA-HX515MPI': 1,
-        '2026-04-03-EXTER-HX212Kappa2': 2,
-        '2026-04-03-DUSTER-authentic-TCe100': 3,
-    }
-
-    entries.sort(key=lambda x: (-x['date'].timestamp(), within_day_order.get(x['dirname'], 999), x['dirname']))
+    entries.sort(key=lambda x: (x['date'], x['result'], x['title']), reverse=True)
 
     list_lines = []
     for e in entries:
@@ -155,12 +131,6 @@ def main():
 
         <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
 
-        <h3>Resources</h3>
-        <ul>
-            <li><a href="protocol.html">#WhatTheBeep protocol</a></li>
-            <li>Media kit (in progress)</li>
-        </ul>
-
         <h2>FAQs</h2>
         <h3>What is the problem being targeted by #WhatTheBeep?</h3>
 
@@ -172,8 +142,9 @@ def main():
         The criteria are formally defined in the <a href="protocol.html">#WhatTheBeep protocol</a>. 
         
         <h3>I would like to report on #WhatTheBeep, should I know anything?</h3>
-        Thank you for your interest! You may include the following blurb or equivalent: <i>#WhatTheBeep is an <b>informal, independent</b> consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars.</i> It would also be much appreciated if, after publication, you could share a copy with <i>The Yawning Chihuahua</i> <a href="mailto:theyawningchihuahua@gmail.com">via email</a> for bookkeeping purposes</li>
-        </ul>
+        Thank you for your interest! You may include the following blurb or equivalent: <i>#WhatTheBeep is an <b>informal, independent</b> consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars.</i><br><br>
+        
+        Kindly avoiding reporting using language that suggests #WhatTheBeep is intended to replace safety regulations/consumer tests, or assess the overall safety level of the vehicle. It would also be much appreciated if, after publication, you could share a copy with <i>The Yawning Chihuahua</i> <a href="mailto:theyawningchihuahua@gmail.com">via email</a> for bookkeeping purposes.<br><br>
 
         -TYC<br><br>
 
