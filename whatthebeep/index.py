@@ -148,7 +148,7 @@ def main():
         <h1>#WhatTheBeep</h1>
         The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
 
-        <h3>All Rear Seatbelt Reminder Evaluations</h3>
+        <h2>All Rear Seatbelt Reminder Evaluations</h2>
         {list_html}
 
         <br><b>(*)</b> evaluation based on desktop research<br><br>
@@ -161,32 +161,18 @@ def main():
             <li>Media kit (in progress)</li>
         </ul>
 
-        <h3>FAQs</h3>
-        <i>#WhatTheBeep</i> is an informal, independent consumer information project by The Yawning Chihuahua.
+        <h2>FAQs</h2>
+        <h3>What is the problem being targeted by #WhatTheBeep?</h3>
 
-        <h4>What is the problem?</h4>
+        By design, the rear seatbelt reminders of many Indian <b>cars don't beep when they should, or beep when they shouldn't.</b> Current regulations and Indian consumer tests only consider the scenario when a rear occupant's seatbelt <i>becomes</i> unfastened while driving.
 
-        The rear seatbelt reminder in all new Indian cars does not behave the same way. Current safety regulations and consumer tests in India are good standards for the loudness, interval and duration of the audible warning. However, to meet their requirements, the only situation in which a car <i>has to</i> beep is if a rear occupant <i>undoes</i> their fastened seatbelt while on the move. It is left to the manufacturer how the audible warning behaves if an occupant is simply <i>not belted</i>, or if there is no occupant. <b>Your next car's rear seatbelt reminder might not beep when a rear occupant simply doesn't buckle up, or could start "ghost" beeps even without rear occupants, leading to undue annoyance and possibly prompting tampering with the system</b>.
-
-        <h4>What is required for a car to receive <font face="Courier New" color="green">PASS</font> in #WhatTheBeep?</h4>
-        These criteria are formally defined in the <a href="protocol.html">#WhatTheBeep protocol</a>. Simply put, the car should beep about an unbelted occupant in the rear outboard seats <a href="https://en.wikipedia.org/wiki/If_and_only_if">if and only if</a> an occupant is sitting there and is not belted. Do observe that, while implicitly necessary, occupant detection technology does not guarantee a <font face="Courier New" color="green"><b>PASS</b></font>. Also, the signal characteristics like loudness, duration, pitch, interval or clarity are not evaluated.<br>
+        <h3>What is required for a car to receive <font face="Courier New" color="green">PASS</font> in #WhatTheBeep?</h3>
+        Simply put, with respect to an unbelted occupant in the rear outboard seats, the car should <b>beep <a href="https://en.wikipedia.org/wiki/If_and_only_if">if and only if</a> an occupant is sitting in the seat and is not belted.</b><br><br>
         
-        <h4>I am a journalist and would like to report on <i>#WhatTheBeep</i>, should I know anything?</h4>
-        Thank you for your interest! If you're a journalist looking to report on <i>#WhatTheBeep</i>:
-        <ul>
-            <li> please consider mentioning that <i>#WhatTheBeep</i> is an <b>independent and informal evaluation</b> of rear seatbelt reminder behaviour</li>
-            <ul>
-                <li>
-                    You may include the following blurb: <i>#WhatTheBeep is an informal, independent consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars.</i>
-                </li>
-            </ul>
-            <li> kindly avoiding using language that suggests <i>#WhatTheBeep</i> is intended to:
-            <ul>
-                <li>replace safety regulations</li>
-                <li>replace consumer tests/safety ratings</li>
-                <li>assess the overall safety level of the vehicle</li>
-            </ul></li>
-            <li> it would be much appreciated if, after publication, you could share a copy with <i>The Yawning Chihuahua</i> <a href="mailto:theyawningchihuahua@gmail.com">via email</a> for bookkeeping purposes</li>
+        The criteria are formally defined in the <a href="protocol.html">#WhatTheBeep protocol</a>. 
+        
+        <h3>I would like to report on #WhatTheBeep, should I know anything?</h3>
+        Thank you for your interest! You may include the following blurb or equivalent: <i>#WhatTheBeep is an <b>informal, independent</b> consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars.</i> It would also be much appreciated if, after publication, you could share a copy with <i>The Yawning Chihuahua</i> <a href="mailto:theyawningchihuahua@gmail.com">via email</a> for bookkeeping purposes</li>
         </ul>
 
         -TYC<br><br>

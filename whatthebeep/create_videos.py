@@ -85,7 +85,7 @@ def make_results_table(full_name, signals, result):
 def make_testcase_intro(full_name, number, signal):
     background = ColorClip(size=VIDEO_SIZE, color=(255, 255, 255)).with_duration(TESTCASE_INTRO_DURATION)
     icon = ImageClip(str(ASSET_DIR / f"testcase_{number}.png")).resized(height=190).with_position((110, 250)).with_duration(TESTCASE_INTRO_DURATION).with_effects([vfx.FadeIn(0.4, initial_color=[255, 255, 255])])
-    title = text_clip(f"Testcase {number}", 52).with_position((420, 190)).with_duration(TESTCASE_INTRO_DURATION - 0.5).with_start(0.5).with_effects([vfx.FadeIn(1, initial_color=[255, 255, 255])])
+    title = text_clip(f"Testcase {number} of 4", 52).with_position((420, 190)).with_duration(TESTCASE_INTRO_DURATION - 0.5).with_start(0.5).with_effects([vfx.FadeIn(1, initial_color=[255, 255, 255])])
     description = text_clip(TESTCASE_DESCRIPTIONS[number - 1], 38).with_position((420, 275)).with_duration(TESTCASE_INTRO_DURATION - 0.5).with_start(0.5).with_effects([vfx.FadeIn(1, initial_color=[255, 255, 255])])
     verdict = "OK" if signal == EXPECTED_SIGNALS[number - 1] else "NOT OK"
     signal_label = text_clip("Audible warning:", 42).with_position((420, 365)).with_duration(TESTCASE_INTRO_DURATION - 1.5).with_start(1.5).with_effects([vfx.FadeIn(1, initial_color=[255, 255, 255])])
