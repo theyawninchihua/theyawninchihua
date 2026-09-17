@@ -19,6 +19,7 @@ ARTICLE_TYPES = {
     'B': 'BLOG POST',
     'N': 'NOTICE',
 }
+BANNER_TEXT = 'NOW ACCESSIBLE AT: <a href="https://tinyurl.com/beepthewhat">tinyurl.com/beepthewhat</a>'
 
 
 def read_yaml_simple(path):
@@ -257,7 +258,7 @@ def main():
                 </td>
                 <td valign="top">
                     <h2>#WhatTheBeep</h2>
-                    <marquee scrollamount="10"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
+                    <marquee scrollamount="10"><font color="green"><b>{BANNER_TEXT}</b></font></marquee><br><br>
                     <b>Latest results:</b><br>
                     {sbr_block}<br>
                     <a href="whatthebeep/index.html">see more</a><br><br>

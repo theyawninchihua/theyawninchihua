@@ -3,6 +3,7 @@ import sys
 import re
 from datetime import datetime
 
+BANNER_TEXT = 'NOW ACCESSIBLE AT: <a href="https://tinyurl.com/beepthewhat">tinyurl.com/beepthewhat</a>'
 
 def result_html(result):
     if result == "PASS":
@@ -129,7 +130,7 @@ def main():
 
         <br><b>(*)</b> evaluation based on desktop research<br><br>
 
-        <marquee scrollamount="20"><font color="green"><b>NEXT RESULTS: COMING SOON</b></font></marquee><br><br>
+        <marquee scrollamount="20"><font color="green"><b>{BANNER_TEXT}</b></font></marquee><br><br>
 
         <h2>FAQs</h2>
         <h3>What is the problem being targeted by #WhatTheBeep?</h3>
