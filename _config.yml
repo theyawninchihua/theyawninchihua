@@ -3,3 +3,4 @@ title: The Yawning Chihuahua
 description: i like cars
 baseurl: /theyawninchihua
 url: https://github.io
+markdown: kramdown
