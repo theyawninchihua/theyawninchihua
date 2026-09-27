@@ -1,6 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 title: The Yawning Chihuahua
 description: i like cars
 baseurl: /theyawninchihua
-url: https://github.io
+url: https://theyawninchihua.github.io
 markdown: kramdown

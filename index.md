@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Welcome to My Site"
-date: 2026-09-28
 ---
 
 # Articles
