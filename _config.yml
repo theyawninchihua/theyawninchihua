@@ -13,11 +13,11 @@ markdown: kramdown
 # Navigation Menu (Use relative paths without domain names)
 navigation:
   - title: Home
-    url: /
+    url: /theyawninchihua/
   - title: Articles
-    url: /articles/
+    url: /theyawninchihua/articles/
   - title: "#WhatTheBeep"
-    url: /whatthebeep/
+    url: /theyawninchihua/whatthebeep/
 
 # Footer Social Links
 social:
