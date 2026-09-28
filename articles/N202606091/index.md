@@ -19,12 +19,14 @@ As evident in the testing video below, the [ZS EV](../../whatthebeep/2026-06-09-
 
 ## [MG ZS EV](../../whatthebeep/2026-06-09-ZSEV-Executive50kWh/index.html)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning | Verdict |
 | --- | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
+
 **<span style="color: green;">PASS</span>**
 
 - [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)

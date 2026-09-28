@@ -4,7 +4,9 @@ title: "MG ZS EV #WhatTheBeep Evaluation 09.06.26"
 ---
 
 # MG ZS EV
+
 ### Executive 50 kWh • 09.06.26
+
 # <span style="color: green;">PASS</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "MG ZS EV #WhatTheBeep Evaluation 09.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -41,8 +44,10 @@ in-person testing
 
 ### Publication Date
 09.06.2026
+
 ### Manual URL
 not available
+
 ### Brochure URL
 [link to manufacturer website](https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20ZSEV%20-%20Brochure.pdf)
 

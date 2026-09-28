@@ -4,7 +4,9 @@ title: "Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
 ---
 
 # Maruti Suzuki BALENO
+
 ### Sigma • 08.09.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://marutisuzuki.scene7.com/is/content/maruti/Baleno-Petrolpdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/newbaleno/download-brochure/The-Stunning-New-Baleno-Brochure.pdf)
+
 ### Publication Date
 08.09.2026
+
 ### Excerpt
 
     From the new Baleno's owners' manual:

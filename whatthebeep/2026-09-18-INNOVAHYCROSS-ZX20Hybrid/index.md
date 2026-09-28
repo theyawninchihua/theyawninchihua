@@ -4,7 +4,9 @@ title: "Toyota INNOVA HYCROSS #WhatTheBeep Evaluation 18.09.26"
 ---
 
 # Toyota INNOVA HYCROSS
+
 ### ZX 2.0 Hybrid • 18.09.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Toyota INNOVA HYCROSS #WhatTheBeep Evaluation 18.09.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -43,8 +46,10 @@ in-person testing
 
 ### Publication Date
 18.09.2026
+
 ### Manual URL
 [link to manufacturer website](https://ownersmanual-media.toyotabharat.com/innova-hycross-hybrid-om-march-2025.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.toyotabharat.com/documents/brochures/e-brochure-hycross.pdf)
 

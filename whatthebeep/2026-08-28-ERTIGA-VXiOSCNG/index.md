@@ -4,7 +4,9 @@ title: "Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
 ---
 
 # Maruti Suzuki ERTIGA
+
 ### VXi(O) S-CNG • 28.08.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -43,8 +46,10 @@ in-person testing
 
 ### Publication Date
 28.08.2026
+
 ### Manual URL
 [link to manufacturer website](https://marutisuzuki.scene7.com/is/content/maruti/ERTIGA_99011M75UD1-74Epdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/document/Arena-Ertiga-Brochure.pdf)
 

@@ -19,12 +19,14 @@ Based on its documentation, the India-spec EV9's rear seats appear to skip out o
 
 ## Kia EV9 (India)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning | Verdict |
 | --- | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: red;">**NO**</span> | <span style="color: red;">**NOT OK**</span> |
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: red;">**YES**</span> | <span style="color: red;">**NOT OK**</span> |
+
 **<span style="color: red;">FAIL</span>**
 
 ## Double standard: European EV9 has occupant detection
@@ -33,6 +35,7 @@ Importantly, the EV9's documentation reveals that **EV9 versions destined for Eu
 
 ## Kia EV9 (Europe, Australia, and New Zealand)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning |
 | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: green;">**YES**</span> |

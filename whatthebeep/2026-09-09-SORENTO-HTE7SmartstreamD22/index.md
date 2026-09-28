@@ -4,7 +4,9 @@ title: "Kia SORENTO #WhatTheBeep Evaluation 09.09.26"
 ---
 
 # Kia SORENTO
+
 ### HTE 7 Smartstream D2.2 • 09.09.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Kia SORENTO #WhatTheBeep Evaluation 09.09.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/images/service/service-and-maintenance/owners-manual/2026/Sorento_2026.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/sonetro/showroom/The_Kia_Sorento_Brochure_D.pdf)
+
 ### Publication Date
 09.09.2026
+
 ### Excerpt
 
     From the Sorento's owners' manual:

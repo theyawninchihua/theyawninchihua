@@ -19,12 +19,14 @@ This means the [ZR-V](../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/index.html) 
 
 ## [Honda ZR-V (India)](../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/index.html)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning | Verdict |
 | --- | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | **NO** | <span style="color: red;">**NOT OK**</span> |
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | **YES** | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | **NO** | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | **YES** | <span style="color: red;">**NOT OK**</span> |
+
 **<span style="color: red;">FAIL</span>**
 
 ## Double standard: British ZR-V has rear occupant detection
@@ -41,6 +43,7 @@ Occupant detection for the rear seatbelt reminder is a prerequisite for SBRs to 
 
 ## Honda ZR-V (United Kingdom)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning |
 | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: red;">**NO**</span> |

@@ -4,7 +4,9 @@ title: "Mahindra BOLERO CLASSIC #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Mahindra BOLERO CLASSIC
+
 ### B4 • 01.06.26
+
 # <span style="color: green;">PASS</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Mahindra BOLERO CLASSIC #WhatTheBeep Evaluation 01.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://mvault-cloudfront.mahindra.com/Owner's-Manual/Bolero_HTML_26Feb2026/default.htm)
+
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw7b129227/Bolero/3rd-Nov_BoleroClassic-Brochur.pdf)
+
 ### Publication Date
 01.06.2026
+
 ### Excerpt
 
     From the BOLERO CLASSIC (facelift) owners' manual:

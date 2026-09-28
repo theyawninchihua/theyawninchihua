@@ -4,7 +4,9 @@ title: "Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
 ---
 
 # Toyota URBAN CRUISER HYRYDER
+
 ### E-CNG S • 21.08.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -43,8 +46,10 @@ in-person testing
 
 ### Publication Date
 21.08.2026
+
 ### Manual URL
 [link to manufacturer website](https://ownersmanual-media.toyotabharat.com/urban-cruiser-hyryder-om-april-2025-v2.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.toyotabharat.com/documents/brochures/e-brochure-urbancruiser-hyryder.pdf)
 

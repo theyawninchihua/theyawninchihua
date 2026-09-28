@@ -4,7 +4,9 @@ title: "Maruti Suzuki WAGON R #WhatTheBeep Evaluation 24.05.26"
 ---
 
 # Maruti Suzuki WAGON R
+
 ### Tour H3 S-CNG • 24.05.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Maruti Suzuki WAGON R #WhatTheBeep Evaluation 24.05.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -41,8 +44,10 @@ in-person testing
 
 ### Publication Date
 24.05.2026
+
 ### Manual URL
 [link to manufacturer website](https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Tour_H3_99011M69RT8-74W.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/27112025WagonR_Tour_H3_Leaflet_A4.pdf)
 

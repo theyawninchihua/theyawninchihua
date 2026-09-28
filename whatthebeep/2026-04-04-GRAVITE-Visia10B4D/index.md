@@ -4,7 +4,9 @@ title: "Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
 ---
 
 # Nissan GRAVITE
+
 ### Visia 1.0 B4D • 04.04.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www-asia.nissan-cdn.net/content/dam/Nissan/in/brochures/2026/New-Nissan-Gravite-OM-Feb-2026.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www-asia.nissan-cdn.net/content/dam/Nissan/in/brochures/2026/Nissan-Gravite-Brochure-final.pdf)
+
 ### Publication Date
 04.04.2026
+
 ### Excerpt
 
     From the Gravite's owners' manual: Rear seatbelt reminder (Depending on the Vehicle)

@@ -4,7 +4,9 @@ title: "Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
 ---
 
 # Mercedes-Benz CLA ELECTRIC
+
 ### CLA 200 Standard Range 58 kWh • 13.06.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-cla-saloon-2026-april-c174-mbux-owners-manual-1.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://mercedes-benz-india-locator.com/viva-star/files/banner_images/523515/3085_1777095020_MBCLADigitalBrochure2026.pdf.pdf)
+
 ### Publication Date
 13.06.2026
+
 ### Excerpt
 
     From the India-spec Mercedes-Benz CLA ELECTRIC's owners' manual:

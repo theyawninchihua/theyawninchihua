@@ -4,7 +4,9 @@ title: "Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 ---
 
 # Mahindra XUV 3XO EV
+
 ### AX5 39 kWh • 10.04.26
+
 # <span style="color: green;">PASS</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://mvault-cloudfront.mahindra.com/Owner's-Manual/XUV%203XO%20EV_HTML_27Feb2026/default.htm)
+
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw2183d955/XUV3XO_ev/brochures/XUV-3XO-EV-Brochure.pdf)
+
 ### Publication Date
 10.04.2026
+
 ### Excerpt
 
     From the XUV 3XO EV's owners' manual:

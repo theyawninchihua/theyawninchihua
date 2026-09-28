@@ -4,7 +4,9 @@ title: "Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Maruti Suzuki FRONX
+
 ### Sigma S-CNG • 01.06.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -41,8 +44,10 @@ in-person testing
 
 ### Publication Date
 01.06.2026
+
 ### Manual URL
 [link to manufacturer website](https://marutisuzuki.scene7.com/is/content/maruti/NEXA-FRONX-Petrol-Manualpdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.nexaexperience.com/pdf-viewer?pdf=%2Fcontent%2Fdam%2Fmsil%2Fnexa%2Fin%2Fen%2Fassets%2Fcars%2Ffronx%2Fdocuments%2FNEXA-Fronx-Brochure.pdf)
 

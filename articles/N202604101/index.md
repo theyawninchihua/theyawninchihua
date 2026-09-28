@@ -15,18 +15,22 @@ Recently facelifted, the affordable electric [Tata Punch.ev](../../whatthebeep/2
 
 **Tata PUNCH.EV result summary**
 **click for full datasheet**
+
 | ![Image](../../whatthebeep/testcase_1.png) | <span style="color: green;">**OK**</span> | ![Image](../../whatthebeep/testcase_2.png) | <span style="color: green;">**OK**</span> |
 | --- | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_3.png) | <span style="color: red;">**NOT OK**</span> | ![Image](../../whatthebeep/testcase_4.png) | <span style="color: red;">**NOT OK**</span> |
+
 **<span style="color: red;">FAIL</span>**
 
 On the contrary, the recently launched [Mahindra XUV 3XO EV](../../whatthebeep/2026-04-10-XUV3XOEV-AX539kWh/index.html) receives a <span style="color: green;">**PASS**</span>: it notifies the driver with a second-level audio and visual warning if and only if a seatbelt is not fastened on an occupied rear seat.
 
 **Mahindra XUV 3XO result summary**
 **click for full datasheet**
+
 | ![Image](../../whatthebeep/testcase_1.png) | <span style="color: green;">**OK**</span> | ![Image](../../whatthebeep/testcase_2.png) | <span style="color: green;">**OK**</span> |
 | --- | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_3.png) | <span style="color: green;">**OK**</span> | ![Image](../../whatthebeep/testcase_4.png) | <span style="color: green;">**OK**</span> |
+
 **<span style="color: green;">PASS</span>**
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:

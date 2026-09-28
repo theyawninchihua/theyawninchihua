@@ -4,7 +4,9 @@ title: "Toyota RUMION #WhatTheBeep Evaluation 28.08.26"
 ---
 
 # Toyota RUMION
+
 ### S CNG • 28.08.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Toyota RUMION #WhatTheBeep Evaluation 28.08.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -41,8 +44,10 @@ in-person testing
 
 ### Publication Date
 28.08.2026
+
 ### Manual URL
 [link to manufacturer website](https://ownersmanual-media.toyotabharat.com/rumion-om-oct-2025.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf)
 

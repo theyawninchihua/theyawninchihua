@@ -19,12 +19,14 @@ Based on [its documentation](https://www.mercedes-benz.co.in/passengercars/owner
 
 ## Mercedes-Benz CLA (India)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning | Verdict |
 | --- | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: red;">**NO**</span> | <span style="color: red;">**NOT OK**</span> |
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: red;">**YES**</span> | <span style="color: red;">**NOT OK**</span> |
+
 **<span style="color: red;">FAIL</span>**
 
 ## Double standard: European CLA has rear occupant detection
@@ -41,6 +43,7 @@ Occupant detection for the rear seatbelt reminder is a prerequisite for SBRs to 
 
 ## Mercedes-Benz CLA (Europe and Australia)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning |
 | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: red;">**NO**</span> |

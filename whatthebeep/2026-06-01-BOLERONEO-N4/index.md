@@ -4,7 +4,9 @@ title: "Mahindra BOLERO NEO #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Mahindra BOLERO NEO
+
 ### N4 • 01.06.26
+
 # <span style="color: green;">PASS</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Mahindra BOLERO NEO #WhatTheBeep Evaluation 01.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://mvault-cloudfront.mahindra.com/Owner's-Manual/Bolero%20Neo_HTML_25Feb2026/default.htm)
+
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw27dcbbbe/NEO/BoleroNeo-Brochure-19-Dec.pdf)
+
 ### Publication Date
 01.06.2026
+
 ### Excerpt
 
     From the BOLERO NEO (facelift) owners' manual:

@@ -4,7 +4,9 @@ title: "Kia EV9 #WhatTheBeep Evaluation 11.04.26"
 ---
 
 # Kia EV9
+
 ### GT-Line AWD • 11.04.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Kia EV9 #WhatTheBeep Evaluation 11.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www.kia.com/in/service/customer-awareness/owners-manual/ev9-manual.html)
+
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/our-vehicles/showroom/ev9/Kia_EV9_Brochure_Desktop.pdf)
+
 ### Publication Date
 11.04.2026
+
 ### Excerpt
 
     The 2026 EV9's web owners' manual on the India website explains the difference between the EV9's rear seatbelt reminder for Europe and Australia compared to other markets:

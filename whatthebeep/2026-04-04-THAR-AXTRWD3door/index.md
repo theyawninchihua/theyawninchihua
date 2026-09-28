@@ -4,7 +4,9 @@ title: "Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 ---
 
 # Mahindra THAR
+
 ### AXT RWD 3-door • 04.04.26
+
 # <span style="color: green;">PASS</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://mvault-cloudfront.mahindra.com/Owner's-Manual/Thar_HTML_26Feb2026/default.htm)
+
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwd39c2522/brochure/Thar-Brochure-2025-NEW.pdf)
+
 ### Publication Date
 04.04.2026
+
 ### Excerpt
 
     The Thar was refreshed in October 2025, and its online owners' manual was updated in February 2026 with the following excerpt: "PODS detects the presence of occupant in the front passenger and on all rear seating locations.

@@ -4,7 +4,9 @@ title: "Tata PUNCH.EV #WhatTheBeep Evaluation 10.04.26"
 ---
 
 # Tata PUNCH.EV
+
 ### Smart 30 kWh • 10.04.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Tata PUNCH.EV #WhatTheBeep Evaluation 10.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://ev.tatamotors.com/content/dam/tml/ev/pdf/owners-manual/punch-ev/punch-ev-owners-manual-new.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://ev.tatamotors.com/content/dam/tml/ev/products/punch/year-2026/ev/promoting-vc/brochure/february/new-punch-ev-brochure-20-feb.pdf)
+
 ### Publication Date
 10.04.2026
+
 ### Excerpt
 
     From the 2026 Punch.ev's owners' manual:

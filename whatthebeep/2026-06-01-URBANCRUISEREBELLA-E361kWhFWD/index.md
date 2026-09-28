@@ -4,7 +4,9 @@ title: "Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Toyota URBAN CRUISER EBELLA
+
 ### E3 61 kWh FWD • 01.06.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://ownersmanual-media.toyotabharat.com/urban-cruiser-ebella-om-3-2026.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.toyotabharat.com/documents/brochures/e-brochure-urbancruiser-ebella.pdf)
+
 ### Publication Date
 01.06.2026
+
 ### Excerpt
 
     From the Toyota URBAN CRUISER EBELLA's owners' manual:

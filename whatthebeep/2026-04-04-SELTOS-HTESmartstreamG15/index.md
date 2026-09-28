@@ -4,7 +4,9 @@ title: "Kia SELTOS #WhatTheBeep Evaluation 04.04.26"
 ---
 
 # Kia SELTOS
+
 ### HTE Smartstream G1.5 • 04.04.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Kia SELTOS #WhatTheBeep Evaluation 04.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/images/service/service-and-maintenance/owners-manual/KiaNewSeltos.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/our-vehicles/new-seltos/showroom/brochure/KiaSeltosBrochureDesktop.pdf)
+
 ### Publication Date
 04.04.2026
+
 ### Excerpt
 
     From the 2026 Seltos' owners' manual: Rear passenger’s seatbelt warning * (1) Left side, (2) Centre, (3) Right side

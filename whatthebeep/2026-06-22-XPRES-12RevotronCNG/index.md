@@ -4,7 +4,9 @@ title: "Tata XPRES #WhatTheBeep Evaluation 22.06.26"
 ---
 
 # Tata XPRES
+
 ### 1.2 Revotron CNG • 22.06.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Tata XPRES #WhatTheBeep Evaluation 22.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -41,8 +44,10 @@ in-person testing
 
 ### Publication Date
 22.06.2026
+
 ### Manual URL
 not available
+
 ### Brochure URL
 [link to manufacturer website](https://cars.tatamotors.com/content/dam/tml/pv/products/xpres-t/year-2026/promoting-vc/brochures/january/XPRES%20Brochure.pdf)
 

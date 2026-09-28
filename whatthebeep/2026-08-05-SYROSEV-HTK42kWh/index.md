@@ -4,7 +4,9 @@ title: "Kia SYROS EV #WhatTheBeep Evaluation 05.08.26"
 ---
 
 # Kia SYROS EV
+
 ### HTK 42 kWh • 05.08.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Kia SYROS EV #WhatTheBeep Evaluation 05.08.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/images/service/service-and-maintenance/owners-manual/2026/Kia_Syros_EV_2026.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/syros_ev/brochure/Kia_Syros_EV_Brochure_Desktop2026.pdf)
+
 ### Publication Date
 05.08.2026
+
 ### Excerpt
 
     From the SYROS EV's owners' manual:

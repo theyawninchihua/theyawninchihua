@@ -4,7 +4,9 @@ title: "Honda CITY i-VTEC #WhatTheBeep Evaluation 05.06.26"
 ---
 
 # Honda CITY i-VTEC
+
 ### SV 1.5 i-VTEC • 05.06.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Honda CITY i-VTEC #WhatTheBeep Evaluation 05.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/pdfs/user-manual/New%20City%202026%20Petrol%20Owner%20Manual_220626_Web.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/The%20New%20City%20Brochure_21.pdf)
+
 ### Publication Date
 05.06.2026
+
 ### Excerpt
 
     The Honda CITY i-VTEC was recently updated. According to its owners' manual:

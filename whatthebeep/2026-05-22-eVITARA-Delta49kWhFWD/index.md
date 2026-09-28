@@ -4,7 +4,9 @@ title: "Maruti Suzuki e VITARA #WhatTheBeep Evaluation 22.05.26"
 ---
 
 # Maruti Suzuki e VITARA
+
 ### Delta 49 kWh FWD • 22.05.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Maruti Suzuki e VITARA #WhatTheBeep Evaluation 22.05.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://marutisuzuki.scene7.com/is/content/maruti/eVitara-OM-99011M58UD0-74Wpdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.nexaexperience.com/content/dam/msil/ev/in/en/assets/cars/e-vitara/brochure/NEXA-eVITARA-Brochure-Desktop.pdf)
+
 ### Publication Date
 22.05.2026
+
 ### Excerpt
 
     From the Maruti Suzuki e VITARA's owners' manual:

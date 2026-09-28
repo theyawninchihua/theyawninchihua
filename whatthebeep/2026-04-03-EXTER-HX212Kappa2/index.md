@@ -4,7 +4,9 @@ title: "Hyundai EXTER #WhatTheBeep Evaluation 03.04.26"
 ---
 
 # Hyundai EXTER
+
 ### HX2 1.2 Kappa2 • 03.04.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Hyundai EXTER #WhatTheBeep Evaluation 03.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2026/exter-may26-present.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/exter.pdf)
+
 ### Publication Date
 03.04.2026
+
 ### Excerpt
 
     From the 2026 Exter's owner's manual: As a reminder to the rear passenger the rear passenger's seatbelt warning lights will illuminate for approximately 6 seconds each time you turn the ignition switch ON regardless of belt fastening. Whether or not a passenger is seated: If the seatbelt is not fastened when the ignition switch is turned ON the seatbelt warning light will illuminate for approximately 70 seconds If you start to drive without the seatbelt fastened the corresponding warning light will continue to illuminate for approximately 70 seconds regardless of vehicle speed. If you unfasten the seatbelt when vehicle speed is below 20 km/h (12mph) the corresponding warning light will illuminate for approximately 70 seconds. If you unfasten the seatbelt when vehicle speed is above 20 km/h (12 mph) the seatbelt warning chime will sound for approximately 35 seconds and the corresponding warning light will blink. If the rear door is opened while driving below 20 km/h (12 mph) the warning light and warning sound will not operate even if vehicle speed is above 20 km/h (12 mph).

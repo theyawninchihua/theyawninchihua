@@ -4,7 +4,9 @@ title: "Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
 ---
 
 # Renault DUSTER
+
 ### authentic TCe 100 • 03.04.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://www.user-manual.renault.com/en/seat-belts/seat-belts-23)
+
 ### Brochure URL
 [link to manufacturer website](https://cdn.group.renault.com/ren/in/duster2026/brochures/duster-spec-sheet.pdf)
+
 ### Publication Date
 03.04.2026
+
 ### Excerpt
 
     From the 2026 New Duster's owners' manual: Rear seatbelt reminder

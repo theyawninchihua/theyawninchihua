@@ -41,12 +41,14 @@ The Aura's larger stablemate, the [Hyundai VERNA](../../whatthebeep/2026-09-18-V
 
 [Toyota INNOVA HYCROSS](../../whatthebeep/2026-09-18-INNOVAHYCROSS-ZX20Hybrid/index.html) and [Hyundai VERNA](../../whatthebeep/2026-09-18-VERNA-allvariants/index.html)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
+
 | Testcase | Description | Audible warning | Verdict |
 | --- | --- | --- | --- |
 | ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: red;">**NO**</span> | <span style="color: red;">**NOT OK**</span> |
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: red;">**YES**</span> | <span style="color: red;">**NOT OK**</span> |
+
 **<span style="color: red;">FAIL</span>**
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:

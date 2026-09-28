@@ -4,7 +4,9 @@ title: "Honda CITY e:HEV #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Honda CITY e:HEV
+
 ### ZX Plus 1.5 i-MMD • 01.06.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Honda CITY e:HEV #WhatTheBeep Evaluation 01.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/pdfs/user-manual/New%20City%202026%20eHEV%20Owner%20Manual_220626_Web.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/The%20New%20City%20Brochure_21.pdf)
+
 ### Publication Date
 01.06.2026
+
 ### Excerpt
 
     The Honda CITY e:HEV was recently updated. According to its owners' manual:

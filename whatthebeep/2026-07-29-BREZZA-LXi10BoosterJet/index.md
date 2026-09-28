@@ -4,7 +4,9 @@ title: "Maruti Suzuki BREZZA #WhatTheBeep Evaluation 29.07.26"
 ---
 
 # Maruti Suzuki BREZZA
+
 ### LXi 1.0 Booster Jet • 29.07.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Maruti Suzuki BREZZA #WhatTheBeep Evaluation 29.07.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://marutisuzuki.scene7.com/is/content/maruti/Brezza_Petrolpdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/final-new-brezza/brochure/The-New-Brezza-Brochure.pdf)
+
 ### Publication Date
 29.07.2026
+
 ### Excerpt
 
     From the new Brezza's owners' manual:

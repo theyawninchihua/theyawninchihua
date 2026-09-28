@@ -4,7 +4,9 @@ title: "Honda ZR-V e:HEV #WhatTheBeep Evaluation 31.07.26"
 ---
 
 # Honda ZR-V e:HEV
+
 ### EX 2.0 i-MMD • 31.07.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Honda ZR-V e:HEV #WhatTheBeep Evaluation 31.07.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/pdfs/user-manual/All%20New%20ZR-V%20eHEV%202026.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/pdfs/ZR-V%20Brochure_25July26.pdf)
+
 ### Publication Date
 31.07.2026
+
 ### Excerpt
 
     From the India-spec ZR-V e:HEV's owners' manual:

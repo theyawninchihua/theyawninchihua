@@ -4,7 +4,9 @@ title: "Hyundai VERNA #WhatTheBeep Evaluation 18.09.26"
 ---
 
 # Hyundai VERNA
+
 ### all variants • 18.09.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Hyundai VERNA #WhatTheBeep Evaluation 18.09.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -43,8 +46,10 @@ in-person testing
 
 ### Publication Date
 18.09.2026
+
 ### Manual URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2026/verna-from-mar-2026-to-present.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/verna.pdf)
 

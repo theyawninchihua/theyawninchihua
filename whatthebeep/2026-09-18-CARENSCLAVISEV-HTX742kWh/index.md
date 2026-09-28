@@ -4,7 +4,9 @@ title: "Kia CARENS CLAVIS EV #WhatTheBeep Evaluation 18.09.26"
 ---
 
 # Kia CARENS CLAVIS EV
+
 ### HTX 7 42 kWh • 18.09.26
+
 # <span style="color: red;">FAIL</span>
 
 ## Datasheet
@@ -20,6 +22,7 @@ title: "Kia CARENS CLAVIS EV #WhatTheBeep Evaluation 18.09.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 in-person testing
 
@@ -41,8 +44,10 @@ in-person testing
 
 ### Publication Date
 18.09.2026
+
 ### Manual URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/images/service/service-and-maintenance/owners-manual/2026/Carens_Clavis_EV_Kia_India_2026.pdf)
+
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/our-vehicles/kia-carens-clavis-ev/showroom/Kia_CarensClavisEV_Brochure_Desktop.pdf)
 

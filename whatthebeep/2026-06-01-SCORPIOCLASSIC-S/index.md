@@ -4,7 +4,9 @@ title: "Mahindra SCORPIO CLASSIC #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Mahindra SCORPIO CLASSIC
+
 ### S • 01.06.26
+
 # <span style="color: green;">PASS</span>
 
 ## Datasheet
@@ -20,14 +22,19 @@ title: "Mahindra SCORPIO CLASSIC #WhatTheBeep Evaluation 01.06.26"
 *second row outboard seat
 
 ## Information Source
+
 ### Source Type
 desktop research
+
 ### Manual URL
 [link to manufacturer website](https://mvault-cloudfront.mahindra.com/Owner's-Manual/Scorpio%20Classic_HTML_25Feb2026/default.htm)
+
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw560e60c0/SCRC/Scorpio-Classic-Brochure_SV.pdf)
+
 ### Publication Date
 01.06.2026
+
 ### Excerpt
 
     From the SCORPIO CLASSIC (August 2025-onwards) owners' manual:
