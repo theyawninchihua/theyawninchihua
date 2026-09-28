@@ -37,9 +37,7 @@ The Aura's larger stablemate, the [Hyundai VERNA](../../whatthebeep/2026-09-18-V
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5PDWXh_62lw?si=vnWqQn6kuI0PL06r" title="Embedded video" allowfullscreen></iframe>
 
-## [Kia CARENS CLAVIS EV](../../whatthebeep/2026-09-18-CARENSCLAVISEV-HTX742kWh/index.html), [Hyundai AURA](../../whatthebeep/2026-09-18-AURA-PRIMESD12CNG/index.html),
-
-[Toyota INNOVA HYCROSS](../../whatthebeep/2026-09-18-INNOVAHYCROSS-ZX20Hybrid/index.html) and [Hyundai VERNA](../../whatthebeep/2026-09-18-VERNA-allvariants/index.html)
+### [Kia CARENS CLAVIS EV](../../whatthebeep/2026-09-18-CARENSCLAVISEV-HTX742kWh/index.html), [Hyundai AURA](../../whatthebeep/2026-09-18-AURA-PRIMESD12CNG/index.html), [Toyota INNOVA HYCROSS](../../whatthebeep/2026-09-18-INNOVAHYCROSS-ZX20Hybrid/index.html) and [Hyundai VERNA](../../whatthebeep/2026-09-18-VERNA-allvariants/index.html)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
 | Testcase | Description | Audible warning | Verdict |
