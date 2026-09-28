@@ -11,17 +11,17 @@ url: "https://theyawninchihua.github.io"
 markdown: kramdown
 
 # Navigation Menu (Use relative paths without domain names)
-navigation:
-  - title: Home
-    url: /theyawninchihua/
-  - title: Articles
-    url: /theyawninchihua/articles/
-  - title: "#WhatTheBeep"
-    url: /theyawninchihua/whatthebeep/
+# navigation:
+#   - title: Home
+#     url: /theyawninchihua/
+#   - title: Articles
+#     url: /theyawninchihua/articles/
+#   - title: "#WhatTheBeep"
+#     url: /theyawninchihua/whatthebeep/
 
-# Footer Social Links
-social:
-  github: theyawninchihua
-  twitter: theyawninchihua
-  instagram: theyawninchihua
-  email: theyawningchihuahua@example.com
+# # Footer Social Links
+# social:
+#   github: theyawninchihua
+#   twitter: theyawninchihua
+#   instagram: theyawninchihua
+#   email: theyawningchihuahua@example.com
