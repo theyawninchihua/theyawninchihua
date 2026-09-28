@@ -9,45 +9,51 @@ title: "Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
 
 ## Datasheet
 
-| Testcase | Description | Audible warning* | Verdict |
-| --- | --- | --- | --- |
-| ![Testcase 1](../testcase_1.png) | occupant does not fasten seatbelt | NO | NOT OK |
-| ![Testcase 2](../testcase_2.png) | occupant takes off seatbelt | YES | OK |
-| ![Testcase 3](../testcase_3.png) | seatbelt not fastened on an empty seat | NO | OK |
-| ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat | YES | NOT OK |
-|  |  |  | FAIL |
+| Testcase                         | Description                            | Audible warning*   | Verdict |
+| -------------------------------- | -------------------------------------- | ------------------ | ------- |
+| ![Testcase 1](../testcase_1.png) | occupant does not fasten seatbelt      | NO                 | NOT OK  |
+| ![Testcase 2](../testcase_2.png) | occupant takes off seatbelt            | YES                | OK      |
+| ![Testcase 3](../testcase_3.png) | seatbelt not fastened on an empty seat | NO                 | OK      |
+| ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat    | YES                | NOT OK  |
+|                                  |                                        |                    | FAIL    |
 
 *second row outboard seat
 
 ## Information Source
-- **Source Type:** desktop research
-- **Manual URL:** [https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-cla-saloon-2026-april-c174-mbux-owners-manual-1.pdf](https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-cla-saloon-2026-april-c174-mbux-owners-manual-1.pdf)
-- **Brochure URL:** [https://mercedes-benz-india-locator.com/viva-star/files/banner_images/523515/3085_1777095020_MBCLADigitalBrochure2026.pdf.pdf](https://mercedes-benz-india-locator.com/viva-star/files/banner_images/523515/3085_1777095020_MBCLADigitalBrochure2026.pdf.pdf)
-- **Publication Date:** 13.06.2026
-- **Excerpt:**
+### Source Type
+desktop research
+### Manual URL
+[link to manufacturer website](https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-cla-saloon-2026-april-c174-mbux-owners-manual-1.pdf)
+### Brochure URL
+[link to manufacturer website](https://mercedes-benz-india-locator.com/viva-star/files/banner_images/523515/3085_1777095020_MBCLADigitalBrochure2026.pdf.pdf)
+### Publication Date
+13.06.2026
+### Excerpt
 
-From the India-spec Mercedes-Benz CLA ELECTRIC's owners' manual:
+    From the India-spec Mercedes-Benz CLA ELECTRIC's owners' manual:
 
-"Function of the rear seat belt status display
+    "Function of the rear seat belt status display
 
-INDICATORS ON THE DRIVER DISPLAY
+    INDICATORS ON THE DRIVER DISPLAY
 
-Example: vehicle with three rear seats
+    Example: vehicle with three rear seats
 
-The colour of the symbol is intended to help you quickly identify the status of the rear seat belt.
+    The colour of the symbol is intended to help you quickly identify the status of the rear seat belt.
 
-The rear seat belt status display in the driver display is a reminder that all vehicle occupants must wear their seat belts correctly.
+    The rear seat belt status display in the driver display is a reminder that all vehicle occupants must wear their seat belts correctly.
 
-Every time the vehicle is switched on, the rear seat belt status display informs you for a certain amount of time which rear seat belt is not fastened.
+    Every time the vehicle is switched on, the rear seat belt status display informs you for a certain amount of time which rear seat belt is not fastened.
 
-POSSIBLE COLOUR OF THE SYMBOL:
+    POSSIBLE COLOUR OF THE SYMBOL:
 
-Grey: the rear seat belt is not fastened.
+    Grey: the rear seat belt is not fastened.
 
-Green: the seat belt tongue of a rear seat belt is engaged in the seat belt buckle of the displayed seat.
+    Green: the seat belt tongue of a rear seat belt is engaged in the seat belt buckle of the displayed seat.
 
-Red: the person in the rear seat has unfastened their seatbelt.
+    Red: the person in the rear seat has unfastened their seatbelt.
 
-If a person unfastens a seat belt in the rear passenger compartment while the vehicle is motion, the rear seat belt status display appears again.
+    If a person unfastens a seat belt in the rear passenger compartment while the vehicle is motion, the rear seat belt status display appears again.
 
-In addition, a warning tone may sound."
+    In addition, a warning tone may sound."
+
+[click to go back to #WhatTheBeep](../index.html)
