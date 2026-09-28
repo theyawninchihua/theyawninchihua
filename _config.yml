@@ -1,23 +1,28 @@
-# Theme Setup (Pinned to stable release v1.5.0)
-remote_theme: yous/whiteglass@v1.5.0
+# Theme Engine
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme
 
 # Site Details
 title: The Yawning Chihuahua
 description: Consumer testing & car reviews
-baseurl: "/theyawninchihua"
-url: "https://theyawninchihua.github.io"
-markdown: kramdown
+baseurl: /theyawninchihua
+url: https://theyawninchihua.github.io
 
-# Navigation Menu (Use relative paths without domain names)
+# Force Jekyll to build these exact markdown files into the header menu
+header_pages:
+  - index.md
+  - articles/index.md
+  - whatthebeep/index.md
+
+# Custom Navigation Array
 navigation:
   - title: Home
-    url: /
+    url: /theyawninchihua/
   - title: Articles
-    url: /articles/
+    url: /theyawninchihua/articles/
   - title: "#WhatTheBeep"
-    url: /whatthebeep/
+    url: /theyawninchihua/whatthebeep/
 
 # Footer Social Links
 social:
