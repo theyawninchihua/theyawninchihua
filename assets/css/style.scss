@@ -1,0 +1,14 @@
+---
+---
+@import "minima";
+
+/* Inject logo before site title text */
+.site-title::before {
+  content: "";
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  vertical-align: middle;
+  background: url('{{ site.baseurl }}/theyawninchihua.png') no-repeat center / contain;
+}
