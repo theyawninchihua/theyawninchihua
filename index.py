@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate the homepage index.html using the latest 4 articles and 4 SBR results.
+Generate the homepage index.md and indexy.html using the latest 4 articles and 4 SBR results.
 
 Usage: python index.py <articles_dir> <sbr_dir>
 Example: python index.py articles whatthebeep
@@ -185,6 +185,46 @@ def main():
     top_articles = articles[:4]
     top_sbrs = sbrs[:4]
 
+    markdown_articles = []
+    for article in top_articles:
+        display_date = article['date'].strftime('%d.%m.%Y')
+        label = ARTICLE_TYPES.get(article['letters'], article['letters'])
+        banner_path = os.path.join(articles_dir, article['name'], 'banner.png')
+        if os.path.isfile(banner_path):
+            markdown_articles.append(f'![Banner](articles/{article["name"]}/banner.png)\n')
+        markdown_articles.append(
+            f'{display_date} [{label}] '
+            f'[{article["title"]}](articles/{article["name"]}/index.html)\n'
+        )
+
+    markdown_results = []
+    for entry in top_sbrs:
+        display_date = entry['date'].strftime('%d.%m.%y')
+        color = 'green' if entry['result'] == 'PASS' else 'red'
+        markdown_results.append(
+            f'- {display_date} [<span style="color: {color};">{entry["result"]}</span>] '
+            f'[{entry["title"]}](whatthebeep/{entry["dirname"]}/index.html)'
+        )
+
+    markdown = f'''---
+layout: default
+title: "Home"
+---
+
+## Latest Articles
+
+{''.join(markdown_articles)}
+[Load more](articles/index.html)
+
+## #WhatTheBeep
+
+### Latest results
+
+{chr(10).join(markdown_results)}
+
+[Load more](whatthebeep/index.html)
+'''
+
     # Prepare article HTML: first is featured, next three shown in table
     featured = top_articles[0] if len(top_articles) >= 1 else None
     others = top_articles[1:4]
@@ -277,10 +317,13 @@ def main():
 </html>
 """
 
-    with open('index.html', 'w', encoding='utf-8', newline='\n') as fh:
+    with open('indexy.html', 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(html)
 
-    print('Generated index.html')
+    with open('index.md', 'w', encoding='utf-8', newline='\n') as fh:
+        fh.write(markdown)
+
+    print('Generated index.md and indexy.html')
 
 
 if __name__ == '__main__':

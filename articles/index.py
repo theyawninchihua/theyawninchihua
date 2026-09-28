@@ -1,5 +1,5 @@
 """
-Generate an articles index.html in the exact style of the existing manual file.
+Generate articles index.md and indexy.html.
 
 Usage: python index.py [articles_dir]
 Example 1: python index.py .
@@ -143,6 +143,7 @@ def render_index(path, items):
         <h2>Articles</h2>
         <table>
 """
+    markdown_entries = []
 
     for row in chunk(items, ARTICLES_PER_ROW):
         html += "            <tr>\n"
@@ -156,6 +157,12 @@ def render_index(path, items):
             # Check for banner.png in the article directory
             banner_path = os.path.join(path, e['name'], 'banner.png')
             has_banner = os.path.isfile(banner_path)
+            if has_banner:
+                markdown_entries.append(f'![Banner]({e["name"]}/banner.png)\n')
+            markdown_entries.append(
+                f'{formatted_date} **[{label}]** '
+                f'[{e["title"]}]({e["name"]}/index.html)\n'
+            )
 
             html += f"                <td valign=\"top\" width=\"{int(100/ARTICLES_PER_ROW)}%\">\n"
             html += "                    <figure>\n"
@@ -175,9 +182,23 @@ def render_index(path, items):
     html += "    <a href=\"../../index.html\">click to go back home</a>\n\n"
     html += "    </font>\n    </body>\n</html>\n"
 
-    outpath = os.path.join(path, 'index.html')
+    outpath = os.path.join(path, 'indexy.html')
     with open(outpath, 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(html)
+
+    markdown = (
+        '---\n'
+        'layout: default\n'
+        'title: "Articles"\n'
+        '---\n\n'
+        '# Articles\n\n'
+        + '\n'.join(markdown_entries)
+        + '\n[Back to home](../index.html)\n'
+    )
+    markdown_path = os.path.join(path, 'index.md')
+    with open(markdown_path, 'w', encoding='utf-8', newline='\n') as fh:
+        fh.write(markdown)
+    print(f'Generated {markdown_path} and {outpath}')
 
 
 def main():

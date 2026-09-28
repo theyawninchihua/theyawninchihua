@@ -89,13 +89,57 @@ def main():
     entries.sort(key=lambda x: (x['date'], x['result'], x['title']), reverse=True)
 
     list_lines = []
+    markdown_lines = []
     for e in entries:
         list_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/index.html\">{e['title']}</a><br>")
+        color = 'green' if e['result'] == 'PASS' else 'red'
+        markdown_lines.append(
+            f"- {e['display_date']} [<span style=\"color: {color};\">{e['result']}</span>] "
+            f"[{e['title']}]({e['dirname']}/index.html)"
+        )
 
     list_html = "\n        ".join(list_lines)
     fail_count = sum(1 for e in entries if e['result'] == 'FAIL')
     total_count = len(entries)
     fail_pct = (fail_count / total_count * 100) if total_count else 0.0
+
+    markdown = f'''---
+layout: default
+title: "#WhatTheBeep"
+---
+
+# #WhatTheBeep
+
+The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
+
+## All Rear Seatbelt Reminder Evaluations
+
+{chr(10).join(markdown_lines)}
+
+(*) Evaluation based on desktop research.
+
+## FAQs
+
+### What is the problem being targeted by #WhatTheBeep?
+
+By design, the rear seatbelt reminders of many Indian **cars don't beep when they should, or beep when they shouldn't.** Current regulations and Indian consumer tests only consider the scenario when a rear occupant's seatbelt *becomes* unfastened while driving.
+
+### What is required for a car to receive <span style="color: green;">PASS</span> in #WhatTheBeep?
+
+Simply put, with respect to an unbelted occupant in the rear outboard seats, the car should **beep [if and only if](https://en.wikipedia.org/wiki/If_and_only_if) an occupant is sitting in the seat and is not belted.**
+
+The criteria are formally defined in the [#WhatTheBeep protocol](protocol.html).
+
+### I would like to report on #WhatTheBeep, should I know anything?
+
+Thank you for your interest! You may include the following blurb or equivalent: *#WhatTheBeep is an **informal, independent** consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars.*
+
+Kindly avoid reporting using language that suggests #WhatTheBeep is intended to replace safety regulations or consumer tests, or assess the overall safety level of the vehicle. It would also be much appreciated if, after publication, you could share a copy with *The Yawning Chihuahua* [via email](mailto:theyawningchihuahua@gmail.com) for bookkeeping purposes.
+
+—TYC
+
+[Back to home](../index.html)
+'''
 
     html = f"""<!DOCTYPE html>
 <html>
@@ -155,11 +199,15 @@ def main():
 </html>
 """
 
-    output_path = os.path.join(directory, 'index.html')
+    output_path = os.path.join(directory, 'indexy.html')
     with open(output_path, 'w', encoding='utf-8', newline='\n') as f:
         f.write(html)
 
-    print(f'Generated {output_path}')
+    markdown_path = os.path.join(directory, 'index.md')
+    with open(markdown_path, 'w', encoding='utf-8', newline='\n') as f:
+        f.write(markdown)
+
+    print(f'Generated {markdown_path} and {output_path}')
 
 
 if __name__ == '__main__':
