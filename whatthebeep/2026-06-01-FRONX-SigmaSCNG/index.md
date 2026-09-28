@@ -5,7 +5,7 @@ title: "Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
 
 # Maruti Suzuki FRONX
 
-### Sigma S-CNG • 01.06.26
+### Sigma S-CNG • Evaluated on 01.06.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -41,9 +41,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DEe5WrUPyl4?si=zmQQrgcCL0oFBRvf" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-01.06.2026
 
 ### Manual URL
 [link to manufacturer website](https://marutisuzuki.scene7.com/is/content/maruti/NEXA-FRONX-Petrol-Manualpdf)

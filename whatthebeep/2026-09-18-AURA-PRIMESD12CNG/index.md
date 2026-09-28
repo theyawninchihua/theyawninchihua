@@ -5,7 +5,7 @@ title: "Hyundai AURA #WhatTheBeep Evaluation 18.09.26"
 
 # Hyundai AURA
 
-### Prime SD 1.2 CNG • 18.09.26
+### Prime SD 1.2 CNG • Evaluated on 18.09.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -41,9 +41,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1EEzhE-ZYEA?si=Cqey7Pasz0rZfRfz" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-18.09.2026
 
 ### Manual URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2026/aura-from-jan-2026-to-present.pdf)

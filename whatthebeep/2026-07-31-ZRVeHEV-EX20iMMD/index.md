@@ -5,7 +5,7 @@ title: "Honda ZR-V e:HEV #WhatTheBeep Evaluation 31.07.26"
 
 # Honda ZR-V e:HEV
 
-### EX 2.0 i-MMD • 31.07.26
+### EX 2.0 i-MMD • Evaluated on 31.07.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/pdfs/ZR-V%20Brochure_25July26.pdf)
-
-### Publication Date
-31.07.2026
 
 ### Excerpt
 

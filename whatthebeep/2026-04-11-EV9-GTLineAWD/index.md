@@ -5,7 +5,7 @@ title: "Kia EV9 #WhatTheBeep Evaluation 11.04.26"
 
 # Kia EV9
 
-### GT-Line AWD • 11.04.26
+### GT-Line AWD • Evaluated on 11.04.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/our-vehicles/showroom/ev9/Kia_EV9_Brochure_Desktop.pdf)
-
-### Publication Date
-11.04.2026
 
 ### Excerpt
 

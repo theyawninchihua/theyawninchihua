@@ -5,7 +5,7 @@ title: "Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
 
 # Nissan GRAVITE
 
-### Visia 1.0 B4D • 04.04.26
+### Visia 1.0 B4D • Evaluated on 04.04.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://www-asia.nissan-cdn.net/content/dam/Nissan/in/brochures/2026/Nissan-Gravite-Brochure-final.pdf)
-
-### Publication Date
-04.04.2026
 
 ### Excerpt
 

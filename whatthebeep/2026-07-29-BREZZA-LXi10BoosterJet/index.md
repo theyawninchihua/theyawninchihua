@@ -5,7 +5,7 @@ title: "Maruti Suzuki BREZZA #WhatTheBeep Evaluation 29.07.26"
 
 # Maruti Suzuki BREZZA
 
-### LXi 1.0 Booster Jet • 29.07.26
+### LXi 1.0 Booster Jet • Evaluated on 29.07.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/final-new-brezza/brochure/The-New-Brezza-Brochure.pdf)
-
-### Publication Date
-29.07.2026
 
 ### Excerpt
 

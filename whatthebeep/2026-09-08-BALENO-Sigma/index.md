@@ -5,7 +5,7 @@ title: "Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
 
 # Maruti Suzuki BALENO
 
-### Sigma • 08.09.26
+### Sigma • Evaluated on 08.09.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/newbaleno/download-brochure/The-Stunning-New-Baleno-Brochure.pdf)
-
-### Publication Date
-08.09.2026
 
 ### Excerpt
 

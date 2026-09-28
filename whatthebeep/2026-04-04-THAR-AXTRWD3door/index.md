@@ -5,7 +5,7 @@ title: "Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 
 # Mahindra THAR
 
-### AXT RWD 3-door • 04.04.26
+### AXT RWD 3-door • Evaluated on 04.04.26
 
 # <span style="color: green;">PASS</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwd39c2522/brochure/Thar-Brochure-2025-NEW.pdf)
-
-### Publication Date
-04.04.2026
 
 ### Excerpt
 

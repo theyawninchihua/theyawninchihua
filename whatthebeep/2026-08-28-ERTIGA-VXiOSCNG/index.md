@@ -5,7 +5,7 @@ title: "Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
 
 # Maruti Suzuki ERTIGA
 
-### VXi(O) S-CNG • 28.08.26
+### VXi(O) S-CNG • Evaluated on 28.08.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -43,9 +43,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HcstmHC3nCI?si=cdGLFfBcCDjlNUiv" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-28.08.2026
 
 ### Manual URL
 [link to manufacturer website](https://marutisuzuki.scene7.com/is/content/maruti/ERTIGA_99011M75UD1-74Epdf)

@@ -5,7 +5,7 @@ title: "Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
 
 # Mercedes-Benz CLA ELECTRIC
 
-### CLA 200 Standard Range 58 kWh • 13.06.26
+### CLA 200 Standard Range 58 kWh • Evaluated on 13.06.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://mercedes-benz-india-locator.com/viva-star/files/banner_images/523515/3085_1777095020_MBCLADigitalBrochure2026.pdf.pdf)
-
-### Publication Date
-13.06.2026
 
 ### Excerpt
 

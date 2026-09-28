@@ -5,7 +5,7 @@ title: "Tata XPRES #WhatTheBeep Evaluation 22.06.26"
 
 # Tata XPRES
 
-### 1.2 Revotron CNG • 22.06.26
+### 1.2 Revotron CNG • Evaluated on 22.06.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -41,9 +41,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lt-NBp1_j3E?si=xnVg_lCsKnemVvso" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-22.06.2026
 
 ### Manual URL
 not available

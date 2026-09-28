@@ -5,7 +5,7 @@ title: "Toyota RUMION #WhatTheBeep Evaluation 28.08.26"
 
 # Toyota RUMION
 
-### S CNG • 28.08.26
+### S CNG • Evaluated on 28.08.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -41,9 +41,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DYwji79LpeE?si=CGhfF9T26tcbOM13" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-28.08.2026
 
 ### Manual URL
 [link to manufacturer website](https://ownersmanual-media.toyotabharat.com/rumion-om-oct-2025.pdf)

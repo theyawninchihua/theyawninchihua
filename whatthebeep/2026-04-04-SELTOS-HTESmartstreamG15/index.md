@@ -5,7 +5,7 @@ title: "Kia SELTOS #WhatTheBeep Evaluation 04.04.26"
 
 # Kia SELTOS
 
-### HTE Smartstream G1.5 • 04.04.26
+### HTE Smartstream G1.5 • Evaluated on 04.04.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/our-vehicles/new-seltos/showroom/brochure/KiaSeltosBrochureDesktop.pdf)
-
-### Publication Date
-04.04.2026
 
 ### Excerpt
 

@@ -5,7 +5,7 @@ title: "Maruti Suzuki e VITARA #WhatTheBeep Evaluation 22.05.26"
 
 # Maruti Suzuki e VITARA
 
-### Delta 49 kWh FWD • 22.05.26
+### Delta 49 kWh FWD • Evaluated on 22.05.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://www.nexaexperience.com/content/dam/msil/ev/in/en/assets/cars/e-vitara/brochure/NEXA-eVITARA-Brochure-Desktop.pdf)
-
-### Publication Date
-22.05.2026
 
 ### Excerpt
 

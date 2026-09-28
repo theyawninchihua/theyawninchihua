@@ -5,7 +5,7 @@ title: "Hyundai CRETA ELECTRIC #WhatTheBeep Evaluation 05.06.26"
 
 # Hyundai CRETA ELECTRIC
 
-### Executive 42 kWh • 05.06.26
+### Executive 42 kWh • Evaluated on 05.06.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -41,9 +41,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hl08mYK9Z8U?si=P_fyBEmGYCBh0NcT" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-05.06.2026
 
 ### Manual URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/pc/cretaev.pdf)

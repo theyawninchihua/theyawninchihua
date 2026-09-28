@@ -5,7 +5,7 @@ title: "Nissan TEKTON #WhatTheBeep Evaluation 17.07.26"
 
 # Nissan TEKTON
 
-### Visia T160 • 17.07.26
+### Visia T160 • Evaluated on 17.07.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://a.storyblok.com/f/288274551197823/x/92e9ce46d5/final-tekton-brochure.pdf)
-
-### Publication Date
-17.07.2026
 
 ### Excerpt
 

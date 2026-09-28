@@ -5,7 +5,7 @@ title: "Maruti Suzuki DZIRE #WhatTheBeep Evaluation 24.05.26"
 
 # Maruti Suzuki DZIRE
 
-### Tour S S-CNG • 24.05.26
+### Tour S S-CNG • Evaluated on 24.05.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -41,9 +41,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dlN32JydcQ0?si=dEG1BEpzISriIywU" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-24.05.2026
 
 ### Manual URL
 [link to manufacturer website](https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Tour-S_99011M55UT1-74W.pdf)

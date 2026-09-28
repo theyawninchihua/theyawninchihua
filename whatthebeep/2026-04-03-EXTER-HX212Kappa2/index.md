@@ -5,7 +5,7 @@ title: "Hyundai EXTER #WhatTheBeep Evaluation 03.04.26"
 
 # Hyundai EXTER
 
-### HX2 1.2 Kappa2 • 03.04.26
+### HX2 1.2 Kappa2 • Evaluated on 03.04.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/exter.pdf)
-
-### Publication Date
-03.04.2026
 
 ### Excerpt
 

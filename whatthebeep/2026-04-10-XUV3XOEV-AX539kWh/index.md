@@ -5,7 +5,7 @@ title: "Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 
 # Mahindra XUV 3XO EV
 
-### AX5 39 kWh • 10.04.26
+### AX5 39 kWh • Evaluated on 10.04.26
 
 # <span style="color: green;">PASS</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw2183d955/XUV3XO_ev/brochures/XUV-3XO-EV-Brochure.pdf)
-
-### Publication Date
-10.04.2026
 
 ### Excerpt
 

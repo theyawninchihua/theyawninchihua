@@ -5,7 +5,7 @@ title: "Toyota INNOVA HYCROSS #WhatTheBeep Evaluation 18.09.26"
 
 # Toyota INNOVA HYCROSS
 
-### ZX 2.0 Hybrid • 18.09.26
+### ZX 2.0 Hybrid • Evaluated on 18.09.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -43,9 +43,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kS0aRHg_P2g?si=wB-jlj1Vg6zAJYdc" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-18.09.2026
 
 ### Manual URL
 [link to manufacturer website](https://ownersmanual-media.toyotabharat.com/innova-hycross-hybrid-om-march-2025.pdf)

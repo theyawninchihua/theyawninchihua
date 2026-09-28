@@ -5,7 +5,7 @@ title: "Mahindra XUV 7XO #WhatTheBeep Evaluation 03.04.26"
 
 # Mahindra XUV 7XO
 
-### AX 2.0 mStallion T-GDi • 03.04.26
+### AX 2.0 mStallion T-GDi • Evaluated on 03.04.26
 
 # <span style="color: green;">PASS</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw5ba5f731/XUV-7XO/brochures/XUV-7XO-Brochure.pdf)
-
-### Publication Date
-03.04.2026
 
 ### Excerpt
 

@@ -5,7 +5,7 @@ title: "Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
 
 # Renault DUSTER
 
-### authentic TCe 100 • 03.04.26
+### authentic TCe 100 • Evaluated on 03.04.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://cdn.group.renault.com/ren/in/duster2026/brochures/duster-spec-sheet.pdf)
-
-### Publication Date
-03.04.2026
 
 ### Excerpt
 

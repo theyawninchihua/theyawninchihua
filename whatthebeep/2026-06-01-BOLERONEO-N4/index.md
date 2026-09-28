@@ -5,7 +5,7 @@ title: "Mahindra BOLERO NEO #WhatTheBeep Evaluation 01.06.26"
 
 # Mahindra BOLERO NEO
 
-### N4 • 01.06.26
+### N4 • Evaluated on 01.06.26
 
 # <span style="color: green;">PASS</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw27dcbbbe/NEO/BoleroNeo-Brochure-19-Dec.pdf)
-
-### Publication Date
-01.06.2026
 
 ### Excerpt
 

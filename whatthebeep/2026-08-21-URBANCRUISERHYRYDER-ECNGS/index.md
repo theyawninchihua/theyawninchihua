@@ -5,7 +5,7 @@ title: "Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
 
 # Toyota URBAN CRUISER HYRYDER
 
-### E-CNG S • 21.08.26
+### E-CNG S • Evaluated on 21.08.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -43,9 +43,6 @@ in-person testing
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KzZpo53xiM?si=5TLOYonCDSkp_IYj" title="YouTube video player" allowfullscreen></iframe>
-
-### Publication Date
-21.08.2026
 
 ### Manual URL
 [link to manufacturer website](https://ownersmanual-media.toyotabharat.com/urban-cruiser-hyryder-om-april-2025-v2.pdf)

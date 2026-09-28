@@ -5,7 +5,7 @@ title: "Honda CITY i-VTEC #WhatTheBeep Evaluation 05.06.26"
 
 # Honda CITY i-VTEC
 
-### SV 1.5 i-VTEC • 05.06.26
+### SV 1.5 i-VTEC • Evaluated on 05.06.26
 
 # <span style="color: red;">FAIL</span>
 
@@ -31,9 +31,6 @@ desktop research
 
 ### Brochure URL
 [link to manufacturer website](https://honda-content-prod.s3.ap-south-1.amazonaws.com/web-data/brochures/The%20New%20City%20Brochure_21.pdf)
-
-### Publication Date
-05.06.2026
 
 ### Excerpt
 
