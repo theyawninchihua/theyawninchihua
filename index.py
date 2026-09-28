@@ -211,6 +211,7 @@ def main():
 
     markdown = f'''---
 layout: home
+permalink: /
 title: "Home"
 ---
 

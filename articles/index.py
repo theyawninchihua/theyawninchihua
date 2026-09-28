@@ -192,6 +192,7 @@ def render_index(path, items):
     markdown = (
         '---\n'
         'layout: page\n'
+        'permalink: /articles/\n'
         'title: "Articles"\n'
         '---\n\n'
         + '\n'.join(markdown_entries)

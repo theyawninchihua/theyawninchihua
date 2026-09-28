@@ -105,6 +105,7 @@ def main():
 
     markdown = f'''---
 layout: page
+permalink: /whatthebeep/
 title: "#WhatTheBeep"
 ---
 
