@@ -4,6 +4,7 @@ title: "Mahindra BOLERO NEO PLUS #WhatTheBeep Evaluation 30.09.26"
 ---
 
 # Mahindra BOLERO NEO PLUS
+### N4 7-seater
 # <span style="color: green;">PASS</span>
 
 | Variant          | N4 7-seater |

@@ -5,5 +5,14 @@ baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
 
+minima:
+  logo: /theyawninchihua.png
+  # Set to true if you want to show social links/icons in the footer
+  social_links:
+    twitter: theyawninchihua
+    youtube: theyawninchihua
+    instagram: theyawninchihua
+    github:  theyawninchihua
+
 header_pages:
   - bla.md
