@@ -191,7 +191,10 @@ def main():
         label = ARTICLE_TYPES.get(article['letters'], article['letters'])
         banner_path = os.path.join(articles_dir, article['name'], 'banner.png')
         if os.path.isfile(banner_path):
-            markdown_articles.append(f'![Banner](articles/{article["name"]}/banner.png)\n')
+            markdown_articles.append(
+                f'[![Banner](articles/{article["name"]}/banner.png)]'
+                f'(articles/{article["name"]}/index.html)\n'
+            )
         markdown_articles.append(
             f'{display_date} [{label}] '
             f'[{article["title"]}](articles/{article["name"]}/index.html)\n'

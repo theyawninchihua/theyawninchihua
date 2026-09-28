@@ -158,7 +158,10 @@ def render_index(path, items):
             banner_path = os.path.join(path, e['name'], 'banner.png')
             has_banner = os.path.isfile(banner_path)
             if has_banner:
-                markdown_entries.append(f'![Banner]({e["name"]}/banner.png)\n')
+                markdown_entries.append(
+                    f'[![Banner]({e["name"]}/banner.png)]'
+                    f'({e["name"]}/index.html)\n'
+                )
             markdown_entries.append(
                 f'{formatted_date} **[{label}]** '
                 f'[{e["title"]}]({e["name"]}/index.html)\n'
