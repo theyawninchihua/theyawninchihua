@@ -4,6 +4,7 @@ import re
 from datetime import datetime
 
 BANNER_TEXT = 'NOW ACCESSIBLE AT: <a href="https://tinyurl.com/beepthewhat">tinyurl.com/beepthewhat</a>'
+WRITE_HTML = False
 
 def result_html(result):
     if result == "PASS":
@@ -197,9 +198,11 @@ Kindly avoid reporting using language that suggests #WhatTheBeep is intended to 
 </html>
 """
 
-    output_path = os.path.join(directory, 'indexy.html')
-    with open(output_path, 'w', encoding='utf-8', newline='\n') as f:
-        f.write(html)
+    output_path = ""
+    if WRITE_HTML:
+        output_path = os.path.join(directory, 'indexy.html')
+        with open(output_path, 'w', encoding='utf-8', newline='\n') as f:
+            f.write(html)
 
     markdown_path = os.path.join(directory, 'index.md')
     with open(markdown_path, 'w', encoding='utf-8', newline='\n') as f:

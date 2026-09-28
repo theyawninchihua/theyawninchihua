@@ -30,6 +30,7 @@ ARTICLE_TYPES = {
 }
 
 ARTICLES_PER_ROW = 2
+WRITE_HTML = False
 
 # Directory name must be: uppercase letters + 9 digits
 NAME_RE = re.compile(r'^([A-Z]+)(\d{9})$')
@@ -184,9 +185,11 @@ def render_index(path, items):
     html += "    <a href=\"../../index.html\">click to go back home</a>\n\n"
     html += "    </font>\n    </body>\n</html>\n"
 
-    outpath = os.path.join(path, 'indexy.html')
-    with open(outpath, 'w', encoding='utf-8', newline='\n') as fh:
-        fh.write(html)
+    outpath = ""
+    if WRITE_HTML:
+        outpath = os.path.join(path, 'indexy.html')
+        with open(outpath, 'w', encoding='utf-8', newline='\n') as fh:
+            fh.write(html)
 
     markdown = (
         '---\n'

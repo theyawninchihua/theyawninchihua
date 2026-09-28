@@ -2,6 +2,7 @@
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Site Metadata
 title: The Yawning Chihuahua
@@ -11,3 +12,8 @@ url: https://theyawninchihua.github.io
 markdown: kramdown
 
 picture: /theyawninchihua.png
+
+# Social & Share Cards (OpenGraph / Twitter)
+twitter_username: "@theyawninchihua"
+twitter_card: summary_large_image # Renders a large preview banner instead of a small thumbnail
+og_image: /theyawninchihua.png

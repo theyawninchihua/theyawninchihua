@@ -4,6 +4,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202609291/banner.png)](N202609291/index.html)
+29.09.2026 **NOTICE** | [No Excuses: Mahindra BOLERO NEO PLUS gains intelligent rear seatbelt reminder](N202609291/index.html)
+
+
 [![Banner](N202609181/banner.png)](N202609181/index.html)
 18.09.2026 **NOTICE** | [Three more Indian cars criticised for weak rear seatbelt reminders in latest #WhatTheBeep evaluations](N202609181/index.html)
 

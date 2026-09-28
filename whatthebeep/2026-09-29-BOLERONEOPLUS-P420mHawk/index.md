@@ -5,7 +5,7 @@ title: "Mahindra BOLERO NEO PLUS #WhatTheBeep Evaluation 30.09.26"
 
 # Mahindra BOLERO NEO PLUS
 
-### P4 2.0 mHawk • Evaluated on 30.09.26
+### P4 2.0 mHawk • Evaluated on 29.09.26
 
 # <span style="color: green;">PASS</span>
 

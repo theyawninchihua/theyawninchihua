@@ -20,7 +20,7 @@ ARTICLE_TYPES = {
     'N': 'NOTICE',
 }
 BANNER_TEXT = 'NOW ACCESSIBLE AT: <a href="https://tinyurl.com/beepthewhat">tinyurl.com/beepthewhat</a>'
-
+WRITE_HTML = False
 
 def read_yaml_simple(path):
     data = {}
@@ -319,8 +319,9 @@ title: "Home"
 </html>
 """
 
-    with open('indexy.html', 'w', encoding='utf-8', newline='\n') as fh:
-        fh.write(html)
+    if WRITE_HTML:
+        with open('indexy.html', 'w', encoding='utf-8', newline='\n') as fh:
+            fh.write(html)
 
     with open('index.md', 'w', encoding='utf-8', newline='\n') as fh:
         fh.write(markdown)
