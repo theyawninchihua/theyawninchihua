@@ -10,7 +10,7 @@ Scans the given directory for valid article directories named like
 where <LETTERS> are uppercase letter(s) identifying the article type,
 and the trailing 9 digits are YYYYMMDD and a single index digit (1-9).
 
-Valid directories must contain `index.html` and `metadata.yaml` with a
+Valid directories must contain `index.md` and `metadata.yaml` with a
 `title` field. Directories that fail validation are skipped and a message
 is printed explaining why.
 
@@ -90,10 +90,10 @@ def build_items(path):
             continue
 
         # Required files
-        index_html = os.path.join(fullname, 'index.html')
+        index_markdown = os.path.join(fullname, 'index.md')
         meta_yaml = os.path.join(fullname, 'metadata.yaml')
-        if not os.path.isfile(index_html):
-            print(f"Skipping '{name}': missing index.html")
+        if not os.path.isfile(index_markdown):
+            print(f"Skipping '{name}': missing index.md")
             continue
         if not os.path.isfile(meta_yaml):
             print(f"Skipping '{name}': missing metadata.yaml")

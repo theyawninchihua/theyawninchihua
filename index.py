@@ -76,10 +76,10 @@ def gather_articles(path):
             print(f"Skipping '{name}': invalid date in name")
             continue
 
-        index_html = os.path.join(full, 'index.html')
+        index_markdown = os.path.join(full, 'index.md')
         meta = os.path.join(full, 'metadata.yaml')
-        if not os.path.isfile(index_html):
-            print(f"Skipping '{name}': missing index.html")
+        if not os.path.isfile(index_markdown):
+            print(f"Skipping '{name}': missing index.md")
             continue
         if not os.path.isfile(meta):
             print(f"Skipping '{name}': missing metadata.yaml")
