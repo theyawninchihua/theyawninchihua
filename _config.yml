@@ -1,4 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy # pages-themes/minimal@v0.2.0
+remote_theme: jekyll-theme-hacker # pages-themes/minimal@v0.2.0
 title: The Yawning Chihuahua
 description: '<a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles/">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep/">#WhatTheBeep</a>'
 baseurl: /theyawninchihua
