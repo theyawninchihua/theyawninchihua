@@ -163,7 +163,7 @@ def render_index(path, items):
                     f'({e["name"]}/index.html)\n'
                 )
             markdown_entries.append(
-                f'{formatted_date} **[{label}]** '
+                f'{formatted_date} **{label}**\n'
                 f'[{e["title"]}]({e["name"]}/index.html)\n\n'
             )
 

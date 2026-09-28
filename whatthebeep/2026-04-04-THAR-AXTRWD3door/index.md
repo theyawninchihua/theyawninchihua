@@ -11,13 +11,13 @@ title: "Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 
 ## Datasheet
 
-| Testcase                         | Description                            | Audible warning*   | Verdict |
-| -------------------------------- | -------------------------------------- | ------------------ | ------- |
-| ![Testcase 1](../testcase_1.png) | occupant does not fasten seatbelt      | YES                | OK      |
-| ![Testcase 2](../testcase_2.png) | occupant takes off seatbelt            | YES                | OK      |
-| ![Testcase 3](../testcase_3.png) | seatbelt not fastened on an empty seat | NO                 | OK      |
-| ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat    | NO                 | OK      |
-|                                  |                                        |                    | PASS    |
+| Testcase                         | Description                            | Audible warning*                            | Verdict                                     |
+| -------------------------------- | -------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| ![Testcase 1](../testcase_1.png) | occupant does not fasten seatbelt      | <span style="color: green;">**YES**</span>  | <span style="color: green;">**OK**</span>   |
+| ![Testcase 2](../testcase_2.png) | occupant takes off seatbelt            | <span style="color: green;">**YES**</span>  | <span style="color: green;">**OK**</span>   |
+| ![Testcase 3](../testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span>   | <span style="color: green;">**OK**</span>   |
+| ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat    | <span style="color: green;">**NO**</span>   | <span style="color: green;">**OK**</span>   |
+|                                  |                                        |                                             | <span style="color: green;">**PASS**</span> |
 
 *second row outboard seat
 

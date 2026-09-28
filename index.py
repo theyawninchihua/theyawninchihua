@@ -196,7 +196,7 @@ def main():
                 f'(articles/{article["name"]}/index.html)\n'
             )
         markdown_articles.append(
-            f'{display_date} [{label}] '
+            f'{display_date} **{label}**\n'
             f'[{article["title"]}](articles/{article["name"]}/index.html)\n\n'
         )
 
@@ -205,8 +205,7 @@ def main():
         display_date = entry['date'].strftime('%d.%m.%y')
         color = 'green' if entry['result'] == 'PASS' else 'red'
         markdown_results.append(
-            f'- {display_date} [<span style="color: {color};">{entry["result"]}</span>] '
-            f'[{entry["title"]}](whatthebeep/{entry["dirname"]}/index.html)'
+            f'- {display_date} [{entry["title"]}](whatthebeep/{entry["dirname"]}/index.html) — **<span style="color: {color};">{entry["result"]}</span>**'
         )
 
     markdown = f'''---
@@ -218,7 +217,7 @@ title: "Home"
 ## Latest Articles
 
 {''.join(markdown_articles)}
-[Load more](articles/index.html)
+[View more](articles/index.html)
 
 ## #WhatTheBeep
 
@@ -226,7 +225,7 @@ title: "Home"
 
 {chr(10).join(markdown_results)}
 
-[Load more](whatthebeep/index.html)
+[View more](whatthebeep/index.html)
 '''
 
     # Prepare article HTML: first is featured, next three shown in table
