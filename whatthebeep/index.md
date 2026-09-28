@@ -9,7 +9,6 @@ The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Ind
 
 ## All Rear Seatbelt Reminder Evaluations
 
-- 30.09.26 [<span style="color: green;">PASS</span>] [Mahindra BOLERO NEO PLUS (*)](2026-09-30-BOLERONEOPLUS-P420mHawk/index.html)
 - 18.09.26 [<span style="color: red;">FAIL</span>] [Toyota INNOVA HYCROSS](2026-09-18-INNOVAHYCROSS-ZX20Hybrid/index.html)
 - 18.09.26 [<span style="color: red;">FAIL</span>] [Kia CARENS CLAVIS EV](2026-09-18-CARENSCLAVISEV-HTX742kWh/index.html)
 - 18.09.26 [<span style="color: red;">FAIL</span>] [Hyundai VERNA](2026-09-18-VERNA-allvariants/index.html)
