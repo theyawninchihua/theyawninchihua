@@ -8,7 +8,7 @@ markdown: kramdown
 logo: /theyawninchihua.png
 favicon_ico: "/assets/images/just-the-docs.png"
 
-color_scheme: ocean
+color_scheme: dark
 
 nav_enabled: true
 defaults:
