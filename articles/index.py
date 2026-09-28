@@ -160,11 +160,10 @@ def render_index(path, items):
             if has_banner:
                 markdown_entries.append(
                     f'[![Banner]({e["name"]}/banner.png)]'
-                    f'({e["name"]}/index.html)\n'
+                    f'({e["name"]}/index.html)'
                 )
             markdown_entries.append(
-                f'{formatted_date} **{label}**\n\n'
-                f'[{e["title"]}]({e["name"]}/index.html)\n\n'
+                f'{formatted_date} **{label}** | [{e["title"]}]({e["name"]}/index.html)\n\n'
             )
 
             html += f"                <td valign=\"top\" width=\"{int(100/ARTICLES_PER_ROW)}%\">\n"
