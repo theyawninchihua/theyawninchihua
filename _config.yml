@@ -4,20 +4,17 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# Site Metadata
+# Site Details
 title: The Yawning Chihuahua
 description: i like cars
 baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
 
-picture: /theyawninchihua.png
+# Default Fallback Logo/Image
 logo: /theyawninchihua.png
 
-# Social & Share Cards (OpenGraph / Twitter)
-twitter_username: "@theyawninchihua"
-twitter_image: summary_large_image # Renders a large preview banner instead of a small thumbnail
-og_image: /theyawninchihua.png
-twitter_card: summary_large_image
+# Twitter & OpenGraph Settings
 twitter:
+  username: "theyawninchihua"
   card: summary_large_image
