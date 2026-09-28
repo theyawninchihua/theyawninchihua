@@ -104,7 +104,7 @@ def main():
     fail_pct = (fail_count / total_count * 100) if total_count else 0.0
 
     markdown = f'''---
-layout: page
+layout: default
 title: "#WhatTheBeep"
 ---
 

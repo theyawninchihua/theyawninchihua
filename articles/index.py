@@ -191,7 +191,7 @@ def render_index(path, items):
 
     markdown = (
         '---\n'
-        'layout: page\n'
+        'layout: default\n'
         'title: "Articles"\n'
         '---\n\n'
         '# Articles\n\n'
