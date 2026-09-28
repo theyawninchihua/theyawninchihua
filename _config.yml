@@ -1,5 +1,4 @@
-remote_theme: jekyll/minima@v3.0.0.alpha1
-
+remote_theme: jekyll/minima@master
 title: The Yawning Chihuahua
 description: i like cars
 baseurl: /theyawninchihua
@@ -7,7 +6,7 @@ url: https://theyawninchihua.github.io
 markdown: kramdown
 
 minima:
-  logo: /theyawninchihua/theyawninchihua.png
+  logo: /theyawninchihua.png
   social_links:
     twitter: theyawninchihua
     youtube: theyawninchihua
