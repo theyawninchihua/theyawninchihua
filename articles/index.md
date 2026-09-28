@@ -1,6 +1,9 @@
 ---
 layout: page
-twitter_card:   type: "summary"   image: /theyawninchihua.pngpermalink: /articles/
+twitter_card:
+   type: "summary"
+   image: /theyawninchihua.png
+permalink: /articles/
 title: "Articles"
 ---
 

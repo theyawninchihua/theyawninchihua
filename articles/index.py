@@ -194,9 +194,9 @@ def render_index(path, items):
     markdown = (
         '---\n'
         'layout: page\n'
-        'twitter_card:'
-        '   type: "summary"'
-        '   image: /theyawninchihua.png'
+        'twitter_card:\n'
+        '   type: "summary"\n'
+        '   image: /theyawninchihua.png\n'
         'permalink: /articles/\n'
         'title: "Articles"\n'
         '---\n\n'
