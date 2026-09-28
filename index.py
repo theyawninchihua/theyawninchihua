@@ -210,7 +210,7 @@ def main():
         )
 
     markdown = f'''---
-layout: default
+layout: page
 title: "Home"
 ---
 
