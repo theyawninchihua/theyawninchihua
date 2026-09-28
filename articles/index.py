@@ -191,10 +191,9 @@ def render_index(path, items):
 
     markdown = (
         '---\n'
-        'layout: default\n'
+        'layout: page\n'
         'title: "Articles"\n'
         '---\n\n'
-        '# Articles\n\n'
         + '\n'.join(markdown_entries)
         + '\n[Back to home](../index.html)\n'
     )

@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "#WhatTheBeep"
 ---
-
-# #WhatTheBeep
 
 The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
 

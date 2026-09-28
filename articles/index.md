@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Articles"
 ---
-
-# Articles
 
 [![Banner](N202609181/banner.png)](N202609181/index.html)
 

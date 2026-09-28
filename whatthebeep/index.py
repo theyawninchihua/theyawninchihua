@@ -104,11 +104,9 @@ def main():
     fail_pct = (fail_count / total_count * 100) if total_count else 0.0
 
     markdown = f'''---
-layout: default
+layout: page
 title: "#WhatTheBeep"
 ---
-
-# #WhatTheBeep
 
 The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
 
