@@ -39,7 +39,7 @@ The message is clear: there is no excuse for any vehicle manufacturer to not fit
 
 ## Concerns persist with Bolero Neo Plus' rear-seat safety
 
-While the inclusion of an advanced rear seatbelt reminder in the second row is welcome, The Yawning Chihuahua will take this opportunity to remind consumers that the Bolero Neo Plus not only has a rudimentary lap-only static seatbelt in the centre seat, but its 9-seat capacity also comes from a row of side-facing "jump seats", which do not have seatbelts, let alone reminders.
+While the inclusion of an advanced rear seatbelt reminder in the second row is welcome, The Yawning Chihuahua will take this opportunity to remind consumers that the Bolero Neo Plus not only has a rudimentary lap-only static seatbelt in the centre seat, but its 9-seat capacity also comes from a **third row of side-facing "jump seats", which do not have seatbelts**, let alone reminders.
 
 Unrestrained occupants in a car increase the risk of death or serious injury to not only themselves, but even other occupants, potentially wearing their seatbelts. For this reason, despite the <span style="color: green;">**PASS**</span> result, The Yawning Chihuahua recommends that safety-conscious consumers shopping for a 3-row vehicle look elsewhere.
 
