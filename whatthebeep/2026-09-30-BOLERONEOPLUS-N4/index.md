@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to My Site"
+title: "Mahindra BOLERO NEO PLUS #WhatTheBeep Evaluation 30.09.26"
 ---
 
 # Mahindra BOLERO NEO PLUS
@@ -12,7 +12,7 @@ title: "Welcome to My Site"
 
 ## Datasheet
 | Testcase                         | Description                            | Audible warning*   | Verdict |
-| :------------------------------: | :------------------------------------- | :----------------: | :-----: |
+| -------------------------------- | -------------------------------------- | ------------------ | ------- |
 | ![Testcase 1](../testcase_1.png) | occupant does not fasten seatbelt      | YES                | OK      |
 | ![Testcase 1](../testcase_2.png) | seatbelt not fastened on an empty seat | YES                | OK      |
 | ![Testcase 1](../testcase_3.png) | seatbelt not fastened on an empty seat | NO                 | OK      |
