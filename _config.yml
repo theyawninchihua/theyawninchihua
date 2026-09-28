@@ -1,8 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: The Yawning Chihuahua
-description: '<a href="https://theyawninchihua.github.io/theyawninchihua">Home</a>\n
-  <a href="https://theyawninchihua.github.io/theyawninchihua/articles/">Articles</a>\n
-  <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep/">#WhatTheBeep</a>'
+description: '<a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles/">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep/">#WhatTheBeep</a>'
 baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
