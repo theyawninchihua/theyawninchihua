@@ -26,8 +26,7 @@ The [CRETA ELECTRIC](../../whatthebeep/2026-06-05-CRETAELECTRIC-Executive42kWh/i
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: red;">**YES**</span> | <span style="color: red;">**NOT OK**</span> |
-
-**<span style="color: red;">FAIL</span>**
+|  |  |  | <span style="color: red;">FAIL</span> |
 
 **Note: Honda CITY i-VTEC**
 

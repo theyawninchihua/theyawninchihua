@@ -28,8 +28,7 @@ Based on its documentation, the India-spec SORENTO only chimes when a rear seatb
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: red;">**YES**</span> | <span style="color: red;">**NOT OK**</span> |
-
-**<span style="color: red;">FAIL</span>**
+|  |  |  | <span style="color: red;">FAIL</span> |
 
 ## Double standard: Australian SORENTOES have more effective reminder than Indian SORENTOES
 

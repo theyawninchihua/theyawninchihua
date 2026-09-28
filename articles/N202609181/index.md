@@ -48,8 +48,7 @@ The Aura's larger stablemate, the [Hyundai VERNA](../../whatthebeep/2026-09-18-V
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: red;">**YES**</span> | <span style="color: red;">**NOT OK**</span> |
-
-**<span style="color: red;">FAIL</span>**
+|  |  |  | <span style="color: red;">FAIL</span> |
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 

@@ -26,8 +26,7 @@ This means the [ZR-V](../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/index.html) 
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | **YES** | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | **NO** | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | **YES** | <span style="color: red;">**NOT OK**</span> |
-
-**<span style="color: red;">FAIL</span>**
+|  |  |  | <span style="color: red;">FAIL</span> |
 
 ## Double standard: British ZR-V has rear occupant detection
 
