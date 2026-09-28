@@ -10,6 +10,9 @@ favicon_ico: "/assets/images/just-the-docs.png"
 
 color_scheme: dark
 
+github:
+  is_project_page: false
+
 nav_enabled: true
 defaults:
   # Exclude ALL pages from the navigation by default
