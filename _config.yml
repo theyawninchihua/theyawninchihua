@@ -1,16 +1,19 @@
-remote_theme: yous/whiteglass # pages-themes/minimal@v0.2.0
+# Theme Setup
+remote_theme: yous/whiteglass
+plugins:
+  - jekyll-remote-theme
+
+# Site Details
 title: The Yawning Chihuahua
-description: '<a href="https://theyawninchihua.github.io/theyawninchihua">Home</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/articles/">Articles</a> | <a href="https://theyawninchihua.github.io/theyawninchihua/whatthebeep/">#WhatTheBeep</a>'
+description: I like cars.
 baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
 
+# Branding Assets
 logo: /theyawninchihua.png
-favicon_ico: "/assets/images/just-the-docs.png"
 
-github:
-  is_project_page: false
-
+# Header Navigation
 navigation:
   - title: Home
     url: /theyawninchihua/
@@ -19,6 +22,7 @@ navigation:
   - title: "#WhatTheBeep"
     url: /theyawninchihua/whatthebeep/
 
+# Footer Social Icons
 social:
   github: theyawninchihua
   twitter: theyawninchihua
