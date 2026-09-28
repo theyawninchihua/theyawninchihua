@@ -2,7 +2,6 @@
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
 
 # Site Details
 title: The Yawning Chihuahua
@@ -14,7 +13,5 @@ markdown: kramdown
 # Default Fallback Logo/Image
 logo: /theyawninchihua.png
 
-# Twitter & OpenGraph Settings
-twitter:
-  username: "theyawninchihua"
-  card: summary_large_image
+# SEO
+twitter_

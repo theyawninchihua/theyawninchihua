@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "No Excuses: Mahindra BOLERO NEO PLUS gains intelligent rear seatbelt reminder"
-image:
-    path: /articles/N202609291/banner.png
-    twitter: card
-twitter:
-    card: summary_large_image
+twitter_card:
+    type: "summary_large_image"
+    image: /articles/N202609291/banner.png
 description: "Publication of new #WhatTheBeep result(s)."
 ---
 

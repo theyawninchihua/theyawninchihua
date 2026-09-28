@@ -209,6 +209,9 @@ def main():
 
     markdown = f'''---
 layout: home
+twitter_card:
+  type: "summary"
+  image: /theyawninchihua.png
 permalink: /
 title: "Home"
 ---
