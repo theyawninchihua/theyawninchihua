@@ -10,3 +10,17 @@ favicon_ico: "/assets/images/just-the-docs.png"
 
 github:
   is_project_page: false
+
+navigation:
+  - title: Home
+    url: /theyawninchihua/
+  - title: Articles
+    url: /theyawninchihua/articles/
+  - title: "#WhatTheBeep"
+    url: /theyawninchihua/whatthebeep/
+
+social:
+  github: theyawninchihua
+  twitter: theyawninchihua
+  instagram: theyawninchihua
+  email: theyawningchihuahua@example.com
