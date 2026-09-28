@@ -10,5 +10,7 @@ baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
 
+picture: /theyawninchihua.png
+
 # Social Meta Tags supported natively by whiteglass
 twitter_username: theyawninchihua
