@@ -12,8 +12,12 @@ url: https://theyawninchihua.github.io
 markdown: kramdown
 
 picture: /theyawninchihua.png
+logo: /theyawninchihua.png
 
 # Social & Share Cards (OpenGraph / Twitter)
 twitter_username: "@theyawninchihua"
-twitter_card: summary_large_image # Renders a large preview banner instead of a small thumbnail
+twitter_image: summary_large_image # Renders a large preview banner instead of a small thumbnail
 og_image: /theyawninchihua.png
+twitter_card: summary_large_image
+twitter:
+  card: summary_large_image
