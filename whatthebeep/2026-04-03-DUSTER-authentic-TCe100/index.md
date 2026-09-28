@@ -1,0 +1,50 @@
+---
+layout: default
+title: "Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
+---
+
+# Renault DUSTER
+### authentic TCe 100 • 03.04.26
+# <span style="color: red;">FAIL</span>
+
+## Datasheet
+
+| Testcase | Description | Audible warning* | Verdict |
+| --- | --- | --- | --- |
+| ![Testcase 1](../testcase_1.png) | occupant does not fasten seatbelt | NO | NOT OK |
+| ![Testcase 2](../testcase_2.png) | occupant takes off seatbelt | YES | OK |
+| ![Testcase 3](../testcase_3.png) | seatbelt not fastened on an empty seat | NO | OK |
+| ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat | YES | NOT OK |
+|  |  |  | FAIL |
+
+*second row outboard seat
+
+## Information Source
+- **Source Type:** desktop research
+- **Manual URL:** [https://www.user-manual.renault.com/en/seat-belts/seat-belts-23](https://www.user-manual.renault.com/en/seat-belts/seat-belts-23)
+- **Brochure URL:** [https://cdn.group.renault.com/ren/in/duster2026/brochures/duster-spec-sheet.pdf](https://cdn.group.renault.com/ren/in/duster2026/brochures/duster-spec-sheet.pdf)
+- **Publication Date:** 03.04.2026
+- **Excerpt:**
+
+From the 2026 New Duster's owners' manual: Rear seatbelt reminder
+
+With the doors closed, the graphic 6 is displayed on the instrument panel for approximately 60 seconds when the vehicle ignition is switched on. This informs the driver of the fastening status of each of the rear seatbelts every time:
+
+the doors are opened during driving (vehicle speed above zero);
+a rear seatbelt is fastened/unfastened.
+Understanding the graphic 6:
+
+symbol in green: seatbelt fastened;
+symbol in red: seatbelt is not fastened.
+When the vehicle speed is below approximately 12 mph (20 km/h), the graphic 6 appears for approximately 60 seconds every time one of the rear seatbelts is fastened or unfastened.
+
+When the vehicle speed reaches or exceeds 12 mph (20 km/h), if one of the rear seatbelts is unfastened during the journey:
+
+the 2_ALL_088_1_pictogramme.png warning light flashes on the central display;
+and
+
+a beep sounds for around 30 seconds;
+and
+
+the graphic 6 is displayed for at least approximately 60 seconds and the symbol for the seat concerned appears in red.
+Always make sure that the rear passengers are properly fastened and that the number of fastened seatbelts indicated corresponds to the number of rear seats occupied.

@@ -1,0 +1,52 @@
+---
+layout: default
+title: "Nissan TEKTON #WhatTheBeep Evaluation 17.07.26"
+---
+
+# Nissan TEKTON
+### Visia T160 • 17.07.26
+# <span style="color: red;">FAIL</span>
+
+## Datasheet
+
+| Testcase | Description | Audible warning* | Verdict |
+| --- | --- | --- | --- |
+| ![Testcase 1](../testcase_1.png) | occupant does not fasten seatbelt | NO | NOT OK |
+| ![Testcase 2](../testcase_2.png) | occupant takes off seatbelt | YES | OK |
+| ![Testcase 3](../testcase_3.png) | seatbelt not fastened on an empty seat | NO | OK |
+| ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat | YES | NOT OK |
+|  |  |  | FAIL |
+
+*second row outboard seat
+
+## Information Source
+- **Source Type:** desktop research
+- **Manual URL:** [https://www-asia.nissan-cdn.net/content/dam/Nissan/in/brochures/2026/Nissan-Tekton-OM.pdf](https://www-asia.nissan-cdn.net/content/dam/Nissan/in/brochures/2026/Nissan-Tekton-OM.pdf)
+- **Brochure URL:** [https://a.storyblok.com/f/288274551197823/x/92e9ce46d5/final-tekton-brochure.pdf](https://a.storyblok.com/f/288274551197823/x/92e9ce46d5/final-tekton-brochure.pdf)
+- **Publication Date:** 17.07.2026
+- **Excerpt:**
+
+From the Tekton's owners' manual:
+
+Rear seatbelt reminder
+
+With the doors closed, the graphic 6 is displayed on the instrument panel for approximately 60 seconds when the vehicle ignition is switched on. This informs the driver of the fastening status of each of the rear seatbelts every time:
+
+the doors are opened during driving (vehicle speed above zero);
+a rear seatbelt is fastened/unfastened.
+Understanding the graphic 6:
+
+symbol in green: seatbelt fastened;
+symbol in red: seatbelt is not fastened.
+When the vehicle speed is below approximately 12 mph (20 km/h), the graphic 6 appears for approximately 60 seconds every time one of the rear seatbelts is fastened or unfastened.
+
+When the vehicle speed reaches or exceeds 12 mph (20 km/h), if one of the rear seatbelts is unfastened during the journey:
+
+the 2 warning light flashes on the central display;
+and
+
+a beep sounds for around 30 seconds;
+and
+
+the graphic 6 is displayed for at least approximately 60 seconds and the symbol for the seat concerned appears in red.
+Always make sure that the rear passengers are properly fastened and that the number of fastened seatbelts indicated corresponds to the number of rear seats occupied.
