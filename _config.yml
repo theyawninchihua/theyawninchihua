@@ -1,17 +1,14 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 title: The Yawning Chihuahua
 description: i like cars
 baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
 
-minima:
-  logo: /theyawninchihua.png
-  social_links:
-    twitter: theyawninchihua
-    youtube: theyawninchihua
-    instagram: theyawninchihua
-    github:  theyawninchihua
+logo: /theyawninchihua.png
+favicon_ico: "/assets/images/just-the-docs.png"
+
+nav_enabled: true
 
 header_pages:
   - index.md
