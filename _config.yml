@@ -8,33 +8,5 @@ markdown: kramdown
 logo: /theyawninchihua.png
 favicon_ico: "/assets/images/just-the-docs.png"
 
-color_scheme: dark
-
 github:
   is_project_page: false
-
-nav_enabled: true
-defaults:
-  # Exclude ALL pages from the navigation by default
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      nav_exclude: true
-
-  # Override: Enable navigation ONLY for top-level section index files
-  - scope:
-      path: "index.md"
-    values:
-      nav_exclude: false
-      nav_order: 1
-  - scope:
-      path: "articles/index.md"
-    values:
-      nav_exclude: false
-      nav_order: 2
-  - scope:
-      path: "whatthebeep/index.md"
-    values:
-      nav_exclude: false
-      nav_order: 3
