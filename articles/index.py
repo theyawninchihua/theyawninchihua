@@ -164,7 +164,7 @@ def render_index(path, items):
                 )
             markdown_entries.append(
                 f'{formatted_date} **[{label}]** '
-                f'[{e["title"]}]({e["name"]}/index.html)\n'
+                f'[{e["title"]}]({e["name"]}/index.html)\n\n'
             )
 
             html += f"                <td valign=\"top\" width=\"{int(100/ARTICLES_PER_ROW)}%\">\n"

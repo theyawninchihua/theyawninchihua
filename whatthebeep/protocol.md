@@ -3,6 +3,8 @@ layout: default
 title: "#WhatTheBeep Protocol"
 ---
 
+# #WhatTheBeep Protocol
+
 *Italics indicate informal explanations. This is not legally binding, but a good-faith contract The Yawning Chihuahua claims to follow when publishing #WhatTheBeep evaluations.*
 
 ## 1. Evaluation schema

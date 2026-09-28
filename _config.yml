@@ -8,6 +8,8 @@ markdown: kramdown
 logo: /theyawninchihua.png
 favicon_ico: "/assets/images/just-the-docs.png"
 
+color_scheme: ocean
+
 nav_enabled: true
 defaults:
   # Exclude ALL pages from the navigation by default
