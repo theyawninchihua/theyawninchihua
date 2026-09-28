@@ -1,7 +1,7 @@
 main:
   - title: "Home"
-    url: /theyawninchihua/
+    url: /
   - title: "Articles"
-    url: /theyawninchihua/articles/
+    url: /articles/
   - title: "#WhatTheBeep"
-    url: /theyawninchihua/whatthebeep/
+    url: /whatthebeep/
