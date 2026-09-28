@@ -16,3 +16,5 @@ minima:
 
 header_pages:
   - index.md
+  - articles/index.md
+  - whatthebeep/index.md
