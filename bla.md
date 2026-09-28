@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to My Site"
+title: "Home"
 ---
 
 # Articles

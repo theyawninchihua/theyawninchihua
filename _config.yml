@@ -4,3 +4,6 @@ description: i like cars
 baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
+
+header_pages:
+  - bla.md
