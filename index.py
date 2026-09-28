@@ -196,7 +196,7 @@ def main():
                 f'(articles/{article["name"]}/index.html)\n'
             )
         markdown_articles.append(
-            f'{display_date} **{label}**\n'
+            f'{display_date} **{label}**\n\n'
             f'[{article["title"]}](articles/{article["name"]}/index.html)\n\n'
         )
 
