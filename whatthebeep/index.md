@@ -9,6 +9,8 @@ title: "#WhatTheBeep"
 
 The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
 
+[Suggest a vehicle for evaluation / Report an error](mailto:theyawningchihuahua@gmail.com)
+
 ## All Rear Seatbelt Reminder Evaluations
 
 - 30.09.26 [Tata AERIS (*)](2026-09-30-AERIS-Smart12Revotron/index.html) — **<span style="color: red;">FAIL</span>**

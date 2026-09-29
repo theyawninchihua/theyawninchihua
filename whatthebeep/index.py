@@ -114,6 +114,8 @@ title: "#WhatTheBeep"
 
 The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
 
+[Suggest a vehicle for evaluation / Report an error](mailto:theyawningchihuahua@gmail.com)
+
 ## All Rear Seatbelt Reminder Evaluations
 
 {chr(10).join(markdown_lines)}
