@@ -23,13 +23,13 @@ The [AERIS](../../whatthebeep/2026-09-30-AERIS-Smart12Revotron/index.html) fails
 
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
-| Testcase                         | Description                            | Audible warning*                                 | Verdict                                       |
-| -------------------------------- | -------------------------------------- | ------------------------------------------------ | --------------------------------------------- |
+| Testcase                                        | Description                            | Audible warning*                                 | Verdict                                       |
+| ----------------------------------------------- | -------------------------------------- | ------------------------------------------------ | --------------------------------------------- |
 | ![Testcase 1](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt      | <span style="color: green;">**YES**</span>       | <span style="color: green;">**OK**</span>     |
 | ![Testcase 2](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt            | <span style="color: green;">**YES**</span>       | <span style="color: green;">**OK**</span>     |
 | ![Testcase 3](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: red;">**YES**</span>         | <span style="color: red;">**NOT OK**</span>   |
 | ![Testcase 4](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat    | <span style="color: red;">**YES**</span>         | <span style="color: red;">**NOT OK**</span>   |
-|                                  |                                        |                                                  | <span style="color: red;">**FAIL**</span>     |
+|                                                 |                                        |                                                  | <span style="color: red;">**FAIL**</span>     |
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
