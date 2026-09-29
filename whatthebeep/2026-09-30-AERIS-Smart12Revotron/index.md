@@ -5,7 +5,7 @@ title: "Tata AERIS #WhatTheBeep Evaluation 30.09.26"
 
 # Tata AERIS
 
-### Pure 1.2 Revotron • Evaluated on 30.09.26
+### Smart 1.2 Revotron • Evaluated on 30.09.26
 
 # <span style="color: red;">**FAIL**</span>
 

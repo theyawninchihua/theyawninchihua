@@ -7,6 +7,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202609301/banner.png)](N202609301/index.html)
+30.09.2026 **NOTICE** | [Tata Aeris' rear seatbelt reminder awarded FAIL in #WhatTheBeep evaluation](N202609301/index.html)
+
+
 [![Banner](N202609291/banner.png)](N202609291/index.html)
 29.09.2026 **NOTICE** | [No Excuses: Mahindra BOLERO NEO PLUS gains intelligent rear seatbelt reminder](N202609291/index.html)
 
