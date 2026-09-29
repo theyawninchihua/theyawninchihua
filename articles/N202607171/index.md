@@ -28,7 +28,7 @@ This means the Tekton fails to audibly alert unbelted rear occupants in a common
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | **YES** | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | **NO** | <span style="color: green;">**OK**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | **YES** | <span style="color: red;">**NOT OK**</span> |
-|  |  |  | <span style="color: red;">FAIL</span> |
+|  |  |  | <span style="color: red;">**FAIL**</span> |
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
