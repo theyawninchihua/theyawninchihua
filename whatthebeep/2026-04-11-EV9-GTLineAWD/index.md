@@ -7,7 +7,7 @@ title: "Kia EV9 #WhatTheBeep Evaluation 11.04.26"
 
 ### GT-Line AWD • Evaluated on 11.04.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

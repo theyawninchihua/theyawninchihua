@@ -7,7 +7,7 @@ title: "Kia SORENTO #WhatTheBeep Evaluation 09.09.26"
 
 ### HTE 7 Smartstream D2.2 • Evaluated on 09.09.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

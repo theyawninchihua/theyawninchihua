@@ -7,7 +7,7 @@ title: "Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
 
 ### VXi(O) S-CNG • Evaluated on 28.08.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

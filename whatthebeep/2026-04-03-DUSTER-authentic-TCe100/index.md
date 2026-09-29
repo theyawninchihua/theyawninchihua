@@ -7,7 +7,7 @@ title: "Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
 
 ### authentic TCe 100 • Evaluated on 03.04.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

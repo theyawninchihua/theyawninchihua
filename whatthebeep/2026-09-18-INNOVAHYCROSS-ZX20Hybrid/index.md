@@ -7,7 +7,7 @@ title: "Toyota INNOVA HYCROSS #WhatTheBeep Evaluation 18.09.26"
 
 ### ZX 2.0 Hybrid • Evaluated on 18.09.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

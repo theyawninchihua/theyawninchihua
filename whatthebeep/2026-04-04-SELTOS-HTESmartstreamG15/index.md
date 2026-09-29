@@ -7,7 +7,7 @@ title: "Kia SELTOS #WhatTheBeep Evaluation 04.04.26"
 
 ### HTE Smartstream G1.5 • Evaluated on 04.04.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

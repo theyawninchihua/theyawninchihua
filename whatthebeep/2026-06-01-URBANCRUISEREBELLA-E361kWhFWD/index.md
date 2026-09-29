@@ -7,7 +7,7 @@ title: "Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.26"
 
 ### E3 61 kWh FWD • Evaluated on 01.06.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

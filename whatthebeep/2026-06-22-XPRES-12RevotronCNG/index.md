@@ -7,7 +7,7 @@ title: "Tata XPRES #WhatTheBeep Evaluation 22.06.26"
 
 ### 1.2 Revotron CNG • Evaluated on 22.06.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

@@ -7,7 +7,7 @@ title: "Maruti Suzuki DZIRE #WhatTheBeep Evaluation 24.05.26"
 
 ### Tour S S-CNG • Evaluated on 24.05.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

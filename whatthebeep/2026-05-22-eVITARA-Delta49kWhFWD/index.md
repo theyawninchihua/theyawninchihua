@@ -7,7 +7,7 @@ title: "Maruti Suzuki e VITARA #WhatTheBeep Evaluation 22.05.26"
 
 ### Delta 49 kWh FWD • Evaluated on 22.05.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

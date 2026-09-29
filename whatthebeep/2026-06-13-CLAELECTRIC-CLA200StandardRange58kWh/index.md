@@ -7,7 +7,7 @@ title: "Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
 
 ### CLA 200 Standard Range 58 kWh • Evaluated on 13.06.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

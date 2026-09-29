@@ -7,7 +7,7 @@ title: "Honda CITY i-VTEC #WhatTheBeep Evaluation 05.06.26"
 
 ### SV 1.5 i-VTEC • Evaluated on 05.06.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

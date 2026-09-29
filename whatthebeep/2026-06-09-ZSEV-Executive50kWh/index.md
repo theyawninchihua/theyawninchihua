@@ -7,7 +7,7 @@ title: "MG ZS EV #WhatTheBeep Evaluation 09.06.26"
 
 ### Executive 50 kWh • Evaluated on 09.06.26
 
-# <span style="color: green;">PASS</span>
+# <span style="color: green;">**PASS**</span>
 
 ## Datasheet
 

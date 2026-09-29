@@ -7,7 +7,7 @@ title: "Maruti Suzuki BREZZA #WhatTheBeep Evaluation 29.07.26"
 
 ### LXi 1.0 Booster Jet • Evaluated on 29.07.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

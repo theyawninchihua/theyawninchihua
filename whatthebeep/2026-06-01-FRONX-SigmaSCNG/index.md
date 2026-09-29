@@ -7,7 +7,7 @@ title: "Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
 
 ### Sigma S-CNG • Evaluated on 01.06.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

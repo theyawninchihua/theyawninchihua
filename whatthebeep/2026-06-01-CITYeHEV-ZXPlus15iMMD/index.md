@@ -7,7 +7,7 @@ title: "Honda CITY e:HEV #WhatTheBeep Evaluation 01.06.26"
 
 ### ZX Plus 1.5 i-MMD • Evaluated on 01.06.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

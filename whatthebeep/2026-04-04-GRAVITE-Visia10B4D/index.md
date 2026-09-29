@@ -7,7 +7,7 @@ title: "Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
 
 ### Visia 1.0 B4D • Evaluated on 04.04.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

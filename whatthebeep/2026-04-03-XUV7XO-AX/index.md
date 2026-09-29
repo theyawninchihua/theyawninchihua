@@ -7,7 +7,7 @@ title: "Mahindra XUV 7XO #WhatTheBeep Evaluation 03.04.26"
 
 ### AX 2.0 mStallion T-GDi • Evaluated on 03.04.26
 
-# <span style="color: green;">PASS</span>
+# <span style="color: green;">**PASS**</span>
 
 ## Datasheet
 

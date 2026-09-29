@@ -7,7 +7,7 @@ title: "Mahindra BOLERO NEO #WhatTheBeep Evaluation 01.06.26"
 
 ### N4 • Evaluated on 01.06.26
 
-# <span style="color: green;">PASS</span>
+# <span style="color: green;">**PASS**</span>
 
 ## Datasheet
 

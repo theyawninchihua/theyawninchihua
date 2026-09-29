@@ -7,7 +7,7 @@ title: "Kia CARENS CLAVIS EV #WhatTheBeep Evaluation 18.09.26"
 
 ### HTX 7 42 kWh • Evaluated on 18.09.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

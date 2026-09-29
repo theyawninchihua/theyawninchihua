@@ -7,7 +7,7 @@ title: "Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 
 ### AX5 39 kWh • Evaluated on 10.04.26
 
-# <span style="color: green;">PASS</span>
+# <span style="color: green;">**PASS**</span>
 
 ## Datasheet
 

@@ -7,7 +7,7 @@ title: "Hyundai CRETA ELECTRIC #WhatTheBeep Evaluation 05.06.26"
 
 ### Executive 42 kWh • Evaluated on 05.06.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

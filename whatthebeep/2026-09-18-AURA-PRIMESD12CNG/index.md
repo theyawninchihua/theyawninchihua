@@ -7,7 +7,7 @@ title: "Hyundai AURA #WhatTheBeep Evaluation 18.09.26"
 
 ### Prime SD 1.2 CNG • Evaluated on 18.09.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

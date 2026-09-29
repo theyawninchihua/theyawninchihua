@@ -7,7 +7,7 @@ title: "Maruti Suzuki WAGON R #WhatTheBeep Evaluation 24.05.26"
 
 ### Tour H3 S-CNG • Evaluated on 24.05.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

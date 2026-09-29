@@ -7,7 +7,7 @@ title: "Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
 
 ### E-CNG S • Evaluated on 21.08.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

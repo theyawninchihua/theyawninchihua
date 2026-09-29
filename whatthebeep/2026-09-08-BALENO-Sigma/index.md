@@ -7,7 +7,7 @@ title: "Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
 
 ### Sigma • Evaluated on 08.09.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

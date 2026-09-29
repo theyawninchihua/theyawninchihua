@@ -7,7 +7,7 @@ title: "Kia SYROS EV #WhatTheBeep Evaluation 05.08.26"
 
 ### HTK 42 kWh • Evaluated on 05.08.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

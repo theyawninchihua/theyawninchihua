@@ -7,7 +7,7 @@ title: "Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 
 ### AXT RWD 3-door • Evaluated on 04.04.26
 
-# <span style="color: green;">PASS</span>
+# <span style="color: green;">**PASS**</span>
 
 ## Datasheet
 

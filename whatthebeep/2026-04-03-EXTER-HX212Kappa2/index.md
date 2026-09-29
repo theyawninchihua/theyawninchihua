@@ -7,7 +7,7 @@ title: "Hyundai EXTER #WhatTheBeep Evaluation 03.04.26"
 
 ### HX2 1.2 Kappa2 • Evaluated on 03.04.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 

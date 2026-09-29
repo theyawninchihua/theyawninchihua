@@ -7,7 +7,7 @@ title: "Tata PUNCH.EV #WhatTheBeep Evaluation 10.04.26"
 
 ### Smart 30 kWh • Evaluated on 10.04.26
 
-# <span style="color: red;">FAIL</span>
+# <span style="color: red;">**FAIL**</span>
 
 ## Datasheet
 
