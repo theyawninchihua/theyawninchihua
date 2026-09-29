@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Success for MG ZS EV in '#WhatTheBeep' rear seatbelt reminder evaluation"
 ---
-
-# Success for MG ZS EV in '#WhatTheBeep' rear seatbelt reminder evaluation
 
 **09.06.2026**
 

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Hyundai's CRETA ELECTRIC fails #WhatTheBeep rear seatbelt reminder evaluation"
 ---
-
-# Hyundai's CRETA ELECTRIC fails #WhatTheBeep rear seatbelt reminder evaluation
 
 **05.06.2026**
 

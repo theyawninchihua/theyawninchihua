@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "India-spec Kia EV9 fails #WhatTheBeep"
 ---
-
-# India-spec Kia EV9 fails #WhatTheBeep
 
 **11.04.2026**
 

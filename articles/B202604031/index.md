@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "New website launch announcement"
 title: "The Yawning Chihuahua launches new website"
 ---
-
-# The Yawning Chihuahua launches new website
 
 **03.04.2026**
 

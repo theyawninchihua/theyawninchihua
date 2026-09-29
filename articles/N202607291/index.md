@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Maruti Suzuki's new Brezza is here — is its rear seatbelt reminder any good?"
 ---
-
-# Maruti Suzuki's new Brezza is here — is its rear seatbelt reminder any good?
 
 **29.07.2026**
 

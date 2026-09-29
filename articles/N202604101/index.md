@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Two Indian EVs in #WhatTheBeep seatbelt reminder evaluation"
 ---
-
-# Two Indian EVs in #WhatTheBeep seatbelt reminder evaluation
 
 **10.04.2026**
 

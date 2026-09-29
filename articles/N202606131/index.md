@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Regional differences in Mercedes-Benz CLA ELECTRIC rear seatbelt reminder revealed in latest #WhatTheBeep evaluation"
 ---
-
-# Regional differences in Mercedes-Benz CLA ELECTRIC rear seatbelt reminder revealed in latest #WhatTheBeep evaluation
 
 **13.06.2026**
 

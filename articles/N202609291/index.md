@@ -1,10 +1,10 @@
 ---
 layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "No Excuses: Mahindra BOLERO NEO PLUS gains intelligent rear seatbelt reminder"
 twitter_card:
     type: "summary_large_image"
     image: https://theyawninchihua.github.io/theyawninchihua/articles/N202609291/banner.png
-description: "Publication of new #WhatTheBeep result(s)."
 ---
 
 **29.09.2026**

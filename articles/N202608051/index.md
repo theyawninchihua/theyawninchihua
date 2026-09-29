@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Kia Syros EV rear seatbelt reminder fails to do the one thing it's supposed to"
 ---
-
-# Kia Syros EV rear seatbelt reminder fails to do the one thing it's supposed to
 
 **05.08.2026**
 

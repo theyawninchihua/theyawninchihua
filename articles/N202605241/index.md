@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Maruti Suzuki WAGON R and DZIRE rear seatbelt reminders evaluated in-person in latest #WhatTheBeep evaluation"
 ---
-
-# Maruti Suzuki WAGON R and DZIRE rear seatbelt reminders evaluated in-person in latest #WhatTheBeep evaluation
 
 **24.05.2026**
 

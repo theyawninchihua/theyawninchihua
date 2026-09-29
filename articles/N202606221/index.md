@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "'Ghost' beeps from new Tata XPRES' rear seatbelt reminder earn it FAIL in #WhatTheBeep evaluation"
 ---
-
-# 'Ghost' beeps from new Tata XPRES' rear seatbelt reminder earn it <span style="color: red;">**FAIL**</span> in #WhatTheBeep evaluation
 
 **22.06.2026**
 

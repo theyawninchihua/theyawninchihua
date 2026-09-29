@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Three more Indian cars criticised for weak rear seatbelt reminders in latest #WhatTheBeep evaluations"
 ---
-
-# Three more Indian cars criticised for weak rear seatbelt reminders in latest #WhatTheBeep evaluations
 
 **18.09.2026**
 

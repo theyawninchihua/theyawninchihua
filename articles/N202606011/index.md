@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "What The Beep?! FAIL for Toyota EBELLA and Honda CITY e:HEV while legacy Mahindras pass rear seatbelt reminder evaluation"
 ---
-
-# What The Beep?! <span style="color: red;">FAIL</span> for Toyota EBELLA and Honda CITY e:HEV while legacy Mahindras pass rear seatbelt reminder evaluation
 
 **01.06.2026**
 

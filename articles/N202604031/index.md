@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "\"#WhatTheBeep\" seatbelt reminder evaluations of XUV 7XO, DUSTER, VERNA and EXTER published"
 ---
-
-# "#WhatTheBeep" seatbelt reminder evaluations of XUV 7XO, DUSTER, VERNA and EXTER published
 
 **03.04.2026**
 

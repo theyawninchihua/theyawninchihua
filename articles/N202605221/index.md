@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "FAIL for Maruti Suzuki e VITARA in #WhatTheBeep"
 ---
-
-# <span style="color: red;">FAIL</span> for Maruti Suzuki e VITARA in #WhatTheBeep
 
 **22.05.2026**
 

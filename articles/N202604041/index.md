@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "New Kia Seltos and Nissan Gravite in latest #WhatTheBeep seatbelt reminder results"
 ---
-
-# New Kia Seltos and Nissan Gravite in latest #WhatTheBeep seatbelt reminder results
 
 **04.04.2026**
 

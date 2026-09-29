@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Structural modifier data remains 'confidential'."
 title: "RTI reveals BNCAP retested 7 cars before publishing results"
 ---
-
-# RTI reveals BNCAP retested 7 cars before publishing results
 
 **12.05.2026**
 

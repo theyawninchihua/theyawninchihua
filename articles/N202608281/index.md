@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "FAIL for Ertiga and Rumion's sad excuse for a rear seatbelt reminder — #WhatTheBeep"
 ---
-
-# FAIL for Ertiga and Rumion's sad excuse for a rear seatbelt reminder — #WhatTheBeep
 
 **28.08.2026**
 

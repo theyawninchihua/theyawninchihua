@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "Nissan Tekton rear seatbelt reminder earns FAIL in #WhatTheBeep evaluation"
 ---
-
-# Nissan Tekton rear seatbelt reminder earns <span style="color: red;">**FAIL**</span> in #WhatTheBeep evaluation
 
 **17.07.2026**
 

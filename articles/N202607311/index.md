@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
+description: "Publication of new #WhatTheBeep result(s)."
 title: "India-spec Honda ZR-V rear seatbelt reminder evaluated under #WhatTheBeep"
 ---
-
-# India-spec Honda ZR-V rear seatbelt reminder evaluated under #WhatTheBeep
 
 **31.07.2026**
 
