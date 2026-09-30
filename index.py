@@ -216,9 +216,9 @@ permalink: /
 title: "Home"
 ---
 
-## Latest Articles
+## Latest Article
 
-{''.join(markdown_articles)}
+{''.join(markdown_articles[:1])}
 [View more](articles/index.html)
 
 ## #WhatTheBeep

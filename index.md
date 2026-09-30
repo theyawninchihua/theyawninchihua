@@ -7,20 +7,9 @@ permalink: /
 title: "Home"
 ---
 
-## Latest Articles
+## Latest Article
 
 [![Banner](articles/N202609301/banner.png)](articles/N202609301/index.html)
-30.09.2026 **NOTICE** | [Tata Aeris' rear seatbelt reminder awarded FAIL in #WhatTheBeep evaluation](articles/N202609301/index.html)
-
-[![Banner](articles/N202609291/banner.png)](articles/N202609291/index.html)
-29.09.2026 **NOTICE** | [No Excuses: Mahindra BOLERO NEO PLUS gains intelligent rear seatbelt reminder](articles/N202609291/index.html)
-
-[![Banner](articles/N202609181/banner.png)](articles/N202609181/index.html)
-18.09.2026 **NOTICE** | [Three more Indian cars criticised for weak rear seatbelt reminders in latest #WhatTheBeep evaluations](articles/N202609181/index.html)
-
-[![Banner](articles/N202609091/banner.png)](articles/N202609091/index.html)
-09.09.2026 **NOTICE** | [SORENTO becomes next India-spec Kia stripped of enhanced rear seatbelt reminder system from global model](articles/N202609091/index.html)
-
 
 [View more](articles/index.html)
 

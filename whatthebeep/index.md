@@ -4,14 +4,14 @@ twitter_card:
   type: "summary_large_image"
   image: /whatthebeep/banner.png
 permalink: /whatthebeep/
-title: "Datasheet for #WhatTheBeep"
+title: "#WhatTheBeep"
 ---
 
-The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.
+The Yawning Chihuahua is independently evaluating the rear seatbelt reminders of Indian cars.
 
 [Suggest a vehicle for evaluation / Report an error](mailto:theyawningchihuahua@gmail.com)
 
-## All Rear Seatbelt Reminder Evaluations
+## All #WhatTheBeep rear seatbelt reminder evaluations
 
 - 30.09.26 [Tata AERIS (*)](2026-09-30-AERIS-Smart12Revotron/index.html) — **<span style="color: red;">FAIL</span>**
 - 29.09.26 [Mahindra BOLERO NEO PLUS (*)](2026-09-29-BOLERONEOPLUS-P420mHawk/index.html) — **<span style="color: green;">PASS</span>**
