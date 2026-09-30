@@ -7,7 +7,7 @@ permalink: /whatthebeep/
 title: "#WhatTheBeep"
 ---
 
-The Yawning Chihuahua is independently evaluating the rear seatbelt reminders of Indian cars.
+The Yawning Chihuahua is informally and independently evaluating the rear seatbelt reminders of Indian cars.
 
 [Suggest a vehicle for evaluation / Report an error](mailto:theyawningchihuahua@gmail.com)
 
