@@ -216,14 +216,12 @@ permalink: /
 title: "Home"
 ---
 
-## Latest Article
+## Latest article
 
 {''.join(markdown_articles[:1])}
 [View more](articles/index.html)
 
-## #WhatTheBeep
-
-### Latest results
+## Latest #WhatTheBeep results
 
 {chr(10).join(markdown_results)}
 

@@ -7,15 +7,13 @@ permalink: /
 title: "Home"
 ---
 
-## Latest Article
+## Latest article
 
 [![Banner](articles/N202609301/banner.png)](articles/N202609301/index.html)
 
 [View more](articles/index.html)
 
-## #WhatTheBeep
-
-### Latest results
+## Latest #WhatTheBeep results
 
 - 30.09.26 [Tata AERIS (*)](whatthebeep/2026-09-30-AERIS-Smart12Revotron/index.html) — **<span style="color: red;">FAIL</span>**
 - 29.09.26 [Mahindra BOLERO NEO PLUS (*)](whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/index.html) — **<span style="color: green;">PASS</span>**
