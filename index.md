@@ -10,6 +10,8 @@ title: "Home"
 ## Latest article
 
 [![Banner](articles/N202609301/banner.png)](articles/N202609301/index.html)
+30.09.2026 **NOTICE** | [Tata Aeris' rear seatbelt reminder awarded FAIL in #WhatTheBeep evaluation](articles/N202609301/index.html)
+
 
 [View more](articles/index.html)
 

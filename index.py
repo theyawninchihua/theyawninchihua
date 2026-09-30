@@ -218,7 +218,7 @@ title: "Home"
 
 ## Latest article
 
-{''.join(markdown_articles[:1])}
+{''.join(markdown_articles[:2])}
 [View more](articles/index.html)
 
 ## Latest #WhatTheBeep results
