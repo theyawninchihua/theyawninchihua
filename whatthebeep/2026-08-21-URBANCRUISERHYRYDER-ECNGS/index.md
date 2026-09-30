@@ -9,6 +9,8 @@ title: "Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
 
 # <span style="color: red;">**FAIL**</span>
 
+[Download datasheet]("javascript:window.print();")
+
 ## Datasheet
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |

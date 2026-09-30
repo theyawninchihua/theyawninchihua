@@ -9,6 +9,8 @@ title: "Mahindra BOLERO NEO PLUS #WhatTheBeep Evaluation 30.09.26"
 
 # <span style="color: green;">**PASS**</span>
 
+[Download datasheet]("javascript:window.print();")
+
 ## Datasheet
 
 | Testcase                         | Description                            | Audible warning*                            | Verdict                                     |

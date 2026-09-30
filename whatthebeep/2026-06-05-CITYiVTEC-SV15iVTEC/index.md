@@ -9,6 +9,8 @@ title: "Honda CITY i-VTEC #WhatTheBeep Evaluation 05.06.26"
 
 # <span style="color: red;">**FAIL**</span>
 
+[Download datasheet]("javascript:window.print();")
+
 ## Datasheet
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |

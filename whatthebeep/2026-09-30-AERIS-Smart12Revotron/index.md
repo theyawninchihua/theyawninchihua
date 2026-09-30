@@ -9,6 +9,8 @@ title: "Tata AERIS #WhatTheBeep Evaluation 30.09.26"
 
 # <span style="color: red;">**FAIL**</span>
 
+[Download datasheet]("javascript:window.print();")
+
 ## Datasheet
 
 | Testcase                         | Description                            | Audible warning*                                 | Verdict                                       |

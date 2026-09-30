@@ -9,6 +9,8 @@ title: "Honda ZR-V e:HEV #WhatTheBeep Evaluation 31.07.26"
 
 # <span style="color: red;">**FAIL**</span>
 
+[Download datasheet]("javascript:window.print();")
+
 ## Datasheet
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |

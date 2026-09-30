@@ -9,7 +9,7 @@ title: "Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet](javascript:window.print();)
+[Download datasheet]("javascript:window.print();")
 
 ## Datasheet
 

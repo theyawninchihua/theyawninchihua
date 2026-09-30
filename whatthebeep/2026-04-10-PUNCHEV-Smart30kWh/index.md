@@ -9,6 +9,8 @@ title: "Tata PUNCH.EV #WhatTheBeep Evaluation 10.04.26"
 
 # <span style="color: red;">**FAIL**</span>
 
+[Download datasheet]("javascript:window.print();")
+
 ## Datasheet
 
 | Testcase                         | Description                            | Audible warning*                                 | Verdict                                       |
