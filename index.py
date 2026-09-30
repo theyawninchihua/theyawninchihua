@@ -193,11 +193,9 @@ def main():
         if os.path.isfile(banner_path):
             markdown_articles.append(
                 f'[![Banner](articles/{article["name"]}/banner.png)]'
-                f'(articles/{article["name"]}/index.html)\n'
+                f'(articles/{article["name"]}/index.html)'
             )
-        markdown_articles.append(
-            f'{display_date} **{label}** | [{article["title"]}](articles/{article["name"]}/index.html)\n\n'
-        )
+        markdown_articles[-1] += f'{display_date} **{label}** • [{article["title"]}](articles/{article["name"]}/index.html)'
 
     markdown_results = []
     for entry in top_sbrs:
@@ -216,9 +214,14 @@ permalink: /
 title: "Home"
 ---
 
-## Latest article
+## Latest articles
 
-{''.join(markdown_articles[:2])}
+{''.join(markdown_articles[:1])}
+
+| | | |
+| --- | --- | --- |
+| {' | '.join(markdown_articles[1:4])} |
+
 [View more](articles/index.html)
 
 ## Latest #WhatTheBeep results
