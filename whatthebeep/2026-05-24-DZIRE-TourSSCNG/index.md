@@ -9,7 +9,7 @@ title: "Datasheet for Maruti Suzuki DZIRE #WhatTheBeep Evaluation 24.05.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

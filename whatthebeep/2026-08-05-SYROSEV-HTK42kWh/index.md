@@ -9,7 +9,7 @@ title: "Datasheet for Kia SYROS EV #WhatTheBeep Evaluation 05.08.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

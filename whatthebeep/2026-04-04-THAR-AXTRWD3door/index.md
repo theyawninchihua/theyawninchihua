@@ -9,7 +9,7 @@ title: "Datasheet for Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 
 # <span style="color: green;">**PASS**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

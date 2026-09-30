@@ -9,7 +9,7 @@ title: "Datasheet for MG ZS EV #WhatTheBeep Evaluation 09.06.26"
 
 # <span style="color: green;">**PASS**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

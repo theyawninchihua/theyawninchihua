@@ -9,7 +9,7 @@ title: "Datasheet for Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

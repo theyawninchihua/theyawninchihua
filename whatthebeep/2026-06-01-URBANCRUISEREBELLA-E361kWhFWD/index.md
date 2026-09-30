@@ -9,7 +9,7 @@ title: "Datasheet for Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

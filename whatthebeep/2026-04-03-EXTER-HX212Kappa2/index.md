@@ -9,7 +9,7 @@ title: "Datasheet for Hyundai EXTER #WhatTheBeep Evaluation 03.04.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

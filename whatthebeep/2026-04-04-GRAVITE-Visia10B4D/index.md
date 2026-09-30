@@ -9,7 +9,7 @@ title: "Datasheet for Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

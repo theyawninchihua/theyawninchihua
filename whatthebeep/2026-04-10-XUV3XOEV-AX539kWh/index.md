@@ -9,7 +9,7 @@ title: "Datasheet for Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 
 # <span style="color: green;">**PASS**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

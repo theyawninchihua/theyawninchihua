@@ -9,7 +9,7 @@ title: "Datasheet for Kia SORENTO #WhatTheBeep Evaluation 09.09.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

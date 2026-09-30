@@ -9,7 +9,7 @@ title: "Datasheet for Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.2
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 

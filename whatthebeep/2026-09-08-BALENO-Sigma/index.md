@@ -9,7 +9,7 @@ title: "Datasheet for Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
 
 # <span style="color: red;">**FAIL**</span>
 
-[Download datasheet]("javascript:window.print();")
+[Download datasheet](javascript:window.print();)
 
 ## Testcase outcomes
 
