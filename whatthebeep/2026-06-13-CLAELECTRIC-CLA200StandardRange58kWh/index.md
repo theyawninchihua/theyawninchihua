@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
+title: "Datasheet for Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
 ---
 
 # Mercedes-Benz CLA ELECTRIC
@@ -11,7 +11,7 @@ title: "Mercedes-Benz CLA ELECTRIC #WhatTheBeep Evaluation 13.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

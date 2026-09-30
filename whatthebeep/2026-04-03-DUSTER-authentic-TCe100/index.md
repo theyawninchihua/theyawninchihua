@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
+title: "Datasheet for Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
 ---
 
 # Renault DUSTER
@@ -11,7 +11,7 @@ title: "Renault DUSTER #WhatTheBeep Evaluation 03.04.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

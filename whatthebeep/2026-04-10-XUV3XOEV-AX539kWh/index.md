@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
+title: "Datasheet for Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 ---
 
 # Mahindra XUV 3XO EV
@@ -11,7 +11,7 @@ title: "Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                            | Audible warning*                            | Verdict                                     |
 | -------------------------------- | -------------------------------------- | ------------------------------------------- | ------------------------------------------- |

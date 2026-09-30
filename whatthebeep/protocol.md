@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "#WhatTheBeep Protocol"
+title: "Datasheet for #WhatTheBeep Protocol"
 ---
 
 # #WhatTheBeep Protocol

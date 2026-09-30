@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MG ZS EV #WhatTheBeep Evaluation 09.06.26"
+title: "Datasheet for MG ZS EV #WhatTheBeep Evaluation 09.06.26"
 ---
 
 # MG ZS EV
@@ -11,7 +11,7 @@ title: "MG ZS EV #WhatTheBeep Evaluation 09.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                            | Audible warning*                            | Verdict                                     |
 | -------------------------------- | -------------------------------------- | ------------------------------------------- | ------------------------------------------- |

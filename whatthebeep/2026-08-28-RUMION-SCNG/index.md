@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Toyota RUMION #WhatTheBeep Evaluation 28.08.26"
+title: "Datasheet for Toyota RUMION #WhatTheBeep Evaluation 28.08.26"
 ---
 
 # Toyota RUMION
@@ -11,7 +11,7 @@ title: "Toyota RUMION #WhatTheBeep Evaluation 28.08.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

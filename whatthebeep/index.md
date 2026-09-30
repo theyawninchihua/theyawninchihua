@@ -4,7 +4,7 @@ twitter_card:
   type: "summary_large_image"
   image: /whatthebeep/banner.png
 permalink: /whatthebeep/
-title: "#WhatTheBeep"
+title: "Datasheet for #WhatTheBeep"
 ---
 
 The Yawning Chihuahua independently evaluates the rear seatbelt reminders of Indian cars.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tata XPRES #WhatTheBeep Evaluation 22.06.26"
+title: "Datasheet for Tata XPRES #WhatTheBeep Evaluation 22.06.26"
 ---
 
 # Tata XPRES
@@ -11,7 +11,7 @@ title: "Tata XPRES #WhatTheBeep Evaluation 22.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                            | Audible warning*                                 | Verdict                                       |
 | -------------------------------- | -------------------------------------- | ------------------------------------------------ | --------------------------------------------- |

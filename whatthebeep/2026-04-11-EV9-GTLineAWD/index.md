@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kia EV9 #WhatTheBeep Evaluation 11.04.26"
+title: "Datasheet for Kia EV9 #WhatTheBeep Evaluation 11.04.26"
 ---
 
 # Kia EV9
@@ -11,7 +11,7 @@ title: "Kia EV9 #WhatTheBeep Evaluation 11.04.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

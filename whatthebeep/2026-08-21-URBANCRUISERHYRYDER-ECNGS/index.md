@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
+title: "Datasheet for Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
 ---
 
 # Toyota URBAN CRUISER HYRYDER
@@ -11,7 +11,7 @@ title: "Toyota URBAN CRUISER HYRYDER #WhatTheBeep Evaluation 21.08.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

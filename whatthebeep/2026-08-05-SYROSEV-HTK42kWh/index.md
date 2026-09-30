@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kia SYROS EV #WhatTheBeep Evaluation 05.08.26"
+title: "Datasheet for Kia SYROS EV #WhatTheBeep Evaluation 05.08.26"
 ---
 
 # Kia SYROS EV
@@ -11,7 +11,7 @@ title: "Kia SYROS EV #WhatTheBeep Evaluation 05.08.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

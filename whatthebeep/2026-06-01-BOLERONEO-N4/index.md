@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mahindra BOLERO NEO #WhatTheBeep Evaluation 01.06.26"
+title: "Datasheet for Mahindra BOLERO NEO #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Mahindra BOLERO NEO
@@ -11,7 +11,7 @@ title: "Mahindra BOLERO NEO #WhatTheBeep Evaluation 01.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                            | Audible warning*                            | Verdict                                     |
 | -------------------------------- | -------------------------------------- | ------------------------------------------- | ------------------------------------------- |

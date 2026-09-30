@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kia SORENTO #WhatTheBeep Evaluation 09.09.26"
+title: "Datasheet for Kia SORENTO #WhatTheBeep Evaluation 09.09.26"
 ---
 
 # Kia SORENTO
@@ -11,7 +11,7 @@ title: "Kia SORENTO #WhatTheBeep Evaluation 09.09.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

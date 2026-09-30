@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Maruti Suzuki e VITARA #WhatTheBeep Evaluation 22.05.26"
+title: "Datasheet for Maruti Suzuki e VITARA #WhatTheBeep Evaluation 22.05.26"
 ---
 
 # Maruti Suzuki e VITARA
@@ -11,7 +11,7 @@ title: "Maruti Suzuki e VITARA #WhatTheBeep Evaluation 22.05.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

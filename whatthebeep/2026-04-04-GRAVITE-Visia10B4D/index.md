@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
+title: "Datasheet for Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
 ---
 
 # Nissan GRAVITE
@@ -11,7 +11,7 @@ title: "Nissan GRAVITE #WhatTheBeep Evaluation 04.04.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

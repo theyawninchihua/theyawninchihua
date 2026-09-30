@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
+title: "Datasheet for Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
 ---
 
 # Maruti Suzuki BALENO
@@ -11,7 +11,7 @@ title: "Maruti Suzuki BALENO #WhatTheBeep Evaluation 08.09.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

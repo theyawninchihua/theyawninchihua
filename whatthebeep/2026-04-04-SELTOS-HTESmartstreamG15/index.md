@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kia SELTOS #WhatTheBeep Evaluation 04.04.26"
+title: "Datasheet for Kia SELTOS #WhatTheBeep Evaluation 04.04.26"
 ---
 
 # Kia SELTOS
@@ -11,7 +11,7 @@ title: "Kia SELTOS #WhatTheBeep Evaluation 04.04.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

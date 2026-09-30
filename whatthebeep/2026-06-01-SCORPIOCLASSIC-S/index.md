@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mahindra SCORPIO CLASSIC #WhatTheBeep Evaluation 01.06.26"
+title: "Datasheet for Mahindra SCORPIO CLASSIC #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Mahindra SCORPIO CLASSIC
@@ -11,7 +11,7 @@ title: "Mahindra SCORPIO CLASSIC #WhatTheBeep Evaluation 01.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                            | Audible warning*                            | Verdict                                     |
 | -------------------------------- | -------------------------------------- | ------------------------------------------- | ------------------------------------------- |

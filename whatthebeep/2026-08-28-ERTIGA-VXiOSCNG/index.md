@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
+title: "Datasheet for Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
 ---
 
 # Maruti Suzuki ERTIGA
@@ -11,7 +11,7 @@ title: "Maruti Suzuki ERTIGA #WhatTheBeep Evaluation 28.08.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

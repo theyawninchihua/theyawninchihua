@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Maruti Suzuki DZIRE #WhatTheBeep Evaluation 24.05.26"
+title: "Datasheet for Maruti Suzuki DZIRE #WhatTheBeep Evaluation 24.05.26"
 ---
 
 # Maruti Suzuki DZIRE
@@ -11,7 +11,7 @@ title: "Maruti Suzuki DZIRE #WhatTheBeep Evaluation 24.05.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

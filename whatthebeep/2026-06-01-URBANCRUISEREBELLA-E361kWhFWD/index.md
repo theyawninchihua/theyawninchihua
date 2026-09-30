@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.26"
+title: "Datasheet for Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Toyota URBAN CRUISER EBELLA
@@ -11,7 +11,7 @@ title: "Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

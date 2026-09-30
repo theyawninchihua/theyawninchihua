@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
+title: "Datasheet for Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 ---
 
 # Mahindra THAR
@@ -11,7 +11,7 @@ title: "Mahindra THAR #WhatTheBeep Evaluation 04.04.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                            | Audible warning*                            | Verdict                                     |
 | -------------------------------- | -------------------------------------- | ------------------------------------------- | ------------------------------------------- |

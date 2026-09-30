@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hyundai CRETA ELECTRIC #WhatTheBeep Evaluation 05.06.26"
+title: "Datasheet for Hyundai CRETA ELECTRIC #WhatTheBeep Evaluation 05.06.26"
 ---
 
 # Hyundai CRETA ELECTRIC
@@ -11,7 +11,7 @@ title: "Hyundai CRETA ELECTRIC #WhatTheBeep Evaluation 05.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

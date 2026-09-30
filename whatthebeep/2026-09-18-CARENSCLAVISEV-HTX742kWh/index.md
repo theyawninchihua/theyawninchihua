@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kia CARENS CLAVIS EV #WhatTheBeep Evaluation 18.09.26"
+title: "Datasheet for Kia CARENS CLAVIS EV #WhatTheBeep Evaluation 18.09.26"
 ---
 
 # Kia CARENS CLAVIS EV
@@ -11,7 +11,7 @@ title: "Kia CARENS CLAVIS EV #WhatTheBeep Evaluation 18.09.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

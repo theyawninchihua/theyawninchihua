@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hyundai VERNA #WhatTheBeep Evaluation"
+title: "Datasheet for Hyundai VERNA #WhatTheBeep Evaluation 03.04.26"
 ---
 
 # Hyundai VERNA

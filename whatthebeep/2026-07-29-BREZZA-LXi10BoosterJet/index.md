@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Maruti Suzuki BREZZA #WhatTheBeep Evaluation 29.07.26"
+title: "Datasheet for Maruti Suzuki BREZZA #WhatTheBeep Evaluation 29.07.26"
 ---
 
 # Maruti Suzuki BREZZA
@@ -11,7 +11,7 @@ title: "Maruti Suzuki BREZZA #WhatTheBeep Evaluation 29.07.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

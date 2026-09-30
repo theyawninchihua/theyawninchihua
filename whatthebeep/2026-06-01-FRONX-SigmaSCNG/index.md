@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
+title: "Datasheet for Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
 ---
 
 # Maruti Suzuki FRONX
@@ -11,7 +11,7 @@ title: "Maruti Suzuki FRONX #WhatTheBeep Evaluation 01.06.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Toyota INNOVA HYCROSS #WhatTheBeep Evaluation 18.09.26"
+title: "Datasheet for Toyota INNOVA HYCROSS #WhatTheBeep Evaluation 18.09.26"
 ---
 
 # Toyota INNOVA HYCROSS
@@ -11,7 +11,7 @@ title: "Toyota INNOVA HYCROSS #WhatTheBeep Evaluation 18.09.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|

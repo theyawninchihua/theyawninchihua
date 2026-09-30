@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Nissan TEKTON #WhatTheBeep Evaluation 17.07.26"
+title: "Datasheet for Nissan TEKTON #WhatTheBeep Evaluation 17.07.26"
 ---
 
 # Nissan TEKTON
@@ -11,7 +11,7 @@ title: "Nissan TEKTON #WhatTheBeep Evaluation 17.07.26"
 
 [Download datasheet]("javascript:window.print();")
 
-## Datasheet
+## Testcase outcomes
 
 | Testcase                         | Description                              | Audible warning*                               | Verdict                                     |
 |----------------------------------|------------------------------------------|------------------------------------------------|---------------------------------------------|
