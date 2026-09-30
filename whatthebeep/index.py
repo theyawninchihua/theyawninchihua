@@ -116,7 +116,7 @@ The Yawning Chihuahua is independently evaluating the rear seatbelt reminders of
 
 [Suggest a vehicle for evaluation / Report an error](mailto:theyawningchihuahua@gmail.com)
 
-## All #WhatTheBeep rear seatbelt reminder evaluations
+## All evaluations
 
 {chr(10).join(markdown_lines)}
 
