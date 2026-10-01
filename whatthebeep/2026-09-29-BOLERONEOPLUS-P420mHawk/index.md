@@ -21,7 +21,7 @@ title: "Datasheet for Mahindra BOLERO NEO PLUS #WhatTheBeep Evaluation 30.09.26"
 | ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat    | <span style="color: green;">**NO**</span>   | <span style="color: green;">**OK**</span>   |
 |                                  |                                        |                                             | <span style="color: green;">**PASS**</span> |
 
-*second row outboard seat
+*final signal in second row outboard seats
 
 ## Information Source
 

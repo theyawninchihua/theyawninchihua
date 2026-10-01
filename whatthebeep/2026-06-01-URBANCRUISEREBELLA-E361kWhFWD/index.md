@@ -21,7 +21,7 @@ title: "Datasheet for Toyota URBAN CRUISER EBELLA #WhatTheBeep Evaluation 01.06.
 | ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat      | <span style="color: red;">**YES**</span>       | <span style="color: red;">**NOT OK**</span> |
 |                                  |                                          |                                                | <span style="color: red;">**FAIL**</span>   |
 
-*second row outboard seat
+*final signal in second row outboard seats
 
 ## Information Source
 

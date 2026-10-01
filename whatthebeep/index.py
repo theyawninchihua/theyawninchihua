@@ -120,7 +120,7 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 {chr(10).join(markdown_lines)}
 
-(*) Evaluation based on desktop research.
+(*) evaluation based on desktop research
 
 ## FAQs
 

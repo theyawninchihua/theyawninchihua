@@ -52,7 +52,7 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 - 03.04.26 [Renault DUSTER (*)](2026-04-03-DUSTER-authentic-TCe100/index.html) — **<span style="color: red;">FAIL</span>**
 - 03.04.26 [Hyundai EXTER (*)](2026-04-03-EXTER-HX212Kappa2/index.html) — **<span style="color: red;">FAIL</span>**
 
-(*) Evaluation based on desktop research.
+(*) evaluation based on desktop research
 
 ## FAQs
 

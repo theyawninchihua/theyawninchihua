@@ -21,7 +21,7 @@ title: "Datasheet for Mahindra XUV 3XO EV #WhatTheBeep Evaluation 10.04.26"
 | ![Testcase 4](../testcase_4.png) | seatbelt taken off on an empty seat    | <span style="color: green;">**NO**</span>   | <span style="color: green;">**OK**</span>   |
 |                                  |                                        |                                             | <span style="color: green;">**PASS**</span> |
 
-*second row outboard seat
+*final signal in second row outboard seats
 
 ## Information Source
 
