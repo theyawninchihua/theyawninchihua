@@ -2,7 +2,7 @@
 layout: page
 twitter_card:
   type: "summary_large_image"
-  image: /whatthebeep/banner.png
+  image: https://theyawninchihua.github.io/theyawninchihua/whatthebeep/banner.png
 permalink: /whatthebeep/
 title: "#WhatTheBeep"
 ---
