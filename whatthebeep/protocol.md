@@ -13,6 +13,7 @@ title: "Datasheet for #WhatTheBeep Protocol"
    - 1.1.1. vehicle manufacturer and model
    - 1.1.2. variant or set of variants
    - 1.1.3. publication date
+
 1.2. It is only guaranteed that the combination of attributes mentioned in 1.1. will be unique. Barring this combination, there is no limit to the number of evaluations published with a specific attribute.
 
 *TL;DR: You are relying on good faith of The Yawning Chihuahua to not spam you with results. As long as the car, variant(s) or publication date are different, The Yawning Chihuahua will consider them different evaluations and we have to just hope they will not be different results on different days.*
@@ -31,15 +32,19 @@ title: "Datasheet for #WhatTheBeep Protocol"
 
 3.2. Acceptable information sources for a #WhatTheBeep evaluation are:
 
-- 3.2.1. In-person testing. All of the following must be satisfied for an in-person test to be considered a valid information source for an evaluation:
+- 3.2.1. In-person testing
+
+  All of the following must be satisfied for an in-person test to be considered a valid information source for an evaluation:
   - 3.2.1.1. The Yawning Chihuahua has obtained access to a unit of the exact make and model of vehicle being evaluated.
-  - 3.2.1.2. Either, at the time of publication, there have been no changes to the model since the unit obtained was registered, or The Yawning Chihuahua obtains and publishes confirmation (e.g. by comparing documentation) that the rear seatbelt reminder behaviour of the unit obtained is identical to that of units on sale at the time of publication.
+  - 3.2.1.2. Either, at the time of publication, there have been no changes to the model since the unit obtained was registered, or The Yawning Chihuahua obtains and publishes confirmation (e.g. by comparing documentation) that regardless of cosmetic or specficication changes, the rear seatbelt reminder behaviour of the unit obtained is identical to that of units on sale at the time of publication.
   - 3.2.1.3. The Yawning Chihuahua is able to record, and publishes, an identifying detail of the unit obtained, e.g. registration number or VIN.
   - 3.2.1.4. The Yawning Chihuahua is able to film all #WhatTheBeep testcase scenarios being performed physically on the car, with "sufficiently clear" audio and video.
 
   In this case, the #WhatTheBeep testcase outcomes are determined by observing the status of the audible warning in the film in the four testcases.
 
-- 3.2.2. Desktop research. All of the following must be satisfied for desktop research to be considered a valid information source for an evaluation:
+- 3.2.2. Desktop research
+
+  All of the following must be satisfied for desktop research to be considered a valid information source for an evaluation:
   - 3.2.2.1. The Yawning Chihuahua has obtained access to, and publishes a link to, a user manual of the exact make and model of vehicle being evaluated.
   - 3.2.2.2. At the time of publication, there have been no changes to the model since the manual obtained was published.
   - 3.2.2.3. The Yawning Chihuahua is able to locate, and publishes, a brochure indicating if the variant(s) being evaluated have a rear seatbelt reminder.
@@ -49,8 +54,10 @@ title: "Datasheet for #WhatTheBeep Protocol"
 
 3.3. Audit evaluations
 
-- If so desired, and regardless of agreement in testcase outcomes, The Yawning Chihuahua may delete an evaluation if a subsequent evaluation for the same make and model is performed with a "more reliable" information source, and can demonstrably be deemed to apply to the model and variant(s) evaluated in the original evaluation. In this case The Yawning Chihuahua will take down the original evaluation and include a redirect to the new evaluation on the page of the original evaluation.
-- In-person testing is considered "more reliable" than desktop research.
+  - 3.3.1. If so desired, and regardless of agreement in testcase outcomes, The Yawning Chihuahua may delete an evaluation if a subsequent evaluation for the same make and model is performed with a "more reliable" information source as defined in 3.3.2., and can demonstrably be deemed to apply to the model and variant(s) evaluated in the original evaluation. In this case The Yawning Chihuahua will take down the original evaluation and include a redirect to the new evaluation on the page of the original evaluation.
+  - 3.3.2 Information Source Reliability in descending order:
+    - In-person testing
+    - Desktop research
 
 *TL;DR: The Yawning Chihuahua will evaluate cars by testing them in person or reading and interpreting their manuals, and publish a bunch of evidence that the results actually apply to the car being evaluated. But not all sources are equally reliable, so if The Yawning Chihuahua is able to get a more reliable evaluation source then the car may be re-evaluated and the original result deleted to avoid confusion.*
 
@@ -71,8 +78,10 @@ The result of an evaluation is deemed to be <span style="color: green;">**PASS**
 
 ## Appendix I: Error policy
 
-- The page administrator of *The Yawning Chihuahua* does not accept responsibility for any damages resulting from use of information on this page, including but not limited to loss of property or life.
-- If there is reasonable evidence of an error The Yawning Chihuahua may take down the evaluation with or without notice and replace the page with a note about the error.
+- The #WhatTheBeep protocol may be updated from time to time with or without notice.
+- The page administrator of *The Yawning Chihuahua* will make reasonable efforts to ensure that the information on this website is accurate, but does not accept responsibility for any damages resulting from use of information on this website, including but not limited to loss of property or life.
+- This website is provided "as is" without any representations or warranties, express or implied. The Yawning Chihuahua makes no representations or warranties in relation to this website or the information and materials provided on this website.
+- If there is reasonable evidence of an error in an evaluation, The Yawning Chihuahua may take down the evaluation with or without notice and replace the page with a note about the error.
   - If at some future point in time a fresh evaluation for the car model is published and it is reasonably clear that it would have applied to the car model on sale at the time of publication of the taken-down evaluation, the page of the taken-down evaluation may include a redirect to the fresh evaluation.
 
 *TL;DR: The Yawning Chihuahua washes his hands off any responsibility beforehand. Errors are bound to happen from time to time despite all efforts in good faith to avoid them. Please do not hesitate to [report errors](mailto:theyawningchihuahua@gmail.com) to The Yawning Chihuahua.*
