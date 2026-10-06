@@ -7,6 +7,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202610071/banner.png)](N202610071/index.html)
+07.10.2026 **NOTICE** • [Honda fail to 'Elevate' rear seatbelt reminder in facelifted SUV](N202610071/index.html)
+
+
 [![Banner](N202609301/banner.png)](N202609301/index.html)
 30.09.2026 **NOTICE** • [Tata Aeris' rear seatbelt reminder awarded FAIL in #WhatTheBeep evaluation](N202609301/index.html)
 

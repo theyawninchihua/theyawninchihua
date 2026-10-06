@@ -13,6 +13,7 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 ## All evaluations
 
+- 07.10.26 [Honda ELEVATE (*)](2026-10-07-ELEVATE-SV15iVTEC/index.html) — **<span style="color: red;">FAIL</span>**
 - 30.09.26 [Tata AERIS (*)](2026-09-30-AERIS-Smart12Revotron/index.html) — **<span style="color: red;">FAIL</span>**
 - 29.09.26 [Mahindra BOLERO NEO PLUS (*)](2026-09-29-BOLERONEOPLUS-P420mHawk/index.html) — **<span style="color: green;">PASS</span>**
 - 18.09.26 [Toyota INNOVA HYCROSS](2026-09-18-INNOVAHYCROSS-ZX20Hybrid/index.html) — **<span style="color: red;">FAIL</span>**
@@ -56,9 +57,13 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 ## FAQs
 
+### What is #WhatTheBeep?
+
+#WhatTheBeep is an **informal, independent** consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars. The project independently evaluates the rear seatbelt reminders of Indian cars against its own simplistic [protocol](protocol.html). The project is not affiliated with any government, consumer testing agency, or manufacturer. Vehicle manufacturers are **not** involved in the evaluation process, **not** informed of the results ahead of publication, and **not** given the opportunity to respond to results before publication.
+
 ### What is the problem being targeted by #WhatTheBeep?
 
-By design, the rear seatbelt reminders of many Indian **cars don't beep when they should, or beep when they shouldn't.** Current regulations and Indian consumer tests only consider the scenario when a rear occupant's seatbelt *becomes* unfastened while driving.
+By design, the rear seatbelt reminders of many Indian **cars don't beep when they should, or beep when they shouldn't.** Unlike some global consumer tests, current Indian regulations and consumer tests do not require rear seatbelt reminders to have occupant detection for compliance or credit, and only require an audible signal in a change-of-status event, i.e., when a rear occupant's seatbelt *becomes* unfastened while driving.
 
 ### What is required for a car to receive <span style="color: green;">PASS</span> in #WhatTheBeep?
 
@@ -68,7 +73,7 @@ The criteria are formally defined in the [#WhatTheBeep protocol](protocol.html).
 
 ### I would like to report on #WhatTheBeep, should I know anything?
 
-Thank you for your interest! You may include the following blurb or equivalent: *#WhatTheBeep is an **informal, independent** consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars.*
+Thank you for your interest!
 
 Kindly avoid reporting using language that suggests #WhatTheBeep is intended to replace safety regulations or consumer tests, or assess the overall safety level of the vehicle. It would also be much appreciated if, after publication, you could share a copy with *The Yawning Chihuahua* [via email](mailto:theyawningchihuahua@gmail.com) for bookkeeping purposes.
 
