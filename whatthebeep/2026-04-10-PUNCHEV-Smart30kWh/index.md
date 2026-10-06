@@ -46,4 +46,4 @@ desktop research
 
     If the speed around 15kmph, audio warning is also given. Here irrespective of whether the seat is occupied or not, warning will be given if seat belt is unbuckled. Duration of audio warning is around 30 seconds."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

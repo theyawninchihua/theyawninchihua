@@ -8,9 +8,9 @@ title: "India-spec Kia EV9 fails #WhatTheBeep"
 
 ![Banner](banner.png)
 
-A new [#WhatTheBeep](../../whatthebeep/index.html) seatbelt reminder evaluation has been published today, with the India-spec [Kia EV9](../../whatthebeep/2026-04-11-EV9-GTLineAWD/index.html) receiving a <span style="color: red;">**FAIL**</span> result.
+A new [#WhatTheBeep](../../whatthebeep/) seatbelt reminder evaluation has been published today, with the India-spec [Kia EV9](../../whatthebeep/2026-04-11-EV9-GTLineAWD/) receiving a <span style="color: red;">**FAIL**</span> result.
 
-Despite arriving in India as a premium import, the [Kia EV9](../../whatthebeep/2026-04-11-EV9-GTLineAWD/index.html)'s SBR behaviour **does not mirror that of its global counterparts**: the India-spec version's SBR fails to notify unbelted rear occupants in common scenarios.
+Despite arriving in India as a premium import, the [Kia EV9](../../whatthebeep/2026-04-11-EV9-GTLineAWD/)'s SBR behaviour **does not mirror that of its global counterparts**: the India-spec version's SBR fails to notify unbelted rear occupants in common scenarios.
 
 ## Kia EV9 evaluation explained
 
@@ -43,9 +43,9 @@ Importantly, the EV9's documentation reveals that **EV9 versions destined for Eu
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Kia EV9](../../whatthebeep/2026-04-11-EV9-GTLineAWD/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Kia EV9](../../whatthebeep/2026-04-11-EV9-GTLineAWD/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

@@ -52,4 +52,4 @@ in-person testing
 ### Brochure URL
 [link to manufacturer website](https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/document/Arena-Ertiga-Brochure.pdf)
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

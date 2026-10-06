@@ -56,4 +56,4 @@ desktop research
     – a beep is emitted for 35 seconds; and – the 7 symbol is displayed for at least 65 seconds and the symbol for the seat concerned changes to red.
     Always make sure that the rear pas- sengers are properly fastened in and that the number of seatbelts indicated corresponds to the number of rear seats occupied.
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

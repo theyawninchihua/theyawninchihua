@@ -50,4 +50,4 @@ not available
 ### Brochure URL
 [link to manufacturer website](https://cars.tatamotors.com/content/dam/tml/pv/products/xpres-t/year-2026/promoting-vc/brochures/january/XPRES%20Brochure.pdf)
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

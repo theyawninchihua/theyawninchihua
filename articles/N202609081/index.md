@@ -8,17 +8,17 @@ title: "Maruti Suzuki continues streak of poor rear seatbelt reminders with New 
 
 ![Banner](banner.png)
 
-The facelifted [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/index.html) from Maruti Suzuki was launched last weekend, and today, a [#WhatTheBeep](../../whatthebeep/index.html) seatbelt reminder evaluation for it has been published.
+The facelifted [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/) from Maruti Suzuki was launched last weekend, and today, a [#WhatTheBeep](../../whatthebeep/) seatbelt reminder evaluation for it has been published.
 
-The [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/index.html)'s rear seatbelt reminder receives a <span style="color: red;">**FAIL**</span> result under the simple [#WhatTheBeep](../../whatthebeep/index.html) criteria, after desktop evaluation based on its owners' manual.
+The [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/)'s rear seatbelt reminder receives a <span style="color: red;">**FAIL**</span> result under the simple [#WhatTheBeep](../../whatthebeep/) criteria, after desktop evaluation based on its owners' manual.
 
 ## Maruti Suzuki BALENO evaluation explained
 
-Despite having a rear seatbelt reminder, the rear seats of the [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/index.html) do not have any meaningful occupant detection, unlike, for example, units of the related Fronx produced by Maruti Suzuki for export to Australia. Like most such cars, it relies solely on change of belt status, starting its secondary audible signal only when a rear seatbelt *changes status to* unfastened during a drive.
+Despite having a rear seatbelt reminder, the rear seats of the [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/) do not have any meaningful occupant detection, unlike, for example, units of the related Fronx produced by Maruti Suzuki for export to Australia. Like most such cars, it relies solely on change of belt status, starting its secondary audible signal only when a rear seatbelt *changes status to* unfastened during a drive.
 
-This means the [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/index.html) fails to audibly alert rear occupants who have been unbelted from the start (likely the majority of unbelted occupants). It can also falsely alert if a belt is taken off on an empty seat (for instance, if an outboard occupant accidentally attempts to use the centre buckle). Both of these individually are sufficient conditions for a <span style="color: red;">**FAIL**</span> under the [#WhatTheBeep](../../whatthebeep/index.html) evaluation criteria.
+This means the [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/) fails to audibly alert rear occupants who have been unbelted from the start (likely the majority of unbelted occupants). It can also falsely alert if a belt is taken off on an empty seat (for instance, if an outboard occupant accidentally attempts to use the centre buckle). Both of these individually are sufficient conditions for a <span style="color: red;">**FAIL**</span> under the [#WhatTheBeep](../../whatthebeep/) evaluation criteria.
 
-## [Maruti Suzuki BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/index.html)
+## [Maruti Suzuki BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
 | Testcase | Description | Audible warning | Verdict |
@@ -31,9 +31,9 @@ This means the [BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/index.html) fa
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Maruti Suzuki BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Maruti Suzuki BALENO](../../whatthebeep/2026-09-08-BALENO-Sigma/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

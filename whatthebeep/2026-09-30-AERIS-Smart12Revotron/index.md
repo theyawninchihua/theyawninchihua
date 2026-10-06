@@ -58,4 +58,4 @@ desktop research
     when vehicle speed Around 17 kmph, then audio warning
     will also start."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

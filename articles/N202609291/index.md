@@ -11,13 +11,13 @@ twitter_card:
 
 ![Banner](banner.png)
 
-The [Mahindra BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/index.html) did not receive the facelift its namesakes did in 2025, but was updated nevertheless in August 2026 to include a rear seatbelt reminder. The Yawning Chihuahua has investigated the behaviour of the system under [#WhatTheBeep](../../whatthebeep), through desktop research.
+The [Mahindra BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/) did not receive the facelift its namesakes did in 2025, but was updated nevertheless in August 2026 to include a rear seatbelt reminder. The Yawning Chihuahua has investigated the behaviour of the system under [#WhatTheBeep](../../whatthebeep), through desktop research.
 
 With the update, the otherwise austere SUV today receives <span style="color: green;">**PASS**</span> in a new [#WhatTheBeep evaluation](../../whatthebeep). While concerns persist with the vehicle's rear-seat safety in general, the result sends a clear message: vehicle price and age are no excuse for manufacturers to cut corners on the rear seatbelt reminders of their Indian vehicle models.
 
 ## Mahindra Bolero Neo Plus evaluation explained
 
-With occupant detection in the second row, the [BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/index.html) audibly alerts detected rear occupants when they haven't fastened their seatbelt, with a chime for 35 seconds. It passes all of the four [#WhatTheBeep testcases](../../whatthebeep/protocol.html), and is awarded an overall <span style="color: green;">**PASS**</span>.
+With occupant detection in the second row, the [BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/) audibly alerts detected rear occupants when they haven't fastened their seatbelt, with a chime for 35 seconds. It passes all of the four [#WhatTheBeep testcases](../../whatthebeep/protocol.html), and is awarded an overall <span style="color: green;">**PASS**</span>.
 
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
@@ -31,7 +31,7 @@ With occupant detection in the second row, the [BOLERO NEO PLUS](../../whatthebe
 
 ## The Yawning Chihuahua calls on all manufacturers to follow suit
 
-Launched in 2024, the [Mahindra BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/index.html) shares platform with the original Mahindra Scorpio from 2004.
+Launched in 2024, the [Mahindra BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/) shares platform with the original Mahindra Scorpio from 2004.
 
 Yet, its rear seatbelt reminder is more sophisticated than newer and more expensive Indian-market vehicles evaluated under [#WhatTheBeep](../../whatthebeep), some of which do not have, or even explicitly *delete* rear occupant detection systems for the Indian market, instead fitting ineffective systems based solely on buckle logic, that either fail to beep when they should, or beep when they shouldn't.
 
@@ -47,9 +47,9 @@ Unrestrained occupants in a car increase the risk of death or serious injury to 
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Mahindra BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Mahindra BOLERO NEO PLUS](../../whatthebeep/2026-09-29-BOLERONEOPLUS-P420mHawk/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

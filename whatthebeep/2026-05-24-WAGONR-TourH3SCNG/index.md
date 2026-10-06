@@ -50,4 +50,4 @@ in-person testing
 ### Brochure URL
 [link to manufacturer website](https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/27112025WagonR_Tour_H3_Leaflet_A4.pdf)
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

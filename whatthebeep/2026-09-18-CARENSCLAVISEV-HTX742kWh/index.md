@@ -50,4 +50,4 @@ in-person testing
 ### Brochure URL
 [link to manufacturer website](https://www.kia.com/content/dam/kia2/in/en/our-vehicles/kia-carens-clavis-ev/showroom/Kia_CarensClavisEV_Brochure_Desktop.pdf)
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

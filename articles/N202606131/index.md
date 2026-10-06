@@ -8,13 +8,13 @@ title: "Regional differences in Mercedes-Benz CLA ELECTRIC rear seatbelt reminde
 
 ![Banner](banner.png)
 
-A new [#WhatTheBeep](../../whatthebeep/index.html) seatbelt reminder evaluation has been published today, with the India-spec [Mercedes-Benz CLA ELECTRIC](../../whatthebeep/2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/index.html) receiving a <span style="color: red;">**FAIL**</span> result.
+A new [#WhatTheBeep](../../whatthebeep/) seatbelt reminder evaluation has been published today, with the India-spec [Mercedes-Benz CLA ELECTRIC](../../whatthebeep/2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/) receiving a <span style="color: red;">**FAIL**</span> result.
 
-Despite arriving in India as a premium import, the [Mercedes-Benz CLA ELECTRIC](../../whatthebeep/2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/index.html)'s SBR behaviour **does not mirror that of its European counterpart**: the India-spec version lacks rear occupant detection, so its seatbelt reminder fails to notify unbelted rear occupants in common scenarios, and falsely alerts in others.
+Despite arriving in India as a premium import, the [Mercedes-Benz CLA ELECTRIC](../../whatthebeep/2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/)'s SBR behaviour **does not mirror that of its European counterpart**: the India-spec version lacks rear occupant detection, so its seatbelt reminder fails to notify unbelted rear occupants in common scenarios, and falsely alerts in others.
 
 ## Mercedes-Benz CLA evaluation explained
 
-Based on [its documentation](https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-cla-saloon-2026-april-c174-mbux-owners-manual-1.pdf), the India-spec CLA's rear seats do not include occupant detection sensors. As a result, its rear seatbelt reminder only issues audible and visual signals when a rear seatbelt is *fastened and then unfastened* on the move, and does so regardless of whether an adult is occupying the seat or not. This behaviour causes the India-spec CLA to receive a <span style="color: red;">**FAIL**</span> result under the [#WhatTheBeep criteria](../../whatthebeep/index.html).
+Based on [its documentation](https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-cla-saloon-2026-april-c174-mbux-owners-manual-1.pdf), the India-spec CLA's rear seats do not include occupant detection sensors. As a result, its rear seatbelt reminder only issues audible and visual signals when a rear seatbelt is *fastened and then unfastened* on the move, and does so regardless of whether an adult is occupying the seat or not. This behaviour causes the India-spec CLA to receive a <span style="color: red;">**FAIL**</span> result under the [#WhatTheBeep criteria](../../whatthebeep/).
 
 ## Mercedes-Benz CLA (India)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
@@ -51,9 +51,9 @@ Occupant detection for the rear seatbelt reminder is a prerequisite for SBRs to 
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Mercedes-Benz CLA](../../whatthebeep/2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Mercedes-Benz CLA](../../whatthebeep/2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

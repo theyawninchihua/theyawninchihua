@@ -54,4 +54,4 @@ desktop research
 
     The seat belt reminder indicator blinks and the beeper sounds if any rear passenger seat belts have been unfastened while driving."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

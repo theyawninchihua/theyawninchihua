@@ -50,4 +50,4 @@ in-person testing
 ### Brochure URL
 [link to manufacturer website](https://www.nexaexperience.com/pdf-viewer?pdf=%2Fcontent%2Fdam%2Fmsil%2Fnexa%2Fin%2Fen%2Fassets%2Fcars%2Ffronx%2Fdocuments%2FNEXA-Fronx-Brochure.pdf)
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

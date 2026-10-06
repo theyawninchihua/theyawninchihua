@@ -44,4 +44,4 @@ desktop research
 
     This result does not cover the similar-looking Thar Roxx which has been evaluated separately.
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

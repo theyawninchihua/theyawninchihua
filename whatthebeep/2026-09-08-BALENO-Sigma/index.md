@@ -52,4 +52,4 @@ desktop research
 
     The reminder will be automatically can- celed when all the rear seat belts are buck- led or the ignition mode to LOCK (OFF).
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

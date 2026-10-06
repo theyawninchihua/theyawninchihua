@@ -42,4 +42,4 @@ I initially planned to not pursue the first RTI further, but after the positive 
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

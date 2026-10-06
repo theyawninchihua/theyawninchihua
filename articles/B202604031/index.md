@@ -25,4 +25,4 @@ Downloaded copies of previous blog posts from the old website are here:
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

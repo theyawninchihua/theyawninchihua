@@ -88,4 +88,4 @@ The result of an evaluation is deemed to be <span style="color: green;">**PASS**
 
 —TYC
 
-[Back to home](../index.html)
+[Back to home](../)

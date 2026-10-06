@@ -193,16 +193,16 @@ def main():
         if os.path.isfile(banner_path):
             markdown_articles.append(
                 f'[![Banner](articles/{article["name"]}/banner.png)]'
-                f'(articles/{article["name"]}/index.html)'
+                f'(articles/{article["name"]}/)'
             )
-        markdown_articles[-1] += f'{display_date} **{label}** • [{article["title"]}](articles/{article["name"]}/index.html)'
+        markdown_articles[-1] += f'{display_date} **{label}** • [{article["title"]}](articles/{article["name"]}/)'
 
     markdown_results = []
     for entry in top_sbrs:
         display_date = entry['date'].strftime('%d.%m.%y')
         color = 'green' if entry['result'] == 'PASS' else 'red'
         markdown_results.append(
-            f'- {display_date} [{entry["title"]}](whatthebeep/{entry["dirname"]}/index.html) — **<span style="color: {color};">{entry["result"]}</span>**'
+            f'- {display_date} [{entry["title"]}](whatthebeep/{entry["dirname"]}/) — **<span style="color: {color};">{entry["result"]}</span>**'
         )
 
     markdown = f'''---
@@ -222,13 +222,13 @@ title: "Home"
 | --- | --- | --- |
 | {' | '.join(markdown_articles[1:4])} |
 
-[View more](articles/index.html)
+[View more](articles/)
 
 ## Latest #WhatTheBeep results
 
 {chr(10).join(markdown_results)}
 
-[View more](whatthebeep/index.html)
+[View more](whatthebeep/)
 '''
 
     # Prepare article HTML: first is featured, next three shown in table
@@ -239,7 +239,7 @@ title: "Home"
     sbr_lines = []
     for e in top_sbrs:
         display_date = e['date'].strftime("%d.%m.%y")
-        line = f'{display_date} [{result_html(e["result"])}] <a href="whatthebeep/{e["dirname"]}/index.html">{e["title"]}</a><br>'
+        line = f'{display_date} [{result_html(e["result"])}] <a href="whatthebeep/{e["dirname"]}/">{e["title"]}</a><br>'
         sbr_lines.append(line)
 
     sbr_block = "\n                    ".join(sbr_lines)
@@ -250,8 +250,8 @@ title: "Home"
     def article_fig(a):
         full_date = a['date'].strftime("%d.%m.%Y")
         label = ARTICLE_TYPES.get(a['letters'], a['letters'])
-        return (f'                        <a href="articles/{a["name"]}/index.html"><img src="articles/{a["name"]}/banner.png" width="100%" border="1"></a>\n'
-                f'                        <figcaption>{full_date} <b>[{label}]</b> <a href="articles/{a["name"]}/index.html">{a["title"]}</a></figcaption>')
+        return (f'                        <a href="articles/{a["name"]}/"><img src="articles/{a["name"]}/banner.png" width="100%" border="1"></a>\n'
+                f'                        <figcaption>{full_date} <b>[{label}]</b> <a href="articles/{a["name"]}/">{a["title"]}</a></figcaption>')
 
     featured_block = ""
     if featured:
@@ -293,7 +293,7 @@ title: "Home"
                     {featured_block}                    <table>
                         <tr>
                             <td valign="top">
-{small_cells[0]}                                <a href="articles/index.html">see more</a>
+{small_cells[0]}                                <a href="articles/">see more</a>
                             </td>
                             <td valign="top">
 {small_cells[1]}                            </td>
@@ -307,7 +307,7 @@ title: "Home"
                     <marquee scrollamount="10"><font color="green"><b>{BANNER_TEXT}</b></font></marquee><br><br>
                     <b>Latest results:</b><br>
                     {sbr_block}<br>
-                    <a href="whatthebeep/index.html">see more</a><br><br>
+                    <a href="whatthebeep/">see more</a><br><br>
                     {desktop_note}
                 </td>
             </tr>

@@ -61,4 +61,4 @@ desktop research
 
     Unbuckling the seatbelt before the vehicle comes to a complete stop will cause an alarm to sound and the seatbelt reminder light to blink. This warning may continue for up to 35 seconds after you exit the vehicle. Always unbuckle your seatbelt only after the vehicle has come to a complete stop."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

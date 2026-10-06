@@ -52,4 +52,4 @@ desktop research
 
     The reminder will be automatically canceled when the rear seat belt is buckled or turn the power switch to “LOCK (OFF)”."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

@@ -8,19 +8,19 @@ title: "'Ghost' beeps from new Tata XPRES' rear seatbelt reminder earn it FAIL i
 
 ![Banner](banner.png)
 
-A new [#WhatTheBeep](../../whatthebeep/index.html) seatbelt reminder evaluation has been published today, with the new fleet-oriented [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/index.html) receiving a <span style="color: red;">**FAIL**</span> result.
+A new [#WhatTheBeep](../../whatthebeep/) seatbelt reminder evaluation has been published today, with the new fleet-oriented [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/) receiving a <span style="color: red;">**FAIL**</span> result.
 
-Based on the Tigor, the new combustion-powered version of the Tata XPRES joined the existing electric XPRES-T in Tata's fleet lineup in January ([see Autocar](https://www.autocarindia.com/car-news/tata-launches-fleet-only-xpres-petrol-and-cng-variants-438889)). The Yawning Chihuahua has now had the opportunity to test its rear seatbelt reminder physically and is publishing a [#WhatTheBeep in-person evaluation](../../whatthebeep/index.html) for the [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/index.html).
+Based on the Tigor, the new combustion-powered version of the Tata XPRES joined the existing electric XPRES-T in Tata's fleet lineup in January ([see Autocar](https://www.autocarindia.com/car-news/tata-launches-fleet-only-xpres-petrol-and-cng-variants-438889)). The Yawning Chihuahua has now had the opportunity to test its rear seatbelt reminder physically and is publishing a [#WhatTheBeep in-person evaluation](../../whatthebeep/) for the [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/).
 
 ## Tata XPRES evaluation explained
 
-Like many other vehicles awarded <span style="color: red;">**FAIL**</span> under [#WhatTheBeep](../../whatthebeep/index.html), the rear seats of the [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/index.html) do not have any meaningful form of occupant detection, like pressure mats. Most of those cars start their secondary audible signals only when a rear seatbelt *becomes* unfastened.
+Like many other vehicles awarded <span style="color: red;">**FAIL**</span> under [#WhatTheBeep](../../whatthebeep/), the rear seats of the [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/) do not have any meaningful form of occupant detection, like pressure mats. Most of those cars start their secondary audible signals only when a rear seatbelt *becomes* unfastened.
 
 However, the Tata XPRES presented a unique issue during testing: its final audio signal begun even when a rear seatbelt remained unfastened from the start of the trip. While this behaviour is desirable in vehicles with rear occupant detection, in a vehicle without occupant detection, this results in intrusive alerts despite the absence of rear occupants.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lt-NBp1_j3E?si=xnVg_lCsKnemVvso" title="Embedded video" allowfullscreen></iframe>
 
-## [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/index.html)
+## [Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
 | Testcase | Description | Audible warning | Verdict |
@@ -33,9 +33,9 @@ However, the Tata XPRES presented a unique issue during testing: its final audio
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Tata XPRES](../../whatthebeep/2026-06-22-XPRES-12RevotronCNG/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

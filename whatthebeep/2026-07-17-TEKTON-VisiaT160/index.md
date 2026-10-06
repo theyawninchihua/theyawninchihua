@@ -61,4 +61,4 @@ desktop research
     the graphic 6 is displayed for at least approximately 60 seconds and the symbol for the seat concerned appears in red.
     Always make sure that the rear passengers are properly fastened and that the number of fastened seatbelts indicated corresponds to the number of rear seats occupied.
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

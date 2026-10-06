@@ -92,10 +92,10 @@ def main():
     list_lines = []
     markdown_lines = []
     for e in entries:
-        list_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/index.html\">{e['title']}</a><br>")
+        list_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/\">{e['title']}</a><br>")
         color = 'green' if e['result'] == 'PASS' else 'red'
         markdown_lines.append(
-            f"- {e['display_date']} [{e['title']}]({e['dirname']}/index.html) — **<span style=\"color: {color};\">{e['result']}</span>**"
+            f"- {e['display_date']} [{e['title']}]({e['dirname']}/) — **<span style=\"color: {color};\">{e['result']}</span>**"
         )
 
     list_html = "\n        ".join(list_lines)
@@ -146,7 +146,7 @@ Kindly avoid reporting using language that suggests #WhatTheBeep is intended to 
 
 —TYC
 
-[Back to home](../index.html)
+[Back to home](../)
 '''
 
     html = f"""<!DOCTYPE html>
@@ -201,7 +201,7 @@ Kindly avoid reporting using language that suggests #WhatTheBeep is intended to 
 
         -TYC<br><br>
 
-        <a href="../index.html">click to go back home</a>
+        <a href="../">click to go back home</a>
     </font>
     </body>
 </html>

@@ -161,20 +161,20 @@ def render_index(path, items):
             if has_banner:
                 markdown_entries.append(
                     f'[![Banner]({e["name"]}/banner.png)]'
-                    f'({e["name"]}/index.html)'
+                    f'({e["name"]}/)'
                 )
             markdown_entries.append(
-                f'{formatted_date} **{label}** • [{e["title"]}]({e["name"]}/index.html)\n\n'
+                f'{formatted_date} **{label}** • [{e["title"]}]({e["name"]}/)\n\n'
             )
 
             html += f"                <td valign=\"top\" width=\"{int(100/ARTICLES_PER_ROW)}%\">\n"
             html += "                    <figure>\n"
             if has_banner:
-                # Anchor points to <name>/index.html, image src is <name>/banner.png
-                html += f'                        <a href="{e["name"]}/index.html"><img src="{e["name"]}/banner.png" width="100%" border="1"></a>\n'
-                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
+                # Anchor points to <name>/, image src is <name>/banner.png
+                html += f'                        <a href="{e["name"]}/"><img src="{e["name"]}/banner.png" width="100%" border="1"></a>\n'
+                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="{e["name"]}/">{e["title"]}</a></figcaption>\n'
             else:
-                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="{e["name"]}/index.html">{e["title"]}</a></figcaption>\n'
+                html += f'                        <figcaption>{formatted_date} <b>[{label}]</b> <a href="{e["name"]}/">{e["title"]}</a></figcaption>\n'
             html += "                    </figure>\n"
             html += "                    <br>\n"
             html += "                </td>\n"
@@ -182,7 +182,7 @@ def render_index(path, items):
         html += "            </tr>\n\n"
 
     html += "        </table>\n"
-    html += "    <a href=\"../../index.html\">click to go back home</a>\n\n"
+    html += "    <a href=\"../../\">click to go back home</a>\n\n"
     html += "    </font>\n    </body>\n</html>\n"
 
     outpath = ""
@@ -201,7 +201,7 @@ def render_index(path, items):
         'title: "Articles"\n'
         '---\n\n'
         + '\n'.join(markdown_entries)
-        + '\n[Back to home](../index.html)\n'
+        + '\n[Back to home](../)\n'
     )
     markdown_path = os.path.join(path, 'index.md')
     with open(markdown_path, 'w', encoding='utf-8', newline='\n') as fh:

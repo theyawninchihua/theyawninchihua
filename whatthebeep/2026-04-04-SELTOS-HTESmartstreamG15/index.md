@@ -51,4 +51,4 @@ desktop research
     If the rear door is opened or closed whilst driving under 10 km/h (6 mph), the warning light and
     warning sound does not work, even if you speed up to over 20 km/h (12 mph).
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

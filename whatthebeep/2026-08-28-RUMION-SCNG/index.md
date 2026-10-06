@@ -50,4 +50,4 @@ in-person testing
 ### Brochure URL
 [link to manufacturer website](https://www.toyotabharat.com/documents/brochures/e-brochure-rumion.pdf)
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

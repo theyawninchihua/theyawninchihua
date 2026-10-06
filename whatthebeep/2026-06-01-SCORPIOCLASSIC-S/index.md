@@ -46,4 +46,4 @@ desktop research
     It should be noted that the PODS require a minimum weight hence children may not be detected by PODS. Along with this warning symbol, a chime will be ON for 30 seconds for front seat belt and front facing rear passenger seat belt reminder.
     Do keep in mind that after market seat covers also may deteriorate the occupant detection sensor performance, don’t use the non recommended/non authorized seat covers."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

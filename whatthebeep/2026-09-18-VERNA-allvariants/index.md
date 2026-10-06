@@ -52,4 +52,4 @@ in-person testing
 ### Brochure URL
 [link to manufacturer website](https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/verna.pdf)
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

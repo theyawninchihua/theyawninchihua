@@ -10,15 +10,15 @@ title: "SORENTO becomes next India-spec Kia stripped of enhanced rear seatbelt r
 
 10. That's the number of airbags you can have in the Kia Sorento, a new global SUV launched into the Indian market last week. This includes curtain and rear-seat side airbags to protect rear seat occupants.
 
-However, these airbags can be expected to be of little good if rear occupants are not wearing their seatbelts, which is exactly why The Yawning Chihuahua is disappointed to announce that the India-spec [Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/index.html) today receives <span style="color: red;">**FAIL**</span> in a new [#WhatTheBeep](../../whatthebeep/index.html) desktop evaluation.
+However, these airbags can be expected to be of little good if rear occupants are not wearing their seatbelts, which is exactly why The Yawning Chihuahua is disappointed to announce that the India-spec [Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/) today receives <span style="color: red;">**FAIL**</span> in a new [#WhatTheBeep](../../whatthebeep/) desktop evaluation.
 
-Despite being positioned in India as a "[global icon](https://www.kia.com/in/our-vehicles/sorento/showroom.html#:~:text=of%20the%20Global%20Icon)", the [Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/index.html)'s rear seatbelt reminder **does not mirror that of its global counterpart**, failing to audibly alert unbelted rear occupants in common scenarios.
+Despite being positioned in India as a "[global icon](https://www.kia.com/in/our-vehicles/sorento/showroom.html#:~:text=of%20the%20Global%20Icon)", the [Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/)'s rear seatbelt reminder **does not mirror that of its global counterpart**, failing to audibly alert unbelted rear occupants in common scenarios.
 
 ## Kia SORENTO evaluation explained
 
 Based on its documentation, the India-spec SORENTO only chimes when a rear seatbelt is *unfastened* while driving above a certain speed, and not when an occupant has simply not fastened their belt. As a result, the India-spec SORENTO receives a <span style="color: red;">**FAIL**</span> result under the simple #WhatTheBeep criteria.
 
-## [Kia SORENTO (India)](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/index.html)
+## [Kia SORENTO (India)](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
 | Testcase | Description | Audible warning | Verdict |
@@ -49,9 +49,9 @@ Importantly, investigation of the [Australian SORENTO's documentation](https://w
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

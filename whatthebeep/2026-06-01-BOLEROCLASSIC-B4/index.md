@@ -46,4 +46,4 @@ desktop research
     It should be noted that the PODS require a minimum weight hence children may not be detected by PODS. Along with this warning symbol, a Chime in Cluster will be ON for 95 second for front seat belt reminder and 35 second for front facing rear seat belt reminder.
     Do keep in mind that after market seat covers also may deteriorate the occupant detection sensor performance, don’t use the non recommended/non authorized seat covers."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

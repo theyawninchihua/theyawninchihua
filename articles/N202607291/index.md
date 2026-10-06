@@ -8,19 +8,19 @@ title: "Maruti Suzuki's new Brezza is here — is its rear seatbelt reminder any
 
 ![Banner](banner.png)
 
-The facelifted [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/index.html) from Maruti Suzuki launched last week, and today, a [#WhatTheBeep](../../whatthebeep/index.html) seatbelt reminder evaluation for it has been published.
+The facelifted [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/) from Maruti Suzuki launched last week, and today, a [#WhatTheBeep](../../whatthebeep/) seatbelt reminder evaluation for it has been published.
 
 At the launch of the new Brezza, [Maruti Suzuki were vocal](https://x.com/kushanmitra/status/2080533364139040876?s=20) about the importance of rear seatbelt usage. It would appear, however, that their new SUV isn't.
 
-The [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/index.html)'s rear seatbelt reminder receives a <span style="color: red;">**FAIL**</span> result under the simple [#WhatTheBeep](../../whatthebeep/index.html) criteria, after desktop evaluation based on its owners' manual.
+The [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/)'s rear seatbelt reminder receives a <span style="color: red;">**FAIL**</span> result under the simple [#WhatTheBeep](../../whatthebeep/) criteria, after desktop evaluation based on its owners' manual.
 
 ## Maruti Suzuki BREZZA evaluation explained
 
-Despite having a rear seatbelt reminder, the rear seats of the [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/index.html) do not have any meaningful occupant detection. Like most such cars, it relies solely on change of belt status, starting its secondary audible signal only when a rear seatbelt *changes status to* unfastened during a drive.
+Despite having a rear seatbelt reminder, the rear seats of the [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/) do not have any meaningful occupant detection. Like most such cars, it relies solely on change of belt status, starting its secondary audible signal only when a rear seatbelt *changes status to* unfastened during a drive.
 
-This means the [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/index.html) fails to audibly alert rear occupants who have been unbelted from the start (likely the majority of unbelted occupants). It can also falsely alert if a belt is taken off on an empty seat (for instance, if an outboard occupant accidentally attempts to use the centre buckle). Both of these individually are sufficient conditions for a <span style="color: red;">**FAIL**</span> under the [#WhatTheBeep](../../whatthebeep/index.html) evaluation criteria.
+This means the [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/) fails to audibly alert rear occupants who have been unbelted from the start (likely the majority of unbelted occupants). It can also falsely alert if a belt is taken off on an empty seat (for instance, if an outboard occupant accidentally attempts to use the centre buckle). Both of these individually are sufficient conditions for a <span style="color: red;">**FAIL**</span> under the [#WhatTheBeep](../../whatthebeep/) evaluation criteria.
 
-## [Maruti Suzuki BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/index.html)
+## [Maruti Suzuki BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
 | Testcase | Description | Audible warning | Verdict |
@@ -33,9 +33,9 @@ This means the [BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/inde
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Maruti Suzuki BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Maruti Suzuki BREZZA](../../whatthebeep/2026-07-29-BREZZA-LXi10BoosterJet/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)

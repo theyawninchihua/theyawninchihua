@@ -62,4 +62,4 @@ desktop research
 
     In addition, a warning tone may sound."
 
-[click to go back to #WhatTheBeep](../index.html)
+[click to go back to #WhatTheBeep](../)

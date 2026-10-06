@@ -8,9 +8,9 @@ title: "FAIL for Maruti Suzuki e VITARA in #WhatTheBeep"
 
 ![Banner](banner.png)
 
-A new [#WhatTheBeep](../../whatthebeep/index.html) rear seatbelt reminder evaluation has been published today, with the India-spec [Maruti Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/index.html) receiving a <span style="color: red;">**FAIL**</span> result.
+A new [#WhatTheBeep](../../whatthebeep/) rear seatbelt reminder evaluation has been published today, with the India-spec [Maruti Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/) receiving a <span style="color: red;">**FAIL**</span> result.
 
-The India-spec [Maruti Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/index.html)'s SBR behaviour **does not mirror that of its global counterparts**: the India-spec version's SBR fails to notify unbelted rear occupants in common scenarios.
+The India-spec [Maruti Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/)'s SBR behaviour **does not mirror that of its global counterparts**: the India-spec version's SBR fails to notify unbelted rear occupants in common scenarios.
 
 ## Maruti Suzuki e VITARA evaluation explained
 
@@ -43,9 +43,9 @@ Importantly, documentation for the European e VITARA's twin the Toyota URBAN CRU
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
-- [All you need to know about #WhatTheBeep](../../whatthebeep/index.html)
-- [Datasheet for Maruti Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/index.html)
+- [All you need to know about #WhatTheBeep](../../whatthebeep/)
+- [Datasheet for Maruti Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/)
 
 -TYC
 
-[click to go back to articles](../index.html)
+[click to go back to articles](../)
