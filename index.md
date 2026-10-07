@@ -9,7 +9,7 @@ title: "Home"
 
 ## Latest articles
 
-[![Banner](articles/N202610071/banner.png)](articles/N202610071/)07.10.2026 **NOTICE** • [Honda fail to 'Elevate' rear seatbelt reminder in facelifted SUV](articles/N202610071/)
+[![Banner](articles/N202610071/banner.png)](articles/N202610071/)07.10.2026 **NOTICE** • [Honda fails to 'Elevate' rear seatbelt reminder in facelifted SUV](articles/N202610071/)
 
 | | | |
 | --- | --- | --- |

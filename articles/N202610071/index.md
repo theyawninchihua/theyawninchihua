@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
-title: "Honda fail to 'Elevate' rear seatbelt reminder in facelifted SUV"
+title: "Honda fails to 'Elevate' rear seatbelt reminder in facelifted SUV"
 twitter_card:
     type: "summary_large_image"
     image: https://theyawninchihua.github.io/theyawninchihua/articles/N202610071/banner.png
