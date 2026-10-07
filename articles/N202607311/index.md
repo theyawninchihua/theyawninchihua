@@ -44,7 +44,7 @@ Occupant detection for the rear seatbelt reminder is a prerequisite for SBRs to 
 
 | Testcase | Description | Audible warning |
 | --- | --- | --- |
-| ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: red;">**NO**</span> |
+| ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: green;">**YES**</span> |
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: green;">**NO**</span> |
