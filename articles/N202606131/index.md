@@ -37,14 +37,14 @@ Importantly, a review of equivalent documentation for global models of the new C
 
 *Comparison: Behaviour of rear seatbelt reminder of India-spec CLA (left) vs UK-spec CLA (right).*
 
-Occupant detection for the rear seatbelt reminder is a prerequisite for SBRs to score points in Euro NCAP and ANCAP, where the CLA won [Best Performer 2025](https://www.euroncap.com/press-media/euro-ncap-names-best-in-class-cars-tested-in-2025/).
+Occupant detection for the rear seatbelt reminder, and an initial (not just change-of-status) audible signal for an unbuckled belt, is a prerequisite for SBRs to score points in Euro NCAP and ANCAP, where the CLA won [Best Performer 2025](https://www.euroncap.com/press-media/euro-ncap-names-best-in-class-cars-tested-in-2025/).
 
 ## Mercedes-Benz CLA (Europe and Australia)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
 
 | Testcase | Description | Audible warning |
 | --- | --- | --- |
-| ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: red;">**NO**</span> |
+| ![Image](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt | <span style="color: green;">**YES**</span> |
 | ![Image](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt | <span style="color: green;">**YES**</span> |
 | ![Image](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat | <span style="color: green;">**NO**</span> |
 | ![Image](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat | <span style="color: green;">**NO**</span> |
