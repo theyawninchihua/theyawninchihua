@@ -110,6 +110,7 @@ twitter_card:
   image: https://theyawninchihua.github.io/theyawninchihua/whatthebeep/banner.png
 permalink: /whatthebeep/
 title: "#WhatTheBeep"
+description: "Evaluations of the rear seatbelt reminders in Indian cars."
 ---
 
 The Yawning Chihuahua is informally and independently evaluating the rear seatbelt reminders of Indian cars.
