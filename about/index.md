@@ -29,7 +29,7 @@ The Yawning Chihuahua is an anonymous Internet persona with an interest in cars,
 
   ![ron178: Distinguished BHPian](dbhpian.png)
 
-- The Yawning Chihuahua's strong preference of facts over *[faits divers](https://www.collinsdictionary.com/dictionary/english/faits-divers)* has been validated by its X (formerly Twitter) account being blocked by the automotive tabloid Rush Lane.
+- The Yawning Chihuahua's strong preference for facts over *[faits divers](https://www.collinsdictionary.com/dictionary/english/faits-divers)* has been validated by its X (formerly Twitter) account being blocked by the automotive tabloid Rush Lane.
 
   ![The Yawning Chihuahua blocked by Rush Lane on X](rushlaneblock.png)
 
