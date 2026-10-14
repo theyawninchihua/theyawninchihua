@@ -14,6 +14,7 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 ## All evaluations
 
+- 15.10.26 [Toyota GLANZA (*)](2026-10-15-GLANZA-E/) — **<span style="color: red;">FAIL</span>**
 - 07.10.26 [Honda ELEVATE (*)](2026-10-07-ELEVATE-SV15iVTEC/) — **<span style="color: red;">FAIL</span>**
 - 30.09.26 [Tata AERIS (*)](2026-09-30-AERIS-Smart12Revotron/) — **<span style="color: red;">FAIL</span>**
 - 29.09.26 [Mahindra BOLERO NEO PLUS (*)](2026-09-29-BOLERONEOPLUS-P420mHawk/) — **<span style="color: green;">PASS</span>**

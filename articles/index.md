@@ -7,6 +7,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202610151/banner.png)](N202610151/)
+15.10.2026 **NOTICE** • [New Toyota GLANZA's poor rear seatbelt reminder receives FAIL in new #WhatTheBeep evaluation](N202610151/)
+
+
 [![Banner](N202610071/banner.png)](N202610071/)
 07.10.2026 **NOTICE** • [Honda fails to 'Elevate' rear seatbelt reminder in facelifted SUV](N202610071/)
 
