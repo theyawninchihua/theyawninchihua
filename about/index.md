@@ -11,7 +11,7 @@ description: "About The Yawning Chihuahua."
 The Yawning Chihuahua is an anonymous Internet persona with an interest in cars, and an emphasis on vehicle safety regulations and consumer tests in India as well as around the world.
 
 # Internet accounts
-- [X (formerly Twitter)](https://x.com/theyawninchihua)
+- [Twitter (now X)](https://x.com/theyawninchihua)
 - [YouTube](https://youtube.com/@theyawninchihua)
 - [Team-BHP](https://www.team-bhp.com/forum/members/ron178.html)
 - [Instagram](https://instagram.com/theyawninchihua)
@@ -29,7 +29,7 @@ The Yawning Chihuahua is an anonymous Internet persona with an interest in cars,
 
   ![ron178: Distinguished BHPian](dbhpian.png)
 
-- The Yawning Chihuahua's strong preference for facts over *[faits divers](https://www.collinsdictionary.com/dictionary/english/faits-divers)* has been validated by its X (formerly Twitter) account being blocked by the automotive tabloid Rush Lane.
+- The Yawning Chihuahua is part of an elite group of Twitter accounts blocked by the automotive tabloid website Rush Lane, validating its strong preference for facts over *[faits divers](https://www.collinsdictionary.com/dictionary/english/faits-divers)*.
 
   ![The Yawning Chihuahua blocked by Rush Lane on X](rushlaneblock.png)
 
