@@ -41,11 +41,11 @@ Independent [crash testing by the German consumer organisation ADAC of some thir
 ## External links
 - [PIB: CCPA directs e-commerce platforms to delist seatbelt alarm stopper clips](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1923591&lang=2&reg=48)
 - [ADAC: Pregnancy seat belt adapters tested: None deliver what they promise](https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/ausstattung/schwangerschaftsgurte-auto/)
-- [Amazon India (clip 1)](https://www.amazon.in/dp/B0HNS7HXK7/)
-- [Amazon India (clip 2)](https://www.amazon.in/RIVANTA-Wear%E2%80%91Resistant-Anti%E2%80%91Slip-Retainer-Vehicles/dp/B0HN224M2H/)
-- [Amazon India (extender)](https://www.amazon.in/dp/B0HN28YTZP/)
-- [Flipkart](https://www.flipkart.com/shivay-hub-car-headrest-cover-scary-devil-face-design-seat-belt/p/itm9c60f29598287)
-- [JioMart](https://www.jiomart.com/product/caradin-pack-of-4-piece-clip-alloy-metal-auto-seat-belt-cover-shoulder-pad-car-interior-accessories-universal-for-most-vehicles-mq9bk8-109108800)
+- [Amazon India (clip 1)](https://www.amazon.in/dp/B0HNS7HXK7/) [[Wayback Machine](https://web.archive.org/web/20261022002101/https://www.amazon.in/dp/B0HNS7HXK7)]
+- [Amazon India (clip 2)](https://www.amazon.in/RIVANTA-Wear%E2%80%91Resistant-Anti%E2%80%91Slip-Retainer-Vehicles/dp/B0HN224M2H/) [[Wayback Machine](https://web.archive.org/web/20261022002514/https://www.amazon.in/RIVANTA-Wear%E2%80%91Resistant-Anti%E2%80%91Slip-Retainer-Vehicles/dp/B0HN224M2H)]
+- [Amazon India (extender)](https://www.amazon.in/dp/B0HN28YTZP/) [[Wayback Machine](https://web.archive.org/web/20261022002920/https://www.amazon.in/dp/B0HN28YTZP)]
+- [Flipkart](https://www.flipkart.com/shivay-hub-car-headrest-cover-scary-devil-face-design-seat-belt/p/itm9c60f29598287) [[Wayback Machine](https://web.archive.org/web/20261022003135/https://www.flipkart.com/shivay-hub-car-headrest-cover-scary-devil-face-design-seat-belt/p/itm9c60f29598287)]
+- [JioMart](https://www.jiomart.com/product/caradin-pack-of-4-piece-clip-alloy-metal-auto-seat-belt-cover-shoulder-pad-car-interior-accessories-universal-for-most-vehicles-mq9bk8-109108800) [[Wayback Machine](https://web.archive.org/web/20261022003404/https://www.jiomart.com/product/caradin-pack-of-4-piece-clip-alloy-metal-auto-seat-belt-cover-shoulder-pad-car-interior-accessories-universal-for-most-vehicles-mq9bk8-109108800)]
 
 -TYC
 
