@@ -9,7 +9,7 @@ title: "Home"
 
 ## Latest articles
 
-[![Banner](articles/B202610221/banner.png)](articles/B202610221/)22.10.2026 **BLOG POST** • [Seatbelt reminder defeat clips continue to be sold under alternative names on Indian e-commerce](articles/B202610221/)
+[![Banner](articles/B202610221/banner.png)](articles/B202610221/)22.10.2026 **BLOG POST** • [Seatbelt reminder defeat clips continue to be sold under alternative names on India's e-commerce platforms](articles/B202610221/)
 
 | | | |
 | --- | --- | --- |

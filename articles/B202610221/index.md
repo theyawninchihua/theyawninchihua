@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "'Headrest cover' and 'shoulder pad' some of the alternative names used."
-title: "Seatbelt reminder defeat clips continue to be sold under alternative names on Indian e-commerce"
+title: "Seatbelt reminder defeat clips continue to be sold under alternative names on India's e-commerce platforms"
 twitter_card:
     type: "summary_large_image"
     image: https://theyawninchihua.github.io/theyawninchihua/articles/B202610221/banner.png
