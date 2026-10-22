@@ -7,6 +7,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](B202610221/banner.png)](B202610221/)
+22.10.2026 **BLOG POST** • [Seatbelt reminder defeat clips continue to be sold under alternative names on Indian e-commerce](B202610221/)
+
+
 [![Banner](N202610151/banner.png)](N202610151/)
 15.10.2026 **NOTICE** • [New Toyota GLANZA's poor rear seatbelt reminder receives FAIL in new #WhatTheBeep evaluation](N202610151/)
 

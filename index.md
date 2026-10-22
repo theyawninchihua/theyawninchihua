@@ -9,11 +9,11 @@ title: "Home"
 
 ## Latest articles
 
-[![Banner](articles/N202610151/banner.png)](articles/N202610151/)15.10.2026 **NOTICE** • [New Toyota GLANZA's poor rear seatbelt reminder receives FAIL in new #WhatTheBeep evaluation](articles/N202610151/)
+[![Banner](articles/B202610221/banner.png)](articles/B202610221/)22.10.2026 **BLOG POST** • [Seatbelt reminder defeat clips continue to be sold under alternative names on Indian e-commerce](articles/B202610221/)
 
 | | | |
 | --- | --- | --- |
-| [![Banner](articles/N202610071/banner.png)](articles/N202610071/)07.10.2026 **NOTICE** • [Honda fails to 'Elevate' rear seatbelt reminder in facelifted SUV](articles/N202610071/) | [![Banner](articles/N202609301/banner.png)](articles/N202609301/)30.09.2026 **NOTICE** • [Tata Aeris' rear seatbelt reminder awarded FAIL in #WhatTheBeep evaluation](articles/N202609301/) | [![Banner](articles/N202609291/banner.png)](articles/N202609291/)29.09.2026 **NOTICE** • [No Excuses: Mahindra BOLERO NEO PLUS gains intelligent rear seatbelt reminder](articles/N202609291/) |
+| [![Banner](articles/N202610151/banner.png)](articles/N202610151/)15.10.2026 **NOTICE** • [New Toyota GLANZA's poor rear seatbelt reminder receives FAIL in new #WhatTheBeep evaluation](articles/N202610151/) | [![Banner](articles/N202610071/banner.png)](articles/N202610071/)07.10.2026 **NOTICE** • [Honda fails to 'Elevate' rear seatbelt reminder in facelifted SUV](articles/N202610071/) | [![Banner](articles/N202609301/banner.png)](articles/N202609301/)30.09.2026 **NOTICE** • [Tata Aeris' rear seatbelt reminder awarded FAIL in #WhatTheBeep evaluation](articles/N202609301/) |
 
 [View more](articles/)
 
