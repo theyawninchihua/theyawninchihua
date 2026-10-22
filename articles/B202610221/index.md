@@ -11,11 +11,11 @@ twitter_card:
 
 ![Banner image for blog post](banner.png)
 
-Three years after the CCPA directed e-commerce platforms to delist them, clips to defeat the seatbelt reminder system in vehicles are still being sold by major online retailers in India under alternative names, a series of searches by the Yawning Chihuahua reveals.
+Three years after the CCPA directed e-commerce platforms to delist them, clips to defeat the seatbelt reminder system in vehicles are still being sold by major online retailers in India under alternative names, a series of searches by The Yawning Chihuahua reveals.
 
 In May 2023, [the Central Consumer Protection Authority (CCPA) directed](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1923591&lang=2&reg=48) major e-commerce platforms to permanently delist seatbelt alarm stopper clips and associated components that compromise passenger safety. Seatbelt reminder defeat clips not only prevent the functioning of the seatbelt reminder system, but also require drivers and passengers to first remove the clip before they can fasten their seatbelt normally.
 
-## Searches reveal the clips still on sale
+## Searches reveal the clips are still on sale
 The Yawning Chihuahua conducted searches on major e-commerce platforms in India for seatbelt reminder defeat clips, using terms such as "seatbelt alarm clip", "seatbelt sound stopper" and more. The searches returned products that appeared capable of defeating the seatbelt reminder, although their listings did not describe them as alarm-stopper clips.
 
 ### Clips sold under unrelated inconspicuous names
