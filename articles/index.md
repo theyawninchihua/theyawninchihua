@@ -7,6 +7,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202610271/banner.png)](N202610271/)
+27.10.2026 **NOTICE** • [Ahead of AEB mandate for Indian cars, simple safety features like rear seatbelt reminders still have room for improvement](N202610271/)
+
+
 [![Banner](B202610221/banner.png)](B202610221/)
 22.10.2026 **BLOG POST** • [Seatbelt reminder defeat clips continue to be sold under alternative names on India's e-commerce platforms](B202610221/)
 
