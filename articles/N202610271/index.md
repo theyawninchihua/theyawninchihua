@@ -15,13 +15,13 @@ New Indian cars [might soon be required](https://www.autocarindia.com/industry/m
 
 In the latest release of [#WhatTheBeep](../../whatthebeep/) results, the rear seatbelt reminders of two new cars, the [Hyundai BAYON](../../whatthebeep/2026-10-27-BAYON-HX215MPI/) and [Mahindra THAR OG](../../whatthebeep/2026-10-27-THAROG-AXTRWD3door/), have been evaluated based on desktop research.
 
-## Hyundai BAYON fails to chime at most unbelted rear occupants
+## Hyundai's brand new Bayon fails to chime at most unbelted rear occupants
 
 Inspection of the new [Hyundai BAYON](../../whatthebeep/2026-10-27-BAYON-HX215MPI/)'s documentation shows that, while it has a rear seatbelt reminder, its audible signal relies solely on change of belt status, starting only when a rear passenger who is *already wearing a seatbelt* unfastens it. Documentation for its visual signal (not assessed under #WhatTheBeep) also reveals that the [BAYON](../../whatthebeep/2026-10-27-BAYON-HX215MPI/)'s seatbelt reminder does not have any meaningful occupant detection.
 
 The [BAYON](../../whatthebeep/2026-10-27-BAYON-HX215MPI/) hence fails two of the four [#WhatTheBeep](../../whatthebeep/) testcases, earning a <span style="color: red;">**FAIL**</span>.
 
-## Mahindra THAR OG audibly reminds unbelted rear occupants
+## Mahindra Thar OG audibly reminds unbelted rear occupants
 
 Documentation for the [Mahindra THAR OG](../../whatthebeep/2026-10-27-THAROG-AXTRWD3door/) reveals that it has occupant detection sensors in its rear seats, and starts its audible signal when a rear passenger is occupying a seat and hasn't fastened their seatbelt. This behaviour closely mirrors the now-discontinued [THAR](../../whatthebeep/2026-04-04-THAR-AXTRWD3door/) evaluated earlier in the year, of which the [THAR OG](../../whatthebeep/2026-10-27-THAROG-AXTRWD3door/) is a facelift.
 
