@@ -14,6 +14,7 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 ## All evaluations
 
+- 30.10.26 [Maruti Suzuki GRAND VITARA](2026-10-30-GRANDVITARA-DeltaSCNG/) — **<span style="color: red;">FAIL</span>**
 - 27.10.26 [Mahindra THAR OG (*)](2026-10-27-THAROG-AXTRWD3door/) — **<span style="color: green;">PASS</span>**
 - 27.10.26 [Hyundai BAYON (*)](2026-10-27-BAYON-HX215MPI/) — **<span style="color: red;">FAIL</span>**
 - 15.10.26 [Toyota GLANZA (*)](2026-10-15-GLANZA-E/) — **<span style="color: red;">FAIL</span>**

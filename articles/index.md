@@ -7,6 +7,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202610301/banner.png)](N202610301/)
+30.10.2026 **NOTICE** • [Grand Vitara fails #WhatTheBeep.](N202610301/)
+
+
 [![Banner](N202610271/banner.png)](N202610271/)
 27.10.2026 **NOTICE** • [Ahead of AEB mandate for Indian cars, simple safety features like rear seatbelt reminders still have room for improvement](N202610271/)
 
