@@ -95,7 +95,7 @@ def main():
         list_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/\">{e['title']}</a><br>")
         color = 'green' if e['result'] == 'PASS' else 'red'
         markdown_lines.append(
-            f"- {e['display_date']} [{e['title']}]({e['dirname']}/) — **<span style=\"color: {color};\">{e['result']}</span>**"
+            f"<span style=\"font-family: monospace;\">{e['display_date']}</span> [**<span style=\"font-family: monospace; color: {color};\">{e['result']}</span>**] [{e['title']}]({e['dirname']}/)\n"
         )
 
     list_html = "\n        ".join(list_lines)
