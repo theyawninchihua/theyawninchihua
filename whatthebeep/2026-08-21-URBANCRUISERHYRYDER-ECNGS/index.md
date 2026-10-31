@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 20 August 2026                                               |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Toyota Urban Cruiser Hyryder S MT CNG                        |
-| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
+| SOURCE             | Uber Black                                                   |
 | REGISTRATION DATE  | 9 December 2024                                              |
 
 <!-- KA051AK8591 -->

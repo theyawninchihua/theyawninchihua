@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 29 October 2026                                              |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Maruti Grand Vitara CNG                                      |
-| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
+| SOURCE             | Uber Black                                                   |
 | REGISTRATION DATE  | 18 October 2026                                              |
 
 <!-- KA03AR1578 -->

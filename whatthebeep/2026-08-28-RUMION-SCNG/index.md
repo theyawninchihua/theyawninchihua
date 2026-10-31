@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 27 August 2026                                               |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Toyota Rumion S MT CNG                                       |
-| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
+| SOURCE             | Uber Premier                                                 |
 | REGISTRATION DATE  | 3 March 2026                                                 |
 
 <!-- KA03AP9916 -->

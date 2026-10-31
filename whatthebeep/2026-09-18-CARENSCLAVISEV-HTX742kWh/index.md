@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 16 September 2026                                            |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Kia Carens Clavis EV HTX 7                                   |
-| REGISTRATION       | (masked in the interest of protecting operator privacy)      |
+| SOURCE             | Yellow Airport Taxi                                          |
 | REGISTRATION DATE  | 11 December 2025                                             |
 
 <!-- KA51AM0786 -->

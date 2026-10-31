@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 12 September 2026                                            |
 | TEST LOCATION      | Goa                                                          |
 | MODEL              | Toyota Innova Hycross ZX 2.0L Hybrid without TSS option pack |
-| REGISTRATION       | (masked in the interest of protecting owner privacy)         |
+| SOURCE             | personal                                                     |
 | REGISTRATION DATE  | 15 November 2023                                             |
 
 <!-- GA07N9945 -->

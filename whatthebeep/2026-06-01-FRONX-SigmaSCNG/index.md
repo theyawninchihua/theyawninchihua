@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 31 May 2026                                                  |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Maruti Fronx CNG                                             |
-| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
+| SOURCE             | Uber Premier                                                 |
 | REGISTRATION DATE  | not available                                                |
 
 <!-- KA07AQ1756 -->

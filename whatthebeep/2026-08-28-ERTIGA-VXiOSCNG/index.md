@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 27 August 2026                                               |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Maruti Suzuki Ertiga VXi(O) CNG MT                           |
-| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
+| SOURCE             | Uber XL                                                      |
 | REGISTRATION DATE  | 28 March 2025                                                |
 
 <!-- KA28AB5183 -->

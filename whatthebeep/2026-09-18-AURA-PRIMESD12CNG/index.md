@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 17 September 2026                                            |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Hyundai Prime SD CNG                                         |
-| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
+| SOURCE             | Rapido Cab Premium                                           |
 | REGISTRATION DATE  | 24 March 2026                                                |
 
 <!-- KA51AM4970 -->

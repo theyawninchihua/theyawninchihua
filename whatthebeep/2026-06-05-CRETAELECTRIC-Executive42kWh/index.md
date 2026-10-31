@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 4 June 2026                                                  |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Hyundai New Creta EV Executive                               |
-| REGISTRATION       | (masked in the interest of protecting operator privacy)      |
+| SOURCE             | Quick Ride                                                   |
 | REGISTRATION DATE  | 6 June 2025                                                  |
 
 <!-- KA05AQ7214 -->

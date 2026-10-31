@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 9 September 2026                                             |
 | TEST LOCATION      | Goa                                                          |
 | MODEL              | Hyundai Verna (4th-gen pre-facelift) SX(O) 1.5 MPI IVT       |
-| REGISTRATION       | (masked in the interest of protecting owner privacy)         |
+| SOURCE             | personal                                                     |
 | REGISTRATION DATE  | 26 April 2025                                                |
 
 <!-- GA07P9945 -->

@@ -37,7 +37,7 @@ in-person testing
 | TEST DATE          | 24 May 2026                                                  |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Maruti WagonR Tour H3 CNG                                    |
-| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
+| SOURCE             | Uber Go                                                      |
 | REGISTRATION DATE  | 13 June 2025                                                 |
 
 <!-- KA01AN8298 -->
