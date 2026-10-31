@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Toyota Urban Cruiser Hyryder S MT CNG                        |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 9 December 2024                                              |
+
 <!-- KA051AK8591 -->
 
 **NOTE:** The Urban Cruiser Hyryder on sale at the time of publication includes [minor specification upgrades in April 2025](https://www.toyotabharat.com/news/2025/urban-cruiser-hyryder-elevates-mobility-experience-with-advanced-feature-enhancements.html), which are not included on the test car. However, comparison of the [tested model's owners' manual](https://ownersmanual-media.toyotabharat.com/urban-cruiser-hyryder-om-april-2025-v2.pdf) with the latest suggests no meaningful changes were made to the operation of the rear seatbelt reminder.

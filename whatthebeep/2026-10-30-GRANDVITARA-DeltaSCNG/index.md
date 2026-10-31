@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Maruti Grand Vitara CNG                                      |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 18 October 2026                                              |
+
 <!-- KA03AR1578 -->
 
 ### Video

@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | MG ZS EV Executive                                           |
 | REGISTRATION       | (masked in the interest of protecting operator privacy)      |
 | REGISTRATION DATE  | 30 October 2024                                              |
+
 <!-- KA01AQ7298 -->
 
 ### Video

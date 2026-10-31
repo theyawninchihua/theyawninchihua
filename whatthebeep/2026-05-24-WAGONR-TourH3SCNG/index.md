@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Maruti WagonR Tour H3 CNG                                    |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 13 June 2025                                                 |
+
 <!-- KA01AN8298 -->
 
 ### Video

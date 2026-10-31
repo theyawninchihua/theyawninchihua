@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Maruti Suzuki Ertiga VXi(O) CNG MT                           |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 28 March 2025                                                |
+
 <!-- KA28AB5183 -->
 
 **NOTE:** The Ertiga on sale at the time of publication includes minor cosmetic and specification upgrades in July 2025, which are not included on the test car. However, comparison of the [tested model's owners' manual](https://marutistoragenew.blob.core.windows.net/msilintiwebpdf/ERTIGA-99011M72R14-74W_Final-OM.pdf) with the latest suggests no changes were made to the operation of the rear seatbelt reminder.

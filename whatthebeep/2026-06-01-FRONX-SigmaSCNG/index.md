@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Maruti Fronx CNG                                             |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | not available                                                |
+
 <!-- KA07AQ1756 -->
 
 ### Video

@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Kia Carens Clavis EV HTX 7                                   |
 | REGISTRATION       | (masked in the interest of protecting operator privacy)      |
 | REGISTRATION DATE  | 11 December 2025                                             |
+
 <!-- KA51AM0786 -->
 
 ### Video

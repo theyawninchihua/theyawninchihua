@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Toyota Rumion S MT CNG                                       |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 3 March 2026                                                 |
+
 <!-- KA03AP9916 -->
 
 ### Video

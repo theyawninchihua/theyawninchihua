@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Maruti Dzire (4th-gen) Tour S CNG                            |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 31 January 2026                                              |
+
 <!-- KA01AT1808 -->
 
 ### Video

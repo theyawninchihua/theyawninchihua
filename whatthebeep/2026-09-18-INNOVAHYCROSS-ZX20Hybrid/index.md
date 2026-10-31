@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Toyota Innova Hycross ZX 2.0L Hybrid without TSS option pack |
 | REGISTRATION       | (masked in the interest of protecting owner privacy)         |
 | REGISTRATION DATE  | 15 November 2023                                             |
+
 <!-- GA07N9945 -->
 
 **NOTE:** The Innova Hycross on sale at the time of publication includes [minor cosmetic and specification upgrades in March 2025](https://www.team-bhp.com/news/toyota-innova-hycross-now-gets-acoustic-vehicle-warning-system), which are not included on the test car. However, comparison of the [tested model's owners' manual](https://ownersmanual-media.toyotabharat.com/innova-hycross-hybrid-om-jan-2023.pdf) with the latest suggests no changes were made to the operation of the rear seatbelt reminder.

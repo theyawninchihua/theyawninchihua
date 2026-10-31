@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Hyundai New Creta EV Executive                               |
 | REGISTRATION       | (masked in the interest of protecting operator privacy)      |
 | REGISTRATION DATE  | 6 June 2025                                                  |
+
 <!-- KA05AQ7214 -->
 
 ### Video

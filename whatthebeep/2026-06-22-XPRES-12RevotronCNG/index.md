@@ -39,6 +39,7 @@ in-person testing
 | MODEL              | Tata Xpres CNG                                               |
 | REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 20 April 2026                                                |
+
 <!-- KA688027 -->
 
 ### Video
