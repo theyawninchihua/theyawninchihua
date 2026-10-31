@@ -19,9 +19,13 @@ title: "Home"
 
 ## Latest #WhatTheBeep results
 
-- 30.10.26 [Maruti Suzuki GRAND VITARA](whatthebeep/2026-10-30-GRANDVITARA-DeltaSCNG/) — **<span style="color: red;">FAIL</span>**
-- 27.10.26 [Mahindra THAR OG (*)](whatthebeep/2026-10-27-THAROG-AXTRWD3door/) — **<span style="color: green;">PASS</span>**
-- 27.10.26 [Hyundai BAYON (*)](whatthebeep/2026-10-27-BAYON-HX215MPI/) — **<span style="color: red;">FAIL</span>**
-- 15.10.26 [Toyota GLANZA (*)](whatthebeep/2026-10-15-GLANZA-E/) — **<span style="color: red;">FAIL</span>**
+<span style="font-family: monospace;">30.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki GRAND VITARA](whatthebeep/2026-10-30-GRANDVITARA-DeltaSCNG/)
+
+<span style="font-family: monospace;">27.10.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra THAR OG (*)](whatthebeep/2026-10-27-THAROG-AXTRWD3door/)
+
+<span style="font-family: monospace;">27.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai BAYON (*)](whatthebeep/2026-10-27-BAYON-HX215MPI/)
+
+<span style="font-family: monospace;">15.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Toyota GLANZA (*)](whatthebeep/2026-10-15-GLANZA-E/)
+
 
 [View more](whatthebeep/)
