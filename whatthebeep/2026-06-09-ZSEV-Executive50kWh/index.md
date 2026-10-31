@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 8 June 2026                                                  |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | MG ZS EV Executive                                           |
-| REGISTRATION       | KA01AQ7298                                                   |
+| REGISTRATION       | (masked in the interest of protecting operator privacy)      |
 | REGISTRATION DATE  | 30 October 2024                                              |
+<!-- KA01AQ7298 -->
 
 ### Video
 

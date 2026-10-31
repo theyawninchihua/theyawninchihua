@@ -37,7 +37,7 @@ title: "Datasheet for #WhatTheBeep Protocol"
   All of the following must be satisfied for an in-person test to be considered a valid information source for an evaluation:
   - 3.2.1.1. The Yawning Chihuahua has obtained access to a unit of the exact make and model of vehicle being evaluated.
   - 3.2.1.2. Either, at the time of publication, there have been no changes to the model since the unit obtained was registered, or The Yawning Chihuahua obtains and publishes confirmation (e.g. by comparing documentation) that regardless of cosmetic or specficication changes, the rear seatbelt reminder behaviour of the unit obtained is identical to that of units on sale at the time of publication.
-  - 3.2.1.3. The Yawning Chihuahua is able to record, and publishes, an identifying detail of the unit obtained, e.g. registration number or VIN.
+  - 3.2.1.3. The Yawning Chihuahua is able to record an identifying detail of the unit obtained, e.g. registration number or VIN. The ability to publish this detail is not required.
   - 3.2.1.4. The Yawning Chihuahua is able to film all #WhatTheBeep testcase scenarios being performed physically on the car, with "sufficiently clear" audio and video.
 
   In this case, the #WhatTheBeep testcase outcomes are determined by observing the status of the audible warning in the film in the four testcases.

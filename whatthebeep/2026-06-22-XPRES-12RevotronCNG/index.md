@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 20 June 2026                                                 |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Tata Xpres CNG                                               |
-| REGISTRATION       | KA688027                                                     |
+| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 20 April 2026                                                |
+<!-- KA688027 -->
 
 ### Video
 

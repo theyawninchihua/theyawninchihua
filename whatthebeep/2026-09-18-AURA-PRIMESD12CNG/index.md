@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 17 September 2026                                            |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Hyundai Prime SD CNG                                         |
-| REGISTRATION       | KA51AM4970                                                   |
+| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 24 March 2026                                                |
+<!-- KA51AM4970 -->
 
 ### Video
 

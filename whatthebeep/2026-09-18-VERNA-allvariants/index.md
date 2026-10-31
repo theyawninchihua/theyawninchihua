@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 9 September 2026                                             |
 | TEST LOCATION      | Goa                                                          |
 | MODEL              | Hyundai Verna (4th-gen pre-facelift) SX(O) 1.5 MPI IVT       |
-| REGISTRATION       | GA07P9945                                                    |
+| REGISTRATION       | (masked in the interest of protecting owner privacy)         |
 | REGISTRATION DATE  | 26 April 2025                                                |
+<!-- GA07P9945 -->
 
 **NOTE:** The Verna on sale at the time of publication includes minor cosmetic and specification upgrades in April 2026, which are not included on the test car. However, comparison of the [tested model's owners' manual](https://www.hyundai.com/content/dam/hyundai/in/en/data/connect-to-service/owners-manual/2025/verna-from-mar-2023-to-mar-2026.pdf) with the latest suggests no changes were made to the operation of the rear seatbelt reminder. The variant tested has been discontinued at the time of publication, however, the owners' manual indicates no difference in behaviour across variants.
 

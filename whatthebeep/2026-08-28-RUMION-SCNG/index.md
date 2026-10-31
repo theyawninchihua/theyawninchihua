@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 27 August 2026                                               |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Toyota Rumion S MT CNG                                       |
-| REGISTRATION       | KA03AP9916                                                   |
+| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 3 March 2026                                                 |
+<!-- KA03AP9916 -->
 
 ### Video
 

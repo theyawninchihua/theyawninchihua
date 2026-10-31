@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 29 October 2026                                              |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Maruti Grand Vitara CNG                                      |
-| REGISTRATION       | KA03AR1578                                                   |
+| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 18 October 2026                                              |
+<!-- KA03AR1578 -->
 
 ### Video
 

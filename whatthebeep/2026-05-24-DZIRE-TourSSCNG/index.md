@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 23 May 2026                                                  |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Maruti Dzire (4th-gen) Tour S CNG                            |
-| REGISTRATION       | KA01AT1808                                                   |
+| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | 31 January 2026                                              |
+<!-- KA01AT1808 -->
 
 ### Video
 

@@ -37,8 +37,9 @@ in-person testing
 | TEST DATE          | 31 May 2026                                                  |
 | TEST LOCATION      | Bengaluru                                                    |
 | MODEL              | Maruti Fronx CNG                                             |
-| REGISTRATION       | KA07AQ1756                                                   |
+| REGISTRATION       | (masked in the interest of protecting driver privacy)        |
 | REGISTRATION DATE  | not available                                                |
+<!-- KA07AQ1756 -->
 
 ### Video
 
