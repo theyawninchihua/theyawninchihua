@@ -19,7 +19,7 @@ Mahindra have demonstrated in previous #WhatTheBeep evaluations that, when they 
 
 In-person testing revealed that the [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/) does not have a rear seatbelt reminder, confirmed by inspection of its user manual and brochure.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v0t6KQEfjKY?si=D0f_IU5qSvqDx1sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6lZsqw3XvEk?si=bJNnfgTkUPwbm3nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/)
 **Behaviour of second-level warning in the 2nd-row outboard seats**
