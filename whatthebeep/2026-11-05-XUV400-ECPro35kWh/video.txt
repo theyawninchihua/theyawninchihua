@@ -5,11 +5,11 @@ car.png
 EC Pro 35 kWh
 NO
 ../video_elements/tests/WTB051126MXU1/1.MOV
-YES
+NO
 ../video_elements/tests/WTB051126MXU1/2.MOV
 NO
 ../video_elements/tests/WTB051126MXU1/3.MOV
-YES
+NO
 ../video_elements/tests/WTB051126MXU1/4.MOV
 film.mp4
 ../video_elements/intro.mp3

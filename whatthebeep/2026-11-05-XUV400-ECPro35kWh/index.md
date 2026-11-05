@@ -44,7 +44,7 @@ in-person testing
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v0t6KQEfjKY?si=D0f_IU5qSvqDx1sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6lZsqw3XvEk?si=bJNnfgTkUPwbm3nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Manual URL
 [link to manufacturer website](https://mvault-cloudfront.mahindra.com/2025/08/26/Owners-Manuals/XUV400/xuv400-owners-manual.html)
