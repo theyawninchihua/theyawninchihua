@@ -7,6 +7,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202611051/banner.png)](N202611051/)
+05.11.2026 **NOTICE** • [Mahindra XUV400 remains on sale without rear seatbelt reminder](N202611051/)
+
+
 [![Banner](N202610301/banner.png)](N202610301/)
 30.10.2026 **NOTICE** • [Grand Vitara fails #WhatTheBeep.](N202610301/)
 

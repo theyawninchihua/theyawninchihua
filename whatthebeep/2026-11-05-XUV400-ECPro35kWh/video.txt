@@ -1,0 +1,15 @@
+Mahindra XUV400
+WTB051126MXU1
+car.png
+05.11.26
+EC Pro 35 kWh
+NO
+../video_elements/tests/WTB051126MXU1/1.MOV
+YES
+../video_elements/tests/WTB051126MXU1/2.MOV
+NO
+../video_elements/tests/WTB051126MXU1/3.MOV
+YES
+../video_elements/tests/WTB051126MXU1/4.MOV
+film.mp4
+../video_elements/intro.mp3
