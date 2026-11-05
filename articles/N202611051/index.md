@@ -11,13 +11,15 @@ twitter_card:
 
 ![Banner](banner.png)
 
-The [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/) has been awarded **<span style="color: red;">FAIL</span>** in a new [#WhatTheBeep seatbelt reminder evaluation](../../whatthebeep/).
+The [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/) electric SUV has been awarded **<span style="color: red;">FAIL</span>** in a new [#WhatTheBeep seatbelt reminder evaluation](../../whatthebeep/).
 
-Mahindra have demonstrated in previous #WhatTheBeep evaluations that, when they do fit rear seatbelt reminders to their models, they are proper systems with occupant detection and timely audible warnings. It remains a disappointment that the XUV400, popular in premium fleets, continues to be sold without any form of rear seatbelt reminder.
+Mahindra have demonstrated in previous #WhatTheBeep evaluations that, when they do fit rear seatbelt reminders to their models, they are proper systems with occupant detection and timely audible warnings. It remains a disappointment that the XUV400 continues to be sold without any form of rear seatbelt reminder.
+
+Mahindra will eventually be required to fit a rear seatbelt reminder to the XUV400 if they wish to continue selling it, as regulations will begin to require it in existing models and not only newly homologated ones. The Yawning Chihuahua urges Mahindra to not wait for regulatory pressure to fit this important safety feature, particularly in a model that can be expected to have higher rear-seat occupancy due to its popularity in premium fleets.
 
 ## Mahindra XUV400 evaluation explained
 
-In-person testing revealed that the [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/) does not have a rear seatbelt reminder, confirmed by inspection of its user manual and brochure.
+In-person testing revealed that the [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/) does not have a rear seatbelt reminder, confirmed by in-person testing of a 2024 unit and inspection of its user manual and brochure to confirm the equipment level holds for the model currently on sale.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lZsqw3XvEk?si=bJNnfgTkUPwbm3nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
