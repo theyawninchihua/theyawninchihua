@@ -15,7 +15,7 @@ The [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/) electric 
 
 Mahindra have demonstrated in previous #WhatTheBeep evaluations that, when they do fit rear seatbelt reminders to their models, they are proper systems with occupant detection and timely audible warnings. It remains a disappointment that the XUV400 continues to be sold without any form of rear seatbelt reminder.
 
-Mahindra will eventually be required to fit a rear seatbelt reminder to the XUV400 if they wish to continue selling it, as regulations will begin to require it in existing models and not only newly homologated ones. The Yawning Chihuahua urges Mahindra to not wait for regulatory pressure to fit this important safety feature, particularly in a model that can be expected to have higher rear-seat occupancy due to its popularity in premium fleets.
+Mahindra will eventually be required to fit a rear seatbelt reminder to the XUV400 if they wish to continue selling it, as regulations will begin to require it in existing models and not only newly homologated ones. The Yawning Chihuahua hopes Mahindra will not wait for regulatory pressure to fit this important safety feature, particularly in a model that can be expected to have higher rear-seat occupancy due to its popularity in premium fleets.
 
 ## Mahindra XUV400 evaluation explained
 
