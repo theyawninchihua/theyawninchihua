@@ -121,6 +121,16 @@ Simply put, with respect to an unbelted occupant in the rear outboard seats, the
 
 The criteria are formally defined in the [#WhatTheBeep protocol](protocol.html).
 
+### What cars are selected for evaluation?
+In general most cars on sale on the Indian market are *eligible* for #WhatTheBeep evaluation, subject to meeting basic sanity criteria defined in the [#WhatTheBeep protocol](protocol.html).
+
+However, in practice, the following vehicles are being treated as a priority:
+- Vehicles with a recent launch, facelift, or change to rear seatbelt reminder availability or behaviour
+- Vehicles opportunistically ridden by The Yawning Chihuahua e.g. taxis
+- Vehicles [requested by anyone](mailto:theyawningchihuahua@gmail.com) who is not affiliated with an automotive component supplier or competing vehicle manufacturer</li>
+
+You may find [here an informal list of models](https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing) The Yawning Chihuahua is actively looking to evaluate, without guarantees of completeness or soundness.
+
 ### I would like to report on #WhatTheBeep, should I know anything?
 
 Thank you for your interest!

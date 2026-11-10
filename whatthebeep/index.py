@@ -139,6 +139,16 @@ Simply put, with respect to an unbelted occupant in the rear outboard seats, the
 
 The criteria are formally defined in the [#WhatTheBeep protocol](protocol.html).
 
+### What cars are selected for evaluation?
+In general most cars on sale on the Indian market are *eligible* for #WhatTheBeep evaluation, subject to meeting basic sanity criteria defined in the [#WhatTheBeep protocol](protocol.html).
+
+However, in practice, the following vehicles are being treated as a priority:
+- Vehicles with a recent launch, facelift, or change to rear seatbelt reminder availability or behaviour
+- Vehicles opportunistically ridden by The Yawning Chihuahua e.g. taxis
+- Vehicles [requested by anyone](mailto:theyawningchihuahua@gmail.com) who is not affiliated with an automotive component supplier or competing vehicle manufacturer</li>
+
+You may find [here an informal list of models](https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing) The Yawning Chihuahua is actively looking to evaluate, without guarantees of completeness or soundness.
+
 ### I would like to report on #WhatTheBeep, should I know anything?
 
 Thank you for your interest!
@@ -194,6 +204,18 @@ Kindly avoid reporting using language that suggests #WhatTheBeep is intended to 
         Simply put, with respect to an unbelted occupant in the rear outboard seats, the car should <b>beep <a href="https://en.wikipedia.org/wiki/If_and_only_if">if and only if</a> an occupant is sitting in the seat and is not belted.</b><br><br>
         
         The criteria are formally defined in the <a href="protocol.html">#WhatTheBeep protocol</a>. 
+
+        <h3>What cars are selected for evaluation?</h3>
+        In general most cars on the Indian market are <i>eligible</i> for #WhatTheBeep evaluation, subject to meeting basic sanity criteria defined in the <a href="protocol.html">#WhatTheBeep protocol</a>.
+
+        However, in practice, the following vehicles are being treated as a priority:
+        <ul>
+            <li>Vehicles with a recent launch, facelift, or change to rear seatbelt reminder availability or behaviour</li>
+            <li>Vehicles opportunistically ridden by The Yawning Chihuahua</li>
+            <li>Vehicles <a href="mailto:theyawningchihuahua@gmail.com">requested by anyone</a> who is not affiliated with an automotive component supplier or competing vehicle manufacturer</li>
+        </ul>
+
+        You may find <a href="https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing">here an informal list of models</a> The Yawning Chihuahua is actively looking to evaluate.
         
         <h3>I would like to report on #WhatTheBeep, should I know anything?</h3>
         Thank you for your interest! You may include the following blurb or equivalent: <i>#WhatTheBeep is an <b>informal, independent</b> consumer information project focusing on the behaviour of rear seatbelt reminders in Indian cars.</i><br><br>
