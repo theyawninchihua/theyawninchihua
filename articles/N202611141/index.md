@@ -25,9 +25,10 @@ A side-by-side comparison of documentation for the India-spec [S-CLASS](../../wh
 
 |   | British-market S-CLASS | India-spec S-CLASS |
 | - | ---------------------- | ------------------ |
-| Rear seatbelt reminder | Yes | Yes |
-| Rear occupant detection | Yes | No |
-| Final signal activates when... | "the adult in the rear seat is not wearing a seat belt" | "the person in rear seat has *unfastened* their seatbelt" |
+| | ![Maybach S-Class with British flag](SCLASS_UK.png) | ![Maybach S-Class with Indian flag](SCLASS_IN.png) |
+| Rear seatbelt reminder | **<span style="color: green;">YES</span>** | **<span style="color: green;">YES</span>** |
+| Rear occupant detection | **<span style="color: green;">YES</span>** | **<span style="color: red;">NO</span>** |
+| Second-level signal activates when... | "the adult in the rear seat is <span style="color: green;">not wearing a seat belt</span>" | "the person in the rear seat <span style="color: red;">has *unfastened* their seatbelt</span>" |
 | Documentation | ![https://www.mercedes-benz.co.uk/passengercars/owners-manuals/en-gb/pdf/mercedes-maybach-s-class-saloon-2026-december-z223-mbux-owners-manual-1.pdf](SCLASS_UK_SBR.png) | ![https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-maybach-s-class-saloon-2026-december-z223-mbux-owners-manual-1.pdf](SCLASS_IN_SBR.png)|
 
 
