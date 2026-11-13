@@ -105,7 +105,7 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 <span style="font-family: monospace;">03.04.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra XUV 7XO (*)](2026-04-03-XUV7XO-AX/)
 
-<span style="font-family: monospace;">03.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Renault DUSTER (*)](2026-04-03-DUSTER-authentic-TCe100/)
+<span style="font-family: monospace;">03.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Renault DUSTER (*)](2026-04-03-DUSTER-authenticTCe100/)
 
 <span style="font-family: monospace;">03.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai EXTER (*)](2026-04-03-EXTER-HX212Kappa2/)
 
