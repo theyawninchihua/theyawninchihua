@@ -146,7 +146,7 @@ Most car models on sale on the Indian market are *eligible* (see [#WhatTheBeep p
 If you would like a specific model to be considered for evaluation, please [send a request](mailto:theyawningchihuahua@gmail.com) to The Yawning Chihuahua. Please note that this does not guarantee the model will be evaluated.
 - Requests from persons professionally affiliated with automotive component suppliers or competing vehicle manufacturers will be ignored.
 
-You can keep track of the tentative status of upcoming results [in this spreadsheet](https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing).
+You can keep track of the tentative status of upcoming evaluations [in this spreadsheet](https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing).
 
 ### I would like to report on #WhatTheBeep, should I know anything?
 
