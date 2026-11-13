@@ -37,7 +37,7 @@ Luxury car occupants are not immune to the consequences of not wearing a seatbel
 ### S-Class joins growing list of global models with downgraded rear seatbelt reminders for India
 The [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) is not the first global model revealed by [#WhatTheBeep](../../whatthebeep/) to have had its rear seatbelt reminder downgraded for India.
 
-Other examples of models evaluated by #WhatTheBeep with inferior rear seatbelt reminders in India than other markets include:
+Other examples of models evaluated by #WhatTheBeep with inferior rear seatbelt reminders in India than in other markets include:
 - [Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/)
     - see side-by-side comparison of [Indian and Australian models](../N202609091/)
 - [Honda ZR-V e:HEV](../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/)
@@ -49,13 +49,15 @@ Other examples of models evaluated by #WhatTheBeep with inferior rear seatbelt r
 - [Suzuki FRONX](../../whatthebeep/2026-06-01-FRONX-SigmaSCNG/) (see [article](../N202606011/banner.png))
 
 ## Tata achieves **<span style="color: green;">PASS</span>** with enhanced system in SIERRA.EV
-One such example, the [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/), today receives a **<span style="color: green;">PASS</span>** for its rear seatbelt reminder system. Documentation reveals in multiple places that its rear seatbelt reminder starts its final **audio signal above a certain speed if an occupant is detected whose belt is not fastened**.
+In more positive news, the [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/) receives a **<span style="color: green;">PASS</span>** from [#WhatTheBeep](../../whatthebeep/) for its rear seatbelt reminder system. Documentation reveals in multiple places that its rear seatbelt reminder starts its final **audio signal above a certain speed if an occupant is detected whose belt is not fastened**.
 
 > **NOTE**  
 > The evaluation is not valid for the related combustion-powered Tata SIERRA
 
 ## Evaluation confirmed for new hybrid Renault DUSTER E-TECH
 The [Renault DUSTER E-TECH](../../whatthebeep/2026-11-14-DUSTERETECH-evolutionETech160/) receives a **<span style="color: red;">FAIL</span>**, mirroring its petrol-powered namesake [evaluated earlier this year](../N202604031/).
+
+---
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
