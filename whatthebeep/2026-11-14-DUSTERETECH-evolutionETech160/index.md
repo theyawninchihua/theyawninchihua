@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Datasheet for Renault DUSTER E-TECH #WhatTheBeep Evaluation 27.11.26"
+title: "Datasheet for Renault DUSTER E-TECH #WhatTheBeep Evaluation 14.11.26"
 ---
 
 # Renault DUSTER E-TECH
 
-### evolution E-Tech 160 • Evaluated on 27.11.26
+### evolution E-Tech 160 • Evaluated on 14.11.26
 
 # <span style="color: red;">**FAIL**</span>
 

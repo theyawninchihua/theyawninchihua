@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Datasheet for Tata SIERRA.EV #WhatTheBeep Evaluation 27.11.26"
+title: "Datasheet for Tata SIERRA.EV #WhatTheBeep Evaluation 14.11.26"
 ---
 
 # Tata SIERRA.EV
 
-### Pure 63 kWh RWD • Evaluated on 27.11.26
+### Pure 63 kWh RWD • Evaluated on 14.11.26
 
 # <span style="color: green;">**PASS**</span>
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Datasheet for Mercedes-Maybach S-CLASS #WhatTheBeep Evaluation 27.11.26"
+title: "Datasheet for Mercedes-Maybach S-CLASS #WhatTheBeep Evaluation 14.11.26"
 ---
 
 # Mercedes-Maybach S-CLASS
 
-### S 580 e • Evaluated on 27.11.26
+### S 580 e • Evaluated on 14.11.26
 
 # <span style="color: red;">**FAIL**</span>
 
