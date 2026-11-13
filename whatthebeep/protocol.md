@@ -56,7 +56,7 @@ title: "#WhatTheBeep Protocol"
 
 ## 4. Requirements
 
-## 4.1 Result determination
+## 4.1 Result calculation
 The result of an evaluation is deemed to be <span style="color: green;">**PASS**</span> if, based on a valid information source for that evaluation, the outcomes in *all* of the scenarios defined in 4.2 (#WhatTheBeep Testcases) match the corresponding expected outcomes; otherwise, the result is considered <span style="color: red;">**FAIL**</span>:
 
 ## 4.2 #WhatTheBeep Testcases
