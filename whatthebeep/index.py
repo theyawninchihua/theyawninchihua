@@ -115,6 +115,7 @@ description: "Evaluations of the rear seatbelt reminders in Indian cars."
 
 The Yawning Chihuahua is informally and independently evaluating the rear seatbelt reminders of Indian cars.
 
+[Upcoming and planned evaluations](https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing)  
 [Suggest a vehicle for evaluation / Report an error](mailto:theyawningchihuahua@gmail.com)
 
 ## All evaluations
@@ -139,15 +140,13 @@ Simply put, with respect to an unbelted occupant in the rear outboard seats, the
 
 The criteria are formally defined in the [#WhatTheBeep protocol](protocol.html).
 
-### What cars are selected for evaluation?
-In general most cars on sale on the Indian market are *eligible* for #WhatTheBeep evaluation, subject to meeting basic sanity criteria defined in the [#WhatTheBeep protocol](protocol.html).
+### How are cars selected for evaluation?
+Most car models on sale on the Indian market are *eligible* (see [#WhatTheBeep protocol](protocol.html)), but due to time constraints, evaluation is being prioritised for car models recently launched, facelifted, or updated, as well as cars ridden by The Yawning Chihuahua from time to time (e.g. taxis).
 
-However, in practice, the following vehicles are being treated as a priority:
-- Vehicles with a recent launch, facelift, or change to rear seatbelt reminder availability or behaviour
-- Vehicles opportunistically ridden by The Yawning Chihuahua e.g. taxis
-- Vehicles [requested by anyone](mailto:theyawningchihuahua@gmail.com) who is not affiliated with an automotive component supplier or competing vehicle manufacturer</li>
+If you would like a specific model to be considered for evaluation, please [send a request](mailto:theyawningchihuahua@gmail.com) to The Yawning Chihuahua. Please note that this does not guarantee the model will be evaluated.
+- Requests from persons professionally affiliated with automotive component suppliers or competing vehicle manufacturers will be ignored.
 
-You may find [here an informal list of models](https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing) The Yawning Chihuahua is actively looking to evaluate, without guarantees of completeness or soundness.
+You can keep track of the tentative status of upcoming results [in this spreadsheet](https://docs.google.com/spreadsheets/d/1RCfIJbFmR5sRykJXorApUplgAejMV6CEHmzVpPRvpYM/edit?usp=sharing).
 
 ### I would like to report on #WhatTheBeep, should I know anything?
 
