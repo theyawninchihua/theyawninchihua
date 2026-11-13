@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "'Ghost' beeps from new Tata XPRES' rear seatbelt reminder earn it FAIL in #WhatTheBeep evaluation"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202606221/banner.png
 ---
 
 **22.06.2026**

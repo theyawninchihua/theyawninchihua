@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "FAIL for Ertiga and Rumion's sad excuse for a rear seatbelt reminder — #WhatTheBeep"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202608281/banner.png
 ---
 
 **28.08.2026**

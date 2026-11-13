@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "Maruti Suzuki WAGON R and DZIRE rear seatbelt reminders evaluated in-person in latest #WhatTheBeep evaluation"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202605241/banner.png
 ---
 
 **24.05.2026**

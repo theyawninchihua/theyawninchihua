@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "Maruti Suzuki continues streak of poor rear seatbelt reminders with New Baleno"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202609081/banner.png
 ---
 
 **08.09.2026**

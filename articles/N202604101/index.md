@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "Two Indian EVs in #WhatTheBeep seatbelt reminder evaluation"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202604101/banner.png
 ---
 
 **10.04.2026**

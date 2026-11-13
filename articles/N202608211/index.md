@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "Toyota's popular Hyryder SUV awarded FAIL in the simple #WhatTheBeep rear seatbelt reminder test"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202608211/banner.png
 ---
 
 **20.08.2026**

@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "Hyundai's CRETA ELECTRIC fails #WhatTheBeep rear seatbelt reminder evaluation"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202606051/banner.png
 ---
 
 **05.06.2026**

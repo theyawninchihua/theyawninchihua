@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "Kia Syros EV rear seatbelt reminder fails to do the one thing it's supposed to"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202608051/banner.png
 ---
 
 **05.08.2026**

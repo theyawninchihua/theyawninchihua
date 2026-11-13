@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "New Kia Seltos and Nissan Gravite in latest #WhatTheBeep seatbelt reminder results"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202604041/banner.png
 ---
 
 **04.04.2026**

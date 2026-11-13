@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "Maruti Suzuki's new Brezza is here — is its rear seatbelt reminder any good?"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202607291/banner.png
 ---
 
 **29.07.2026**

@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "\"#WhatTheBeep\" seatbelt reminder evaluations of XUV 7XO, DUSTER, VERNA and EXTER published"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202604031/banner.png
 ---
 
 **03.04.2026**

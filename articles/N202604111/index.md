@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "India-spec Kia EV9 fails #WhatTheBeep"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202604111/banner.png
 ---
 
 **11.04.2026**

@@ -2,6 +2,9 @@
 layout: page
 description: "Structural modifier data remains 'confidential'."
 title: "RTI reveals BNCAP retested 7 cars before publishing results"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/B202605121/banner.png
 ---
 
 **12.05.2026**

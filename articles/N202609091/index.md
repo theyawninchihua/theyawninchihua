@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "SORENTO becomes next India-spec Kia stripped of enhanced rear seatbelt reminder system from global model"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202609091/banner.png
 ---
 
 **09.09.2026**

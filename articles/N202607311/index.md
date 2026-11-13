@@ -2,6 +2,9 @@
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
 title: "India-spec Honda ZR-V rear seatbelt reminder evaluated under #WhatTheBeep"
+twitter_card:
+    type: "summary_large_image"
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202607311/banner.png
 ---
 
 **31.07.2026**
