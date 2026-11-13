@@ -11,35 +11,42 @@ twitter_card:
 
 ![Banner](banner.png)
 
-Today, The Yawning Chihuahua releases [#WhatTheBeep](../../whatthebeep/) evaluations for more recently launched cars based on desktop research. The facelifted [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) receives **<span style="color: red;">FAIL</span>**, with its documentation revealing a regional downgrade in the rear seatbelt reminder fitted to the Indian model. The electric [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/) receives a **<span style="color: green;">PASS</span>**.
+Today, The Yawning Chihuahua releases [#WhatTheBeep](../../whatthebeep/) evaluations for more vehicles recently launched into the Indian market, based on desktop research. The facelifted [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) receives **<span style="color: red;">FAIL</span>**, with its documentation revealing a regional downgrade in the rear seatbelt reminder fitted to the Indian model. The electric [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/) receives a **<span style="color: green;">PASS</span>**, also based on its documentation.
 
-Facelifted in October India-spec [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) electric SUV has been awarded **<span style="color: red;">FAIL</span>** in a new [#WhatTheBeep seatbelt reminder evaluation](../../whatthebeep/) based on desktop research.
+## India-spec Maybach S-Class evaluation explained
+With its long-running reputation for rear-seat comfort, the [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) was facelifted in the Indian market last month, and has state-of-the-art passive safety features in the rear seat, like frontal airbags in the seatbacks, and inflatable rear seatbelts.
 
-Mercedes-Maybach have demonstrated in previous #WhatTheBeep evaluations that, when they do fit rear seatbelt reminders to their models, they are proper systems with occupant detection and timely audible warnings. It remains a disappointment that the S-CLASS continues to be sold without any form of rear seatbelt reminder.
+However, like the majority of Indian-market cars, **the India-spec Maybach [S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) skips occupant detection sensors in the rear seats. Despite having a rear seatbelt reminder,** the Indian model of [S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) will not warn if a rear occupant has never buckled up on the trip.
 
-Mercedes-Maybach will eventually be required to fit a rear seatbelt reminder to the S-CLASS if they wish to continue selling it, as regulations will begin to require it in existing models and not only newly homologated ones. The Yawning Chihuahua hopes Mercedes-Maybach will not wait for regulatory pressure to fit this important safety feature, particularly in a model that can be expected to have higher rear-seat occupancy due to its popularity in premium fleets.
+The India-spec Maybach [S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) hence fails two [#WhatTheBeep testcases](../../whatthebeep/protocol.html), and receives a **<span style="color: red;">FAIL</span>**.
 
-## Mercedes-Maybach S-CLASS evaluation explained
+### Overseas S-Class models have superior rear seatbelt reminder
+A side-by-side comparison of documentation for the India-spec [S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) with [that of the British-market model](https://www.mercedes-benz.co.uk/passengercars/owners-manuals/en-gb/pdf/mercedes-maybach-s-class-saloon-2026-december-z223-mbux-owners-manual-1.pdf) reveals regional differences in their rear seatbelt reminder systems.
 
-In-person testing revealed that the [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) does not have a rear seatbelt reminder, confirmed by in-person testing of a 2024 unit and inspection of its user manual and brochure to confirm the equipment level holds for the model currently on sale.
+|   | British-market S-CLASS | India-spec S-CLASS |
+| - | ---------------------- | ------------------ |
+| Rear seatbelt reminder | Yes | Yes |
+| Rear occupant detection | Yes | No |
+| Final signal activates when... | "the adult in the rear seat is not wearing a seat belt" | "the person in rear seat has *unfastened* their seatbelt" |
+| Documentation | ![https://www.mercedes-benz.co.uk/passengercars/owners-manuals/en-gb/pdf/mercedes-maybach-s-class-saloon-2026-december-z223-mbux-owners-manual-1.pdf](SCLASS_UK_SBR.png) | ![https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-maybach-s-class-saloon-2026-december-z223-mbux-owners-manual-1.pdf](SCLASS_IN_SBR.png)|
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6lZsqw3XvEk?si=bJNnfgTkUPwbm3nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/)
-**Behaviour of second-level warning in the 2nd-row outboard seats**
 
-| Testcase | Description | Audible warning | Verdict |
-| --- | --- | --- | --- |
-| ![Testcase 1](../../whatthebeep/testcase_1.png) | occupant does not fasten seatbelt        | <span style="color: red;">**NO**</span>        | <span style="color: red;">**NOT OK**</span> |
-| ![Testcase 2](../../whatthebeep/testcase_2.png) | occupant takes off seatbelt              | <span style="color: red;">**NO**</span>        | <span style="color: red;">**NOT OK**</span> |
-| ![Testcase 3](../../whatthebeep/testcase_3.png) | seatbelt not fastened on an empty seat   | <span style="color: green;">**NO**</span>      | <span style="color: green;">**OK**</span>   |
-| ![Testcase 4](../../whatthebeep/testcase_4.png) | seatbelt taken off on an empty seat      | <span style="color: green;">**NO**</span>      | <span style="color: green;">**OK**</span>   |
-|  |  |  | <span style="color: red;">**FAIL**</span> |
+## Tata achieves **<span style="color: green;">PASS</span>** with enhanced system in SIERRA.EV
+In contrast, the [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/) receives a **<span style="color: green;">PASS</span>** for its rear seatbelt reminder system. Documentation reveals in multiple places that its rear seatbelt reminder starts its final **audio signal above a certain speed if an occupant is detected whose belt is not fastened**.
+
+> **NOTE**  
+> The evaluation is not valid for the related combustion-powered Tata SIERRA
+
+## Renault DUSTER evaluation result confirmed for new hybrid DUSTER E-TECH
+The [Renault DUSTER E-TECH](../../whatthebeep/2026-11-14-DUSTERETECH-evolutionETech160/) receives a **<span style="color: red;">FAIL</span>**, mirroring its petrol-powered namesake [evaluated earlier this year](../N202604031/).
 
 More information about results, datasheets, sources of information, and evaluation criteria are at the following links:
 
 - [All you need to know about #WhatTheBeep](../../whatthebeep/)
 - [Datasheet for Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/)
+- [Datasheet for Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/)
+- [Datasheet for Renault DUSTER E-TECH](../../whatthebeep/2026-11-14-DUSTERETECH-evolutionETech160/)
 
 -TYC
 
