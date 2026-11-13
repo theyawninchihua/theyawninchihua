@@ -37,7 +37,7 @@ Luxury car occupants are not immune to the consequences of not wearing a seatbel
 ### S-Class joins growing list of global models with rear seatbelt reminders downgraded for India
 The [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) is not the first global model revealed by [#WhatTheBeep](../../whatthebeep/) to have had its rear seatbelt reminder downgraded for India.
 
-Other examples of models evaluated by #WhatTheBeep with inferior rear seatbelt reminders in India than in other markets include:
+Other examples of models evaluated under #WhatTheBeep with inferior rear seatbelt reminders in India than in other markets include:
 - [Kia SORENTO](../../whatthebeep/2026-09-09-SORENTO-HTE7SmartstreamD22/)
     - see side-by-side comparison of [Indian and Australian models](../N202609091/)
 - [Honda ZR-V e:HEV](../../whatthebeep/2026-07-31-ZRVeHEV-EX20iMMD/)
