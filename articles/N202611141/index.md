@@ -34,7 +34,7 @@ A side-by-side comparison of documentation for the India-spec [S-CLASS](../../wh
 ### Luxury car occupants not immune to the consequences of not wearing a seatbelt
 Luxury car occupants are not immune to the consequences of not wearing a seatbelt in the rear, as well-known cases have shown [[1](https://en.wikipedia.org/wiki/Death_of_Diana,_Princess_of_Wales)] [[2](https://en.wikipedia.org/wiki/Cyrus_Mistry#Death)]. The [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) has state-of-the-art rear-seat passive safety features like **frontal airbags in the seatbacks**, and **inflatable rear seatbelts**, which may not be able to provide the intended protection if the rear occupant does not wear a seatbelt.
 
-### S-Class joins growing list of global models with downgraded rear seatbelt reminders for India
+### S-Class joins growing list of global models with rear seatbelt reminders downgraded for India
 The [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) is not the first global model revealed by [#WhatTheBeep](../../whatthebeep/) to have had its rear seatbelt reminder downgraded for India.
 
 Other examples of models evaluated by #WhatTheBeep with inferior rear seatbelt reminders in India than in other markets include:
