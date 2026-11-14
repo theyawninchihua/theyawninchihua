@@ -47,7 +47,7 @@ in-person testing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lt-NBp1_j3E?si=xnVg_lCsKnemVvso" title="YouTube video player" allowfullscreen></iframe>
 
 ### Manual URL
-not available
+[link to manufacturer website](https://www.mercedes-benz.co.in/content/dam/india/passengercars/buy/brochures/brochures-pdf/limousines-pdf/MM_Maybach-S-Class_Digital-Brochure.pdf)
 
 ### Brochure URL
 [link to manufacturer website](https://cars.tatamotors.com/content/dam/tml/pv/products/xpres-t/year-2026/promoting-vc/brochures/january/XPRES%20Brochure.pdf)
