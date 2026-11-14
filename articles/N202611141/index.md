@@ -44,9 +44,9 @@ Other examples of models evaluated under #WhatTheBeep with inferior rear seatbel
     - see side-by-side comparison of [Indian and British models](../N202607311/)
 - [Mercedes-Benz CLA ELECTRIC](../../whatthebeep/2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/)
     - see side-by-side comparison of [Indian and European models](../N202606131/)
-- [Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/) and [Toyota URBAN CRUISER EBELLA](../../whatthebeep/2026-06-01-URBANCRUISEREBELLA-E361kWhFWD/) (see [article](../N202605221/))
+- [Maruti Suzuki e VITARA](../../whatthebeep/2026-05-22-eVITARA-Delta49kWhFWD/) and [Toyota URBAN CRUISER EBELLA](../../whatthebeep/2026-06-01-URBANCRUISEREBELLA-E361kWhFWD/) (see [article](../N202605221/))
 - [Kia EV9](../../whatthebeep/2026-04-11-EV9-GTLineAWD) (see [article](../N202604111/banner.png))
-- [Suzuki FRONX](../../whatthebeep/2026-06-01-FRONX-SigmaSCNG/) (see [article](../N202606011/banner.png))
+- [Maruti Suzuki FRONX](../../whatthebeep/2026-06-01-FRONX-SigmaSCNG/) (see [article](../N202606011/banner.png))
 
 ## Tata achieves **<span style="color: green;">PASS</span>** with enhanced system in SIERRA.EV
 In more positive news, the electric [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/) receives a **<span style="color: green;">PASS</span>** from [#WhatTheBeep](../../whatthebeep/) for its rear seatbelt reminder system.
