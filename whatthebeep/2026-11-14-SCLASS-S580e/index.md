@@ -32,7 +32,7 @@ desktop research
 [link to manufacturer website](https://www.mercedes-benz.co.in/passengercars/owners-manuals/en-in/pdf/mercedes-maybach-s-class-saloon-2026-december-z223-mbux-owners-manual-1.pdf)
 
 ### Brochure URL
-[link to manufacturer website](https://dam.oneweb.mercedes-benz.com/api/public/content/india-passengercars-buy-brochures-brochures-pdf-limousines-pdf-the_mercedes-maybach_s-class_1.pdf?_gl=1*1thbqcm*_ga*MTExODc1NjE5Ny4xNzk0NTcwMDQz*_ga_38LJSJTYP4*czE3OTQ1NzQ2NjgkbzIkZzEkdDE3OTQ1NzQ3NjYkajM1JGwwJGgxNjYwODY0MTg0*_fplc*Rjl6b0MzeWxkdzc4YjhqJTJCS1Y4NHF6QjIlMkZXSm8xOUNaV21HJTJCdXRtZW5JUXY5OWd5UkpYUnVvJTJGZGE4dlNKeDZzRjZEckVrd3ByVENuUkhjWlZlMmtESXJVaTk1RVo5ak5TUEVRJTJCaHNqSkRzMDY1MXEwNk9OVW1hZ1pEQlZNZyUzRCUzRA..)
+not available
 
 ### Excerpt
 
