@@ -134,6 +134,8 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 By design, the rear seatbelt reminders of many Indian **cars don't beep when they should, or beep when they shouldn't.** Unlike some global consumer tests, current Indian regulations and consumer tests do not require rear seatbelt reminders to have occupant detection for compliance or credit, and only require an audible signal in a change-of-status event, i.e., when a rear occupant's seatbelt *becomes* unfastened while driving.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYrKh6DYGqM?si=7urVlsTSWs1B0FBL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### What is required for a car to receive <span style="color: green;">PASS</span> in #WhatTheBeep?
 
 Simply put, with respect to an unbelted occupant in the rear outboard seats, the car should **beep [if and only if](https://en.wikipedia.org/wiki/If_and_only_if) an occupant is sitting in the seat and is not belted.**
