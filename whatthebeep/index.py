@@ -95,7 +95,7 @@ def main():
         list_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/\">{e['title']}</a><br>")
         color = 'green' if e['result'] == 'PASS' else 'red'
         markdown_lines.append(
-            f"<span style=\"font-family: monospace;\">{e['display_date']}</span> [**<span style=\"font-family: monospace; color: {color};\">{e['result']}</span>**] [{e['title']}]({e['dirname']}/)\n"
+            f"<span style=\"font-family: monospace;\">{e['display_date']}</span> [**<span style=\"font-family: monospace; color: {color};\">{e['result']}</span>**] [{e['title']}]({e['dirname']}/)  "
         )
 
     list_html = "\n        ".join(list_lines)
@@ -122,7 +122,7 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 {chr(10).join(markdown_lines)}
 
-(*) evaluation based on desktop research
+(^) evaluation based on desktop research
 
 ## FAQs
 
@@ -192,7 +192,7 @@ Kindly avoid reporting using language that suggests #WhatTheBeep is intended to 
         <h2>All Rear Seatbelt Reminder Evaluations</h2>
         {list_html}
 
-        <br><b>(*)</b> evaluation based on desktop research<br><br>
+        <br><b>(^)</b> evaluation based on desktop research<br><br>
 
         <marquee scrollamount="20"><font color="green"><b>{BANNER_TEXT}</b></font></marquee><br><br>
 

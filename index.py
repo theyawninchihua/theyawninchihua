@@ -202,7 +202,7 @@ def main():
         display_date = entry['date'].strftime('%d.%m.%y')
         color = 'green' if entry['result'] == 'PASS' else 'red'
         markdown_results.append(
-            f'<span style="font-family: monospace;">{display_date}</span> **<span style="font-family: monospace; color: {color};">{entry["result"]}</span>** [{entry["title"]}](whatthebeep/{entry["dirname"]}/)  '
+            f'<span style="font-family: monospace;">{display_date}</span> [**<span style="font-family: monospace; color: {color};">{entry["result"]}</span>**] [{entry["title"]}](whatthebeep/{entry["dirname"]}/)  '
         )
 
     markdown = f'''---
@@ -243,8 +243,8 @@ title: "Home"
         sbr_lines.append(line)
 
     sbr_block = "\n                    ".join(sbr_lines)
-    show_desktop_note = any(str(e['title']).strip().endswith('(*)') for e in top_sbrs)
-    desktop_note = "                    (*) <i>evaluation based on desktop research</i><br><br>\n" if show_desktop_note else ""
+    show_desktop_note = any(str(e['title']).strip().endswith('(^)') for e in top_sbrs)
+    desktop_note = "                    (^) <i>evaluation based on desktop research</i><br><br>\n" if show_desktop_note else ""
 
     # Build featured article block and others block matching current index.html layout
     def article_fig(a):
