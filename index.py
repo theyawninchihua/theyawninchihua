@@ -202,7 +202,7 @@ def main():
         display_date = entry['date'].strftime('%d.%m.%y')
         color = 'green' if entry['result'] == 'PASS' else 'red'
         markdown_results.append(
-            f'<span style="font-family: monospace;">{display_date}</span> [**<span style="font-family: monospace; color: {color};">{entry["result"]}</span>**] [{entry["title"]}](whatthebeep/{entry["dirname"]}/)<br>'
+            f'[**<span style="font-family: monospace; color: {color};">{entry["result"]}</span>**] <span style="font-family: monospace;">{display_date}</span> [{entry["title"]}](whatthebeep/{entry["dirname"]}/)  '
         )
 
     markdown = f'''---
