@@ -11,7 +11,7 @@ twitter_card:
 
 ![Banner](banner.png)
 
-Today, The Yawning Chihuahua releases [#WhatTheBeep](../../whatthebeep/) evaluations for more vehicles recently launched into the Indian market, based on desktop research. The facelifted [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) receives **<span style="color: red;">FAIL</span>**, with its documentation revealing a regional downgrade in the rear seatbelt reminder fitted to the Indian model. The electric [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/) receives a **<span style="color: green;">PASS</span>**, also based on its documentation.
+Today, The Yawning Chihuahua is releasing [#WhatTheBeep](../../whatthebeep/) evaluations for more vehicles recently launched into the Indian market, based on desktop research. The facelifted [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) receives **<span style="color: red;">FAIL</span>**, with its documentation revealing a regional downgrade in the rear seatbelt reminder fitted to the Indian model. The electric [Tata SIERRA.EV](../../whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/) receives a **<span style="color: green;">PASS</span>**, also based on its documentation.
 
 ## India-spec Maybach S-Class evaluation explained
 With its long-running reputation for rear-seat comfort, the [Mercedes-Maybach S-CLASS](../../whatthebeep/2026-11-14-SCLASS-S580e/) was facelifted in the Indian market last month, and has state-of-the-art passive safety features in the rear seat, like frontal airbags in the seatbacks, and inflatable rear seatbelts.
