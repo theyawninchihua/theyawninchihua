@@ -10,6 +10,9 @@ baseurl: /theyawninchihua
 url: https://theyawninchihua.github.io
 markdown: kramdown
 
+kramdown:
+  input: GFM
+
 # Default Fallback Logo/Image
 logo: /theyawninchihua.png
 
