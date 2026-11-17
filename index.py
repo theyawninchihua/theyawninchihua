@@ -198,7 +198,12 @@ def main():
         markdown_articles[-1] += f'{display_date} **{label}** • [{article["title"]}](articles/{article["name"]}/)'
 
     markdown_results = []
+    latest_publication_date = None
     for entry in top_sbrs:
+        if latest_publication_date is None:
+            latest_publication_date == entry['date']
+        if not (entry['date'] == latest_publication_date):
+            continue
         display_date = entry['date'].strftime('%d.%m.%y')
         color = 'green' if entry['result'] == 'PASS' else 'red'
         markdown_results.append(
@@ -224,7 +229,7 @@ title: "Home"
 
 [View more](articles/)
 
-## Latest #WhatTheBeep results
+## Latest #WhatTheBeep evaluations
 
 {chr(10).join(markdown_results)}
 

@@ -17,11 +17,8 @@ title: "Home"
 
 [View more](articles/)
 
-## Latest #WhatTheBeep results
+## Latest #WhatTheBeep evaluations
 
-<span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Tata SIERRA.EV (^)](whatthebeep/2026-11-14-SIERRAEV-Pure63kWhRWD/)  
-<span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Renault DUSTER E-TECH (^)](whatthebeep/2026-11-14-DUSTERETECH-evolutionETech160/)  
-<span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Mercedes-Maybach S-CLASS (^)](whatthebeep/2026-11-14-SCLASS-S580e/)  
-<span style="font-family: monospace;">05.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Mahindra XUV400](whatthebeep/2026-11-05-XUV400-ECPro35kWh/)  
+
 
 [View more](whatthebeep/)
