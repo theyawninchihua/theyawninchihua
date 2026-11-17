@@ -201,7 +201,7 @@ def main():
     latest_publication_date = None
     for entry in top_sbrs:
         if latest_publication_date is None:
-            latest_publication_date == entry['date']
+            latest_publication_date = entry['date']
         if not (entry['date'] == latest_publication_date):
             continue
         display_date = entry['date'].strftime('%d.%m.%y')
