@@ -183,7 +183,6 @@ def main():
 
     # Take up to 4 latest
     top_articles = articles[:4]
-    top_sbrs = sbrs[:4]
 
     markdown_articles = []
     for article in top_articles:
@@ -199,7 +198,7 @@ def main():
 
     markdown_results = []
     latest_publication_date = None
-    for entry in top_sbrs:
+    for entry in sbrs:
         if latest_publication_date is None:
             latest_publication_date = entry['date']
         if not (entry['date'] == latest_publication_date):
@@ -242,13 +241,13 @@ title: "Home"
 
     # Build SBR list lines
     sbr_lines = []
-    for e in top_sbrs:
+    for e in sbrs[:4]:
         display_date = e['date'].strftime("%d.%m.%y")
         line = f'{display_date} [{result_html(e["result"])}] <a href="whatthebeep/{e["dirname"]}/">{e["title"]}</a><br>'
         sbr_lines.append(line)
 
     sbr_block = "\n                    ".join(sbr_lines)
-    show_desktop_note = any(str(e['title']).strip().endswith('(^)') for e in top_sbrs)
+    show_desktop_note = any(str(e['title']).strip().endswith('(^)') for e in sbrs[:4])
     desktop_note = "                    (^) <i>evaluation based on desktop research</i><br><br>\n" if show_desktop_note else ""
 
     # Build featured article block and others block matching current index.html layout
