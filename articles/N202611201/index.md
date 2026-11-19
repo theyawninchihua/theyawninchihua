@@ -4,7 +4,7 @@ description: "Publication of new #WhatTheBeep result(s)."
 title: "Mahindra XUV400 gains intelligent rear seatbelt reminder"
 twitter_card:
     type: "summary_large_image"
-    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202609291/banner.png
+    image: https://theyawninchihua.github.io/theyawninchihua/articles/N202611201/banner.png
 ---
 
 **20.11.2026**
