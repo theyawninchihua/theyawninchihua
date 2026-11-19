@@ -76,8 +76,10 @@ The result of an evaluation is deemed to be <span style="color: green;">**PASS**
 - The #WhatTheBeep protocol may be updated from time to time with or without notice.
 - The page administrator of *The Yawning Chihuahua* will make reasonable efforts to ensure that the information on this website is accurate, but does not accept responsibility for any damages resulting from use of information on this website, including but not limited to loss of property or life.
 - This website is provided "as is" without any representations or warranties, express or implied. The Yawning Chihuahua makes no representations or warranties in relation to this website or the information and materials provided on this website.
-- If there is reasonable evidence of an error in an evaluation, The Yawning Chihuahua may take down the evaluation with or without notice and replace the page with a note about the error.
-  - If at some future point in time a fresh evaluation for the car model is published and it is reasonably clear that it would have applied to the car model on sale at the time of publication of the taken-down evaluation, the page of the taken-down evaluation may include a redirect to the fresh evaluation.
+- If The Yawning Chihuahua learns of reasonable evidence of an error in an evaluation, The Yawning Chihuahua may take one of the following actions:
+  - update the evaluation in-place with or without notice (e.g. in the case of minor errors that are not expected to affect the evaluation result)
+  - take down the evaluation with or without notice, replacing the page with a note about the error (e.g. in the case of major errors that are expected to affect the evaluation result)
+      - If at some future point in time a fresh evaluation for the car model is published and it is reasonably clear that it would have applied to the car model on sale at the time of publication of the taken-down evaluation, the page of the taken-down evaluation may include a redirect to the fresh evaluation.
 
 —TYC
 

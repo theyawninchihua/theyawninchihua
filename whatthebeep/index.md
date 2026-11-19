@@ -15,10 +15,10 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 ## All evaluations
 
+<span style="font-family: monospace;">20.11.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra XUV400 (^)](2026-11-20-XUV400-ECPro35kWh/)  
 <span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Tata SIERRA.EV (^)](2026-11-14-SIERRAEV-Pure63kWhRWD/)  
 <span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Renault DUSTER E-TECH (^)](2026-11-14-DUSTERETECH-evolutionETech160/)  
 <span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Mercedes-Maybach S-CLASS (^)](2026-11-14-SCLASS-S580e/)  
-<span style="font-family: monospace;">05.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Mahindra XUV400](2026-11-05-XUV400-ECPro35kWh/)  
 <span style="font-family: monospace;">30.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki GRAND VITARA](2026-10-30-GRANDVITARA-DeltaSCNG/)  
 <span style="font-family: monospace;">27.10.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra THAR OG (^)](2026-10-27-THAROG-AXTRWD3door/)  
 <span style="font-family: monospace;">27.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai BAYON (^)](2026-10-27-BAYON-HX215MPI/)  

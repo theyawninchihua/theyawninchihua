@@ -7,12 +7,12 @@ permalink: /articles/
 title: "Articles"
 ---
 
+[![Banner](N202611201/banner.png)](N202611201/)
+20.11.2026 **NOTICE** • [Mahindra XUV400 gains intelligent rear seatbelt reminder](N202611201/)
+
+
 [![Banner](N202611141/banner.png)](N202611141/)
 14.11.2026 **NOTICE** • [Luxury cars' rear seatbelt reminders not immune to India-specific downgrades](N202611141/)
-
-
-[![Banner](N202611051/banner.png)](N202611051/)
-05.11.2026 **NOTICE** • [Mahindra XUV400 remains on sale without rear seatbelt reminder](N202611051/)
 
 
 [![Banner](N202610301/banner.png)](N202610301/)

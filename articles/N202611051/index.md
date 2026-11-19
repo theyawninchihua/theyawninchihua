@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "Publication of new #WhatTheBeep result(s)."
-title: "Mahindra XUV400 remains on sale without rear seatbelt reminder"
+title: "[REDACTED] Mahindra XUV400 remains on sale without rear seatbelt reminder"
 twitter_card:
     type: "summary_large_image"
     image: https://theyawninchihua.github.io/theyawninchihua/articles/N202611051/banner.png
@@ -10,6 +10,12 @@ twitter_card:
 **05.11.2026**
 
 ![Banner](banner.png)
+
+> **NOTE: This article has been redacted due to the discovery of an error**
+> The Mahindra XUV400 received a rear seatbelt reminder in August 2026.
+> [More information](../N202611201/)
+
+**Original Article:**
 
 The [Mahindra XUV400](../../whatthebeep/2026-11-05-XUV400-ECPro35kWh/) electric SUV has been awarded **<span style="color: red;">FAIL</span>** in a new [#WhatTheBeep seatbelt reminder evaluation](../../whatthebeep/).
 
