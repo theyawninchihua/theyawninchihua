@@ -21,6 +21,7 @@ ARTICLE_TYPES = {
 }
 BANNER_TEXT = 'NOW ACCESSIBLE AT: <a href="https://tinyurl.com/beepthewhat">tinyurl.com/beepthewhat</a>'
 WRITE_HTML = False
+N_ITEMS_PER_ROW = 3
 
 def read_yaml_simple(path):
     data = {}
@@ -198,16 +199,54 @@ def main():
 
     markdown_results = []
     latest_publication_date = None
+    latest_entries = []
+
     for entry in sbrs:
         if latest_publication_date is None:
             latest_publication_date = entry['date']
-        if not (entry['date'] == latest_publication_date):
+        if entry['date'] != latest_publication_date:
             continue
-        display_date = entry['date'].strftime('%d.%m.%y')
-        color = 'green' if entry['result'] == 'PASS' else 'red'
-        markdown_results.append(
-            f'<span style="font-family: monospace;">{display_date}</span> [**<span style="font-family: monospace; color: {color};">{entry["result"]}</span>**] [{entry["title"]}](whatthebeep/{entry["dirname"]}/)  '
-        )
+        latest_entries.append(entry)
+
+    # Generate Markdown table
+    header = "| " + " | ".join([""] * N_ITEMS_PER_ROW) + " |"
+    separator = "| " + " | ".join(["-"] * N_ITEMS_PER_ROW) + " |"
+
+    markdown_results.extend([header, separator])
+
+    for i in range(0, len(latest_entries), N_ITEMS_PER_ROW):
+        row = latest_entries[i:i + N_ITEMS_PER_ROW]
+        row += [None] * (N_ITEMS_PER_ROW - len(row))
+
+        # Vehicle names
+        titles = [
+            f"**[{entry['title']}](whatthebeep/{entry['dirname']}/)**" if entry else ""
+            for entry in row
+        ]
+        markdown_results.append("| " + " | ".join(titles) + " |")
+
+        # Results
+        results = []
+        for entry in row:
+            if entry:
+                color = 'green' if entry['result'] == 'PASS' else 'red'
+                results.append(
+                    f"**<span style=\"font-family: monospace; color: {color};\">{entry['result']}</span>**"
+                )
+            else:
+                results.append("")
+
+        markdown_results.append("| " + " | ".join(results) + " |")
+
+        # Dates
+        dates = [
+            entry['date'].strftime('%d.%m.%y') if entry else ""
+            for entry in row
+        ]
+        markdown_results.append("| " + " | ".join(dates) + " |")
+
+        # Spacer row
+        markdown_results.append(header)
 
     markdown = f'''---
 layout: home

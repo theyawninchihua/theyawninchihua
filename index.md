@@ -19,6 +19,11 @@ title: "Home"
 
 ## Latest #WhatTheBeep evaluations
 
-<span style="font-family: monospace;">20.11.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra XUV400 (^)](whatthebeep/2026-11-20-XUV400-ECPro35kWh/)  
+|  |  |  |
+| - | - | - |
+| **[Mahindra XUV400 (^)](whatthebeep/2026-11-20-XUV400-ECPro35kWh/)** |  |  |
+| **<span style="font-family: monospace; color: green;">PASS</span>** |  |  |
+| 20.11.26 |  |  |
+|  |  |  |
 
 [View more](whatthebeep/)
