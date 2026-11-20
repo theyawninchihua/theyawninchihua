@@ -5,6 +5,7 @@ from datetime import datetime
 
 BANNER_TEXT = 'NOW ACCESSIBLE AT: <a href="https://tinyurl.com/beepthewhat">tinyurl.com/beepthewhat</a>'
 WRITE_HTML = False
+N_ITEMS_PER_ROW = 3
 
 def result_html(result):
     if result == "PASS":
@@ -91,12 +92,48 @@ def main():
 
     list_lines = []
     markdown_lines = []
+
     for e in entries:
         list_lines.append(f"{e['display_date']} [{result_html(e['result'])}] <a href=\"{e['dirname']}/\">{e['title']}</a><br>")
-        color = 'green' if e['result'] == 'PASS' else 'red'
-        markdown_lines.append(
-            f"<span style=\"font-family: monospace;\">{e['display_date']}</span> [**<span style=\"font-family: monospace; color: {color};\">{e['result']}</span>**] [{e['title']}]({e['dirname']}/)  "
-        )
+
+    # Generate Markdown table
+    header = "| " + " | ".join([""] * N_ITEMS_PER_ROW) + " |"
+    separator = "| " + " | ".join(["-"] * N_ITEMS_PER_ROW) + " |"
+
+    markdown_lines.extend([header, separator])
+
+    for i in range(0, len(entries), N_ITEMS_PER_ROW):
+        row = entries[i:i + N_ITEMS_PER_ROW]
+
+        # Pad incomplete rows with empty cells
+        row += [None] * (N_ITEMS_PER_ROW - len(row))
+
+        # Vehicle names
+        titles = [
+            f"**[{e['title']}]({e['dirname']}/)**" if e else ""
+            for e in row
+        ]
+        markdown_lines.append("| " + " | ".join(titles) + " |")
+
+        # Results
+        results = []
+        for e in row:
+            if e:
+                color = 'green' if e['result'] == 'PASS' else 'red'
+                results.append(
+                    f"**<span style=\"font-family: monospace; color: {color};\">{e['result']}</span>**"
+                )
+            else:
+                results.append("")
+
+        markdown_lines.append("| " + " | ".join(results) + " |")
+
+        # Dates
+        dates = [e['display_date'] if e else "" for e in row]
+        markdown_lines.append("| " + " | ".join(dates) + " |")
+
+        # Spacer row
+        markdown_lines.append(header)
 
     list_html = "\n        ".join(list_lines)
     fail_count = sum(1 for e in entries if e['result'] == 'FAIL')

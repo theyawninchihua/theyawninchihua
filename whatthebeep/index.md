@@ -15,53 +15,72 @@ The Yawning Chihuahua is informally and independently evaluating the rear seatbe
 
 ## All evaluations
 
-<span style="font-family: monospace;">20.11.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra XUV400 (^)](2026-11-20-XUV400-ECPro35kWh/)  
-<span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Tata SIERRA.EV (^)](2026-11-14-SIERRAEV-Pure63kWhRWD/)  
-<span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Renault DUSTER E-TECH (^)](2026-11-14-DUSTERETECH-evolutionETech160/)  
-<span style="font-family: monospace;">14.11.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Mercedes-Maybach S-CLASS (^)](2026-11-14-SCLASS-S580e/)  
-<span style="font-family: monospace;">30.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki GRAND VITARA](2026-10-30-GRANDVITARA-DeltaSCNG/)  
-<span style="font-family: monospace;">27.10.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra THAR OG (^)](2026-10-27-THAROG-AXTRWD3door/)  
-<span style="font-family: monospace;">27.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai BAYON (^)](2026-10-27-BAYON-HX215MPI/)  
-<span style="font-family: monospace;">15.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Toyota GLANZA (^)](2026-10-15-GLANZA-E/)  
-<span style="font-family: monospace;">07.10.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Honda ELEVATE (^)](2026-10-07-ELEVATE-SV15iVTEC/)  
-<span style="font-family: monospace;">30.09.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Tata AERIS (^)](2026-09-30-AERIS-Smart12Revotron/)  
-<span style="font-family: monospace;">29.09.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra BOLERO NEO PLUS (^)](2026-09-29-BOLERONEOPLUS-P420mHawk/)  
-<span style="font-family: monospace;">18.09.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Toyota INNOVA HYCROSS](2026-09-18-INNOVAHYCROSS-ZX20Hybrid/)  
-<span style="font-family: monospace;">18.09.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Kia CARENS CLAVIS EV](2026-09-18-CARENSCLAVISEV-HTX742kWh/)  
-<span style="font-family: monospace;">18.09.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai VERNA](2026-09-18-VERNA-allvariants/)  
-<span style="font-family: monospace;">18.09.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai AURA](2026-09-18-AURA-PRIMESD12CNG/)  
-<span style="font-family: monospace;">09.09.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Kia SORENTO (^)](2026-09-09-SORENTO-HTE7SmartstreamD22/)  
-<span style="font-family: monospace;">08.09.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki BALENO (^)](2026-09-08-BALENO-Sigma/)  
-<span style="font-family: monospace;">28.08.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Toyota RUMION](2026-08-28-RUMION-SCNG/)  
-<span style="font-family: monospace;">28.08.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki ERTIGA](2026-08-28-ERTIGA-VXiOSCNG/)  
-<span style="font-family: monospace;">21.08.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Toyota URBAN CRUISER HYRYDER](2026-08-21-URBANCRUISERHYRYDER-ECNGS/)  
-<span style="font-family: monospace;">05.08.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Kia SYROS EV (^)](2026-08-05-SYROSEV-HTK42kWh/)  
-<span style="font-family: monospace;">31.07.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Honda ZR-V e:HEV (^)](2026-07-31-ZRVeHEV-EX20iMMD/)  
-<span style="font-family: monospace;">29.07.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki BREZZA (^)](2026-07-29-BREZZA-LXi10BoosterJet/)  
-<span style="font-family: monospace;">17.07.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Nissan TEKTON (^)](2026-07-17-TEKTON-VisiaT160/)  
-<span style="font-family: monospace;">22.06.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Tata XPRES](2026-06-22-XPRES-12RevotronCNG/)  
-<span style="font-family: monospace;">13.06.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Mercedes-Benz CLA ELECTRIC (^)](2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/)  
-<span style="font-family: monospace;">09.06.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [MG ZS EV](2026-06-09-ZSEV-Executive50kWh/)  
-<span style="font-family: monospace;">05.06.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai CRETA ELECTRIC](2026-06-05-CRETAELECTRIC-Executive42kWh/)  
-<span style="font-family: monospace;">05.06.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Honda CITY i-VTEC (^)](2026-06-05-CITYiVTEC-SV15iVTEC/)  
-<span style="font-family: monospace;">01.06.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra SCORPIO CLASSIC (^)](2026-06-01-SCORPIOCLASSIC-S/)  
-<span style="font-family: monospace;">01.06.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra BOLERO NEO (^)](2026-06-01-BOLERONEO-N4/)  
-<span style="font-family: monospace;">01.06.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra BOLERO CLASSIC (^)](2026-06-01-BOLEROCLASSIC-B4/)  
-<span style="font-family: monospace;">01.06.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Toyota URBAN CRUISER EBELLA (^)](2026-06-01-URBANCRUISEREBELLA-E361kWhFWD/)  
-<span style="font-family: monospace;">01.06.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki FRONX](2026-06-01-FRONX-SigmaSCNG/)  
-<span style="font-family: monospace;">01.06.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Honda CITY e:HEV (^)](2026-06-01-CITYeHEV-ZXPlus15iMMD/)  
-<span style="font-family: monospace;">24.05.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki WAGON R](2026-05-24-WAGONR-TourH3SCNG/)  
-<span style="font-family: monospace;">24.05.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki DZIRE](2026-05-24-DZIRE-TourSSCNG/)  
-<span style="font-family: monospace;">22.05.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Maruti Suzuki e VITARA (^)](2026-05-22-eVITARA-Delta49kWhFWD/)  
-<span style="font-family: monospace;">11.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Kia EV9 (^)](2026-04-11-EV9-GTLineAWD/)  
-<span style="font-family: monospace;">10.04.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra XUV 3XO EV (^)](2026-04-10-XUV3XOEV-AX539kWh/)  
-<span style="font-family: monospace;">10.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Tata PUNCH.EV (^)](2026-04-10-PUNCHEV-Smart30kWh/)  
-<span style="font-family: monospace;">04.04.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra THAR (^)](2026-04-04-THAR-AXTRWD3door/)  
-<span style="font-family: monospace;">04.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Nissan GRAVITE (^)](2026-04-04-GRAVITE-Visia10B4D/)  
-<span style="font-family: monospace;">04.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Kia SELTOS (^)](2026-04-04-SELTOS-HTESmartstreamG15/)  
-<span style="font-family: monospace;">03.04.26</span> [**<span style="font-family: monospace; color: green;">PASS</span>**] [Mahindra XUV 7XO (^)](2026-04-03-XUV7XO-AX/)  
-<span style="font-family: monospace;">03.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Renault DUSTER (^)](2026-04-03-DUSTER-authenticTCe100/)  
-<span style="font-family: monospace;">03.04.26</span> [**<span style="font-family: monospace; color: red;">FAIL</span>**] [Hyundai EXTER (^)](2026-04-03-EXTER-HX212Kappa2/)  
+|  |  |  |
+| - | - | - |
+| **[Mahindra XUV400 (^)](2026-11-20-XUV400-ECPro35kWh/)** | **[Tata SIERRA.EV (^)](2026-11-14-SIERRAEV-Pure63kWhRWD/)** | **[Renault DUSTER E-TECH (^)](2026-11-14-DUSTERETECH-evolutionETech160/)** |
+| **<span style="font-family: monospace; color: green;">PASS</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 20.11.26 | 14.11.26 | 14.11.26 |
+|  |  |  |
+| **[Mercedes-Maybach S-CLASS (^)](2026-11-14-SCLASS-S580e/)** | **[Maruti Suzuki GRAND VITARA](2026-10-30-GRANDVITARA-DeltaSCNG/)** | **[Mahindra THAR OG (^)](2026-10-27-THAROG-AXTRWD3door/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** |
+| 14.11.26 | 30.10.26 | 27.10.26 |
+|  |  |  |
+| **[Hyundai BAYON (^)](2026-10-27-BAYON-HX215MPI/)** | **[Toyota GLANZA (^)](2026-10-15-GLANZA-E/)** | **[Honda ELEVATE (^)](2026-10-07-ELEVATE-SV15iVTEC/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 27.10.26 | 15.10.26 | 07.10.26 |
+|  |  |  |
+| **[Tata AERIS (^)](2026-09-30-AERIS-Smart12Revotron/)** | **[Mahindra BOLERO NEO PLUS (^)](2026-09-29-BOLERONEOPLUS-P420mHawk/)** | **[Toyota INNOVA HYCROSS](2026-09-18-INNOVAHYCROSS-ZX20Hybrid/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 30.09.26 | 29.09.26 | 18.09.26 |
+|  |  |  |
+| **[Kia CARENS CLAVIS EV](2026-09-18-CARENSCLAVISEV-HTX742kWh/)** | **[Hyundai VERNA](2026-09-18-VERNA-allvariants/)** | **[Hyundai AURA](2026-09-18-AURA-PRIMESD12CNG/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 18.09.26 | 18.09.26 | 18.09.26 |
+|  |  |  |
+| **[Kia SORENTO (^)](2026-09-09-SORENTO-HTE7SmartstreamD22/)** | **[Maruti Suzuki BALENO (^)](2026-09-08-BALENO-Sigma/)** | **[Toyota RUMION](2026-08-28-RUMION-SCNG/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 09.09.26 | 08.09.26 | 28.08.26 |
+|  |  |  |
+| **[Maruti Suzuki ERTIGA](2026-08-28-ERTIGA-VXiOSCNG/)** | **[Toyota URBAN CRUISER HYRYDER](2026-08-21-URBANCRUISERHYRYDER-ECNGS/)** | **[Kia SYROS EV (^)](2026-08-05-SYROSEV-HTK42kWh/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 28.08.26 | 21.08.26 | 05.08.26 |
+|  |  |  |
+| **[Honda ZR-V e:HEV (^)](2026-07-31-ZRVeHEV-EX20iMMD/)** | **[Maruti Suzuki BREZZA (^)](2026-07-29-BREZZA-LXi10BoosterJet/)** | **[Nissan TEKTON (^)](2026-07-17-TEKTON-VisiaT160/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 31.07.26 | 29.07.26 | 17.07.26 |
+|  |  |  |
+| **[Tata XPRES](2026-06-22-XPRES-12RevotronCNG/)** | **[Mercedes-Benz CLA ELECTRIC (^)](2026-06-13-CLAELECTRIC-CLA200StandardRange58kWh/)** | **[MG ZS EV](2026-06-09-ZSEV-Executive50kWh/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** |
+| 22.06.26 | 13.06.26 | 09.06.26 |
+|  |  |  |
+| **[Hyundai CRETA ELECTRIC](2026-06-05-CRETAELECTRIC-Executive42kWh/)** | **[Honda CITY i-VTEC (^)](2026-06-05-CITYiVTEC-SV15iVTEC/)** | **[Mahindra SCORPIO CLASSIC (^)](2026-06-01-SCORPIOCLASSIC-S/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** |
+| 05.06.26 | 05.06.26 | 01.06.26 |
+|  |  |  |
+| **[Mahindra BOLERO NEO (^)](2026-06-01-BOLERONEO-N4/)** | **[Mahindra BOLERO CLASSIC (^)](2026-06-01-BOLEROCLASSIC-B4/)** | **[Toyota URBAN CRUISER EBELLA (^)](2026-06-01-URBANCRUISEREBELLA-E361kWhFWD/)** |
+| **<span style="font-family: monospace; color: green;">PASS</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 01.06.26 | 01.06.26 | 01.06.26 |
+|  |  |  |
+| **[Maruti Suzuki FRONX](2026-06-01-FRONX-SigmaSCNG/)** | **[Honda CITY e:HEV (^)](2026-06-01-CITYeHEV-ZXPlus15iMMD/)** | **[Maruti Suzuki WAGON R](2026-05-24-WAGONR-TourH3SCNG/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 01.06.26 | 01.06.26 | 24.05.26 |
+|  |  |  |
+| **[Maruti Suzuki DZIRE](2026-05-24-DZIRE-TourSSCNG/)** | **[Maruti Suzuki e VITARA (^)](2026-05-22-eVITARA-Delta49kWhFWD/)** | **[Kia EV9 (^)](2026-04-11-EV9-GTLineAWD/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |
+| 24.05.26 | 22.05.26 | 11.04.26 |
+|  |  |  |
+| **[Mahindra XUV 3XO EV (^)](2026-04-10-XUV3XOEV-AX539kWh/)** | **[Tata PUNCH.EV (^)](2026-04-10-PUNCHEV-Smart30kWh/)** | **[Mahindra THAR (^)](2026-04-04-THAR-AXTRWD3door/)** |
+| **<span style="font-family: monospace; color: green;">PASS</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** |
+| 10.04.26 | 10.04.26 | 04.04.26 |
+|  |  |  |
+| **[Nissan GRAVITE (^)](2026-04-04-GRAVITE-Visia10B4D/)** | **[Kia SELTOS (^)](2026-04-04-SELTOS-HTESmartstreamG15/)** | **[Mahindra XUV 7XO (^)](2026-04-03-XUV7XO-AX/)** |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: green;">PASS</span>** |
+| 04.04.26 | 04.04.26 | 03.04.26 |
+|  |  |  |
+| **[Renault DUSTER (^)](2026-04-03-DUSTER-authenticTCe100/)** | **[Hyundai EXTER (^)](2026-04-03-EXTER-HX212Kappa2/)** |  |
+| **<span style="font-family: monospace; color: red;">FAIL</span>** | **<span style="font-family: monospace; color: red;">FAIL</span>** |  |
+| 03.04.26 | 03.04.26 |  |
+|  |  |  |
 
 (^) evaluation based on desktop research
 
